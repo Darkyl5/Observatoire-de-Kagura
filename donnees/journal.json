@@ -429,6 +429,279 @@
       "createdAt": 1790618201574,
       "updatedAt": 1790618585063,
       "tone": "difficile"
+    },
+    {
+      "id": "e_mulk9gg0cvqy4",
+      "template": "meteo",
+      "title": "Deux éclaires",
+      "dateRP": "09/10/792",
+      "place": "Kumogakure",
+      "peopleIds": [
+        "kagura"
+      ],
+      "type": "meteorologie",
+      "mood": "",
+      "text": "Question.\nEst-ce que deux éclairs peuvent suivre exactement le même chemin ?\nJ'en ai observé plusieurs ce soir.\nCertains semblaient tomber presque au même endroit mais leurs ramifications étaient différentes.\nSi la foudre cherche toujours le chemin le plus facile, pourquoi ce chemin change-t-il ?\nQuelque chose doit être différent entre deux impacts.\nL'air ?\nLes charges ?\nLe terrain ?\nPeut-être plusieurs choses en même temps.\nJe n'en sais rien.\nPour l'instant.\nDécouvertes\nLa forme d'un éclair n'est pas identique d'une décharge à une autre.",
+      "notes": "",
+      "discoveries": "La forme d'un éclair n'est pas identique d'une décharge à une autre.\nConséquences",
+      "discoveryIds": [],
+      "consequences": "Nouvelle question à étudier.",
+      "tags": [],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "Deux éclairs peuvent tomber presque au même endroit sans suivre exactement le même chemin. Leur trajectoire doit dépendre de quelque chose qui change constamment dans l’air ou dans les nuages. Peut-être les charges électriques, le vent ou plusieurs choses en même temps.",
+        "observation": "J’ai observé deux éclairs à quelques instants d’intervalle pendant le même orage. Les deux semblaient tomber dans la même zone, vers les falaises, mais leur forme était différente. Le deuxième possédait davantage de ramifications et semblait légèrement décalé.\nL’air était très humide, le vent assez fort et les cumulonimbus couvraient presque entièrement le ciel. J’ai également ressenti cette sensation étrange juste avant les deux décharges.",
+        "experiment": "J’ai essayé de rester exactement au même endroit et de dessiner les deux éclairs juste après leur apparition.\nJ’ai ensuite comparé leur point d’impact apparent, leur direction et leurs ramifications.\nMes dessins ne sont pas assez précis pour mesurer quoi que ce soit correctement, mais les différences sont suffisamment grandes pour être visibles.",
+        "result": "Les deux éclairs ont frappé une zone très proche mais n’avaient pas la même trajectoire.\nJe n’ai pas réussi à déterminer pourquoi.\nJe ne sais pas non plus si ma sensation juste avant les éclairs était réellement liée à l’électricité présente dans l’air.",
+        "conclusion": "Pour l’instant, je pense qu’un éclair ne possède pas un chemin fixe.\nQuelque chose change entre deux décharges et modifie sa trajectoire.\nUne seule soirée ne suffit pas pour comprendre quoi.\nIl faudra observer davantage d’orages et comparer les conditions à chaque fois.",
+        "schemaId": "img_mulkcj21n65oq"
+      },
+      "meteo": {
+        "temperature": "18 °C",
+        "wind": "28km",
+        "windDir": "SO",
+        "humidity": "86%",
+        "pressure": "1003 hPa",
+        "clouds": [
+          "Cumulonimbus"
+        ],
+        "rain": "moderee",
+        "storm": "proche",
+        "lightning": 3,
+        "personal": "Deux éclairs sont tombés presque au même endroit à quelques instants d'intervalle. Pourtant leurs trajectoires étaient différentes. Le deuxième possédait des ramifications que je n'avais pas remarquées sur le premier. Le vent était assez fort et l'air beaucoup plus lourd qu'avant l'orage. J'ai encore eu cette sensation étrange juste avant les décharges. Je ne sais toujours pas si je ressens réellement l'électricité présente dans l'air ou si je commence simplement à reconnaître inconsciemment les signes qui précèdent un éclair. À vérifier lors du prochain orage."
+      },
+      "images": [],
+      "margin": [
+        {
+          "id": "n_mulkgcs4l9wpg",
+          "text": "À vérifier",
+          "ink": "bleu",
+          "rot": -2,
+          "x": 66,
+          "y": 16
+        }
+      ],
+      "createdAt": 1790618903424,
+      "updatedAt": 1790619306301
+    },
+    {
+      "id": "e_mulkkmcunz57m",
+      "template": "journal",
+      "title": "Première page du carnet de Père que je ne comprends pas",
+      "dateRP": "13/05/791",
+      "place": "Maison familiale",
+      "peopleIds": [
+        "kagura"
+      ],
+      "type": "sciences",
+      "mood": "",
+      "text": "",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [],
+      "consequences": "",
+      "tags": [],
+      "important": false,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [],
+      "margin": [],
+      "createdAt": 1790619424302,
+      "updatedAt": 1790619477185
+    },
+    {
+      "id": "e_mulkobp66jxb1",
+      "template": "journal",
+      "title": "Première page du carnet de Père que je ne comprends pas",
+      "dateRP": "31/05/791",
+      "place": "Maison familiale",
+      "peopleIds": [
+        "kagura",
+        "p_mulkmeimwm8xk"
+      ],
+      "type": "sciences",
+      "mood": "",
+      "text": "J'ai trouvé une vieille page dans les affaires de Père.\nIl y a une carte du ciel avec plusieurs positions reliées entre elles et énormément de calculs autour.\nJe lui ai demandé ce que ça représentait.\nIl m'a répondu que je n'avais pas encore toutes les connaissances nécessaires pour comprendre correctement.\nMauvaise réponse.\nMaintenant je veux encore plus savoir.\nJ'ai essayé pendant presque deux heures.\nJe ne comprends toujours rien.\nJ'ai recopié la page.\nJe reviendrai dessus plus tard.\n",
+      "notes": "Il avait l'air beaucoup trop amusé lorsque je lui ai demandé de m'expliquer.\nJe suis certain qu'il fait exprès.",
+      "discoveries": "Aucune.",
+      "discoveryIds": [],
+      "consequences": "Page ajoutée aux questions sans réponse.",
+      "tags": [],
+      "important": false,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [
+        {
+          "id": "img_mulkt6fcncobo",
+          "caption": "",
+          "kind": "dessin",
+          "rot": 1.9
+        }
+      ],
+      "margin": [
+        {
+          "id": "n_mulkr1yiuaixh",
+          "text": "Demander au vieux",
+          "ink": "bleu",
+          "rot": 2.2,
+          "x": 66,
+          "y": 16
+        }
+      ],
+      "createdAt": 1790619597114,
+      "updatedAt": 1790619824031
+    },
+    {
+      "id": "e_mulktxauwdqmp",
+      "template": "journal",
+      "title": "La mauvaise étoile",
+      "dateRP": "",
+      "place": "",
+      "peopleIds": [],
+      "type": "aventure",
+      "mood": "",
+      "text": "",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [],
+      "consequences": "",
+      "tags": [],
+      "important": false,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [],
+      "margin": [],
+      "createdAt": 1790619858390,
+      "updatedAt": 1790619859628
+    },
+    {
+      "id": "e_mulkuevid6n98",
+      "template": "journal",
+      "title": "La mauvaise étoile",
+      "dateRP": "15/11/793",
+      "place": "Observatoire de Kagura",
+      "peopleIds": [
+        "kagura"
+      ],
+      "type": "astronomie",
+      "mood": "curieux",
+      "text": "'ai passé presque une heure à observer la mauvaise étoile.\nUne heure.\nJe pensais que sa position ne correspondait pas à ma carte.\nJ'ai commencé à me demander si la carte était fausse.\nLa carte n'était pas fausse.\nMoi oui.\nPère a trouvé ça très drôle.\nMoi moins.\nMais maintenant je sais exactement comment reconnaître celle que je cherchais.\nDonc techniquement cette heure n'était pas complètement inutile.",
+      "notes": "ÇA DEVAIT MARCHER",
+      "discoveries": "Toujours vérifier l'identification d'un astre avant de commencer des calculs dessus.\n",
+      "discoveryIds": [],
+      "consequences": "Ajouter une étape de vérification avant chaque observation.",
+      "tags": [],
+      "important": false,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [
+        {
+          "id": "img_mulkzfkyco88o",
+          "caption": "",
+          "kind": "dessin",
+          "rot": 4.4
+        }
+      ],
+      "margin": [
+        {
+          "id": "n_mulkx8981ghgd",
+          "text": "Ne jamais raconter ça à Genma",
+          "ink": "bleu",
+          "rot": 0.2,
+          "x": 66,
+          "y": 16
+        }
+      ],
+      "createdAt": 1790619881166,
+      "updatedAt": 1790620127592
+    },
+    {
+      "id": "e_mull0ozssodjw",
+      "template": "journal",
+      "title": "Pourquoi je regarde",
+      "dateRP": "01/1/792",
+      "place": "Hauteurs de Kumogakure",
+      "peopleIds": [
+        "kagura"
+      ],
+      "type": "souvenir",
+      "mood": "emerveille",
+      "text": "Je crois que j'ai compris pourquoi je peux rester ici pendant des heures alors que je déteste rester assis pendant les cours.\nÀ l'Académie, quelqu'un connaît généralement déjà la réponse.\nLe professeur pose une question.\nIl connaît la réponse.\nLe livre aussi.\nDans le ciel ce n'est pas pareil.\nMême Père ne connaît pas tout.\nPersonne ne connaît tout.\nChaque fois que j'apprends quelque chose, ça me montre surtout qu'il existe encore dix autres choses que je ne comprends pas.\nC'est peut-être ça que j'aime.\nJe ne risque jamais d'arriver au bout.",
+      "notes": "Il y aura toujours quelque chose là-haut que je ne connais pas encore.",
+      "discoveries": "",
+      "discoveryIds": [],
+      "consequences": "",
+      "tags": [],
+      "important": true,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [
+        {
+          "id": "img_mull6dust1xs2",
+          "caption": "",
+          "kind": "dessin",
+          "rot": 1
+        }
+      ],
+      "margin": [
+        {
+          "id": "n_mull3wruhpxyb",
+          "text": "Observer",
+          "ink": "bleu",
+          "rot": 3.3,
+          "x": 66,
+          "y": 16
+        },
+        {
+          "id": "n_mull48aoetmj7",
+          "text": "Comprendre",
+          "ink": "bleu",
+          "rot": 2.8,
+          "x": 4,
+          "y": 39
+        }
+      ],
+      "createdAt": 1790620174216,
+      "updatedAt": 1790620478521,
+      "history": [
+        {
+          "ts": 1790620478521,
+          "old": {
+            "title": "Pourquoi je regarde Lieu"
+          }
+        }
+      ]
     }
   ],
   "characters": [
@@ -483,6 +756,18 @@
       "portraitId": "img_muljrhta50w5p",
       "createdAt": 1790618000040,
       "updatedAt": 1790618150110
+    },
+    {
+      "id": "p_mulkmeimwm8xk",
+      "name": "Père de Kagura",
+      "clan": "",
+      "village": "",
+      "relation": "famille",
+      "relationText": "",
+      "firstMeeting": "",
+      "notes": "",
+      "createdAt": 1790619507454,
+      "updatedAt": 1790619557580
     }
   ],
   "places": {
@@ -520,6 +805,34 @@
       "x": 0.7678149645963879,
       "y": 0.27101942889470204,
       "at": 1790616739919
+    },
+    "observatoire de kagu": {
+      "key": "observatoire de kagu",
+      "name": "Observatoire de Kagu",
+      "x": 0.3075952382170584,
+      "y": 0.32211058097751477,
+      "at": 1790619453435
+    },
+    "maison familiale": {
+      "key": "maison familiale",
+      "name": "Maison familiale",
+      "x": 0.6663183100722541,
+      "y": 0.6060183478031292,
+      "at": 1790619463386
+    },
+    "maison": {
+      "key": "maison",
+      "name": "Maison",
+      "x": 0.36636830220147226,
+      "y": 0.7375838304659024,
+      "at": 1790619625191
+    },
+    "hauteur": {
+      "key": "hauteur",
+      "name": "Hauteur",
+      "x": 0.4706793108188266,
+      "y": 0.37991499092937214,
+      "at": 1790620233196
     }
   },
   "father": [
