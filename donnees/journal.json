@@ -2,49 +2,6 @@
   "v": 1,
   "entries": [
     {
-      "id": "e_mula03n6r74zq",
-      "template": "journal",
-      "title": "mamadou",
-      "dateRP": "tffgfesdfg",
-      "place": "t",
-      "peopleIds": [],
-      "type": "aventure",
-      "mood": "",
-      "text": "t",
-      "notes": "t*s^pokjdf d silkvc,ndmvl,dvokfmcl;vbdfop^lmf",
-      "discoveries": "t",
-      "discoveryIds": [],
-      "consequences": "t",
-      "tags": [],
-      "important": false,
-      "scientific": false,
-      "science": {
-        "hypothesis": "",
-        "observation": "",
-        "experiment": "",
-        "result": "",
-        "conclusion": ""
-      },
-      "images": [],
-      "margin": [],
-      "createdAt": 1790601670770,
-      "updatedAt": 1790604622078,
-      "history": [
-        {
-          "ts": 1790603763715,
-          "old": {
-            "notes": "t"
-          }
-        },
-        {
-          "ts": 1790604617780,
-          "old": {
-            "notes": "t*s^pokjdf d silkvc,ndmvl,dvokmcl;vbdfop^lmf"
-          }
-        }
-      ]
-    },
-    {
       "id": "auto_const-cas",
       "template": "celeste",
       "title": "Constellation reconstituée : Cassiopée",
@@ -197,6 +154,9 @@
     "showAuto": true
   },
   "meta": {
-    "created": 1790600775234
+    "created": 1790600775234,
+    "tomb": {
+      "e:e_mula03n6r74zq": 1790604982303
+    }
   }
 }
