@@ -1046,6 +1046,80 @@
       "auto": {
         "key": "storm:high"
       }
+    },
+    {
+      "id": "e_mulox7ns9gg6o",
+      "template": "meteo",
+      "title": "Quand l’air froid chasse l’air chaud",
+      "dateRP": "11/09/793",
+      "place": "Hauteurs de Kumogakure",
+      "peopleIds": [
+        "kagura"
+      ],
+      "type": "meteorologie",
+      "mood": "",
+      "text": "Père appelle ça un front froid.\nLe nom est assez mauvais.\nCe n’est pas vraiment un mur.\nMais ça agit presque comme un.\nUne masse d’air froid avance et comme elle est plus dense, elle passe sous l’air plus chaud qui se trouve devant elle.\nL’air chaud est alors forcé de monter.\nS’il contient suffisamment d’humidité et que les conditions sont bonnes, des nuages peuvent se développer très rapidement.\nEt parfois des cumulonimbus.\nDonc potentiellement des orages.\nCe qui devient beaucoup plus intéressant.\nLe plus utile est qu’un front se déplace.\nSi je connais sa position, sa direction et sa vitesse, je devrais pouvoir estimer approximativement quand il atteindra un endroit.\nPère m’a montré le calcul le plus simple.\nDistance divisée par vitesse.\n90 kilomètres à 30 kilomètres par heure.\nEnviron trois heures.\nÉvidemment la vraie météo refuse probablement d’être aussi simple.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [
+        "mt-front"
+      ],
+      "consequences": "",
+      "tags": [],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "Lorsqu’un front froid approche, certains changements comme le vent, la température, la pression et les nuages devraient permettre de détecter son passage.\nSi je connais sa vitesse et sa distance, je peux peut-être aussi estimer son heure d’arrivée.",
+        "observation": "Avant le passage du front, le vent s’est renforcé et des cumulonimbus se sont développés.\nUne pluie forte et plusieurs éclairs ont suivi.\nAprès son passage, la température avait nettement diminué et la pression commençait à remonter.",
+        "experiment": "Noter la position approximative du front.\nEstimer sa distance jusqu’à Kumo.\nMesurer sa vitesse de déplacement à partir de plusieurs observations.\nCalculer\ntemps = distance ÷ vitesse\nComparer ensuite l’heure prévue avec l’heure réelle de son arrivée.",
+        "result": "Distance estimée → environ 90 km\nVitesse estimée → environ 30 km/h\nPrévision → environ 3 heures\nLe changement de temps est arrivé approximativement dans la période attendue, mais mes mesures sont encore trop imprécises pour savoir si le calcul était réellement bon ou si j’ai simplement eu de la chance.",
+        "conclusion": "Un front froid semble laisser plusieurs indices avant son passage.\nLe plus intéressant serait donc de ne plus simplement observer un orage lorsqu’il est déjà au-dessus de moi.\nJe pourrais peut-être apprendre à prévoir son arrivée plusieurs heures avant.",
+        "schemaId": "img_mulp7a06bb1ge"
+      },
+      "meteo": {
+        "temperature": "21 °C  → 15 °C ",
+        "wind": "30 km/h",
+        "windDir": "O",
+        "humidity": "78 %",
+        "pressure": "1006 hPa",
+        "clouds": [
+          "Cumulus",
+          "Cumulonimbus"
+        ],
+        "rain": "forte",
+        "storm": "proche",
+        "lightning": 2,
+        "personal": "Le changement a été beaucoup plus brutal que pendant les pluies ordinaires.\nLe vent s’est renforcé avant l’arrivée des gros nuages. La température a ensuite chuté rapidement.\nAprès le passage de la pluie, l’air semblait beaucoup plus frais.\nÇa ressemble presque à une frontière invisible qui traverse Kumo."
+      },
+      "images": [],
+      "margin": [
+        {
+          "id": "n_mulp0p5pd6pw3",
+          "text": "Donc je peux peut-être savoir qu’un orage arrive AVANT de le voir ?",
+          "ink": "bleu",
+          "rot": 3.3,
+          "x": 66,
+          "y": 16
+        },
+        {
+          "id": "n_mulp0v9le7jj0",
+          "text": "Tester sur le prochain front.",
+          "ink": "bleu",
+          "rot": -2.6,
+          "x": 4,
+          "y": 39
+        },
+        {
+          "id": "n_mulp141azrwiw",
+          "text": "Ne pas annoncer fièrement “orage dans trois heures” à tout le monde avant d’être sûr.",
+          "ink": "bleu",
+          "rot": 1.7,
+          "x": 66,
+          "y": 62
+        }
+      ],
+      "createdAt": 1790626730248,
+      "updatedAt": 1790627320781
     }
   ],
   "characters": [
