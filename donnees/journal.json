@@ -656,6 +656,217 @@
           }
         }
       ]
+    },
+    {
+      "id": "e_mulna1m1rpwk8",
+      "template": "celeste",
+      "title": "J’ai essayé de mesurer le tonnerre",
+      "dateRP": "",
+      "place": "",
+      "peopleIds": [],
+      "type": "meteorologie",
+      "mood": "",
+      "text": "",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [],
+      "consequences": "",
+      "tags": [],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "celeste": {
+        "time": "",
+        "weather": "",
+        "visibility": 3,
+        "moon": 4,
+        "bodies": "",
+        "constellations": [],
+        "phenomenon": "",
+        "kaguraNotes": ""
+      },
+      "images": [],
+      "margin": [],
+      "createdAt": 1790623969705,
+      "updatedAt": 1790624457776
+    },
+    {
+      "id": "e_mulnklrtu4vs7",
+      "template": "meteo",
+      "title": "J’ai essayé de mesurer le tonnerre",
+      "dateRP": "06/11/792",
+      "place": "Hauteurs de Kumogakure",
+      "peopleIds": [
+        "kagura"
+      ],
+      "type": "meteorologie",
+      "mood": "curieux",
+      "text": "J’ai compté.\nÉclair.\nUn. Deux. Trois. Quatre.\nTonnerre.\nJ’ai recommencé au suivant et j’ai obtenu presque sept secondes.\nDonc soit l’orage se déplace extrêmement vite, soit les éclairs ne se produisent simplement pas tous au même endroit.\nPère m’a confirmé qu’on pouvait estimer leur distance avec ce délai.\nJe lui ai demandé comment.\nIl m’a répondu de chercher pourquoi le son arrive après la lumière.\nJe savais qu’il allait faire ça.",
+      "notes": "",
+      "discoveries": "La lumière et le son d’un même phénomène ne nous atteignent pas simultanément.",
+      "discoveryIds": [],
+      "consequences": "Comprendre comment utiliser le délai éclair-tonnerre pour estimer une distance.",
+      "tags": [],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "Le temps entre l’éclair et le tonnerre dépend de la distance qui me sépare de la décharge. Plus le délai est long, plus l’éclair doit être éloigné.",
+        "observation": "Pendant le même orage, j’ai obtenu des délais différents entre plusieurs éclairs et le tonnerre qui suivait. La lumière apparaît toujours avant que j’entende le bruit.",
+        "experiment": "Compter les secondes entre l’apparition d’un éclair et l’arrivée du tonnerre. Répéter la mesure sur plusieurs décharges du même orage et comparer les résultats.",
+        "result": "Les délais obtenus ne sont pas identiques. Certains éclairs semblent donc plus éloignés que d’autres. Je ne sais pas encore convertir correctement les secondes en distance.",
+        "conclusion": "Le délai semble contenir une information sur la distance de l’éclair. Il faut maintenant comprendre la différence de vitesse entre la lumière et le son."
+      },
+      "meteo": {
+        "temperature": "16 °C",
+        "wind": "31 km/h",
+        "windDir": "SO",
+        "humidity": "88 %",
+        "pressure": "1002 hPa",
+        "clouds": [
+          "Cumulonimbus"
+        ],
+        "rain": "moderee",
+        "storm": "lointain",
+        "lightning": 2,
+        "personal": "Le délai entre l’éclair et le tonnerre change à chaque décharge. Certains éclairs semblent beaucoup plus proches que d’autres.\nJ’ai commencé à compter les secondes mais je ne sais pas encore exactement comment transformer ça en distance."
+      },
+      "images": [
+        {
+          "id": "img_mulnyoym55uv5",
+          "caption": "",
+          "kind": "science",
+          "rot": 3.7
+        }
+      ],
+      "margin": [
+        {
+          "id": "n_mulnzrkjefx0z",
+          "text": "Refaire l’expérience",
+          "ink": "bleu",
+          "rot": -0.3,
+          "x": 66,
+          "y": 16
+        }
+      ],
+      "createdAt": 1790624462393,
+      "updatedAt": 1790625170200
+    },
+    {
+      "id": "e_mulo1ql7aezwu",
+      "template": "journal",
+      "title": "Père s’est trompé",
+      "dateRP": "09/11/792",
+      "place": "Atelier de Père",
+      "peopleIds": [
+        "kagura",
+        "p_mulkmeimwm8xk"
+      ],
+      "type": "famille",
+      "mood": "perdu",
+      "text": "J’ai trouvé une ancienne recherche de Père avec un énorme mot écrit dessus.\nRÉFUTÉ.\nIl avait passé plusieurs semaines dessus.\nJe lui ai demandé pourquoi il conservait quelque chose qu’il savait faux.\nIl m’a répondu que jeter ses erreurs reviendrait à prétendre qu’il avait toujours connu la bonne réponse.\nJe crois que j’aurais jeté la page.\nIl m’a aussi dit qu’une théorie fausse pouvait être utile si on comprenait pourquoi elle était fausse.\nC’est bizarre.\nMais je crois que je comprends.\nNotes personnelles",
+      "notes": "Ça ne signifie absolument pas que perdre devient acceptable.",
+      "discoveries": "Avoir tort et n’avoir rien appris sont deux choses différentes.",
+      "discoveryIds": [],
+      "consequences": "Je vais garder davantage de mes expériences ratées.",
+      "tags": [],
+      "important": false,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [
+        {
+          "id": "img_mulo61qsmj4hm",
+          "caption": "",
+          "kind": "dessin",
+          "rot": 0.6
+        }
+      ],
+      "margin": [],
+      "createdAt": 1790625261787,
+      "updatedAt": 1790625463327
+    },
+    {
+      "id": "e_mulo88yhg9pax",
+      "template": "celeste",
+      "title": "Pourquoi l’étoile bouge alors que je ne bouge pas",
+      "dateRP": "16/07/791",
+      "place": "Observatoire de Kagura",
+      "peopleIds": [
+        "kagura"
+      ],
+      "type": "astronomie",
+      "mood": "curieux",
+      "text": "J’essayais simplement de noter précisément où se trouvait une étoile.\nPère m’avait montré qu’il suffisait de mesurer deux choses.\nLa direction autour de l’horizon et la hauteur de l’étoile au-dessus de celui-ci.\nJ’ai fait la mesure.\nPuis j’ai attendu.\nQuand j’ai recommencé plus tard, les valeurs avaient changé.\nJ’ai cru que je m’étais trompé.\nJ’ai donc recommencé.\nEncore différentes.\nC’est seulement après plusieurs mesures que j’ai compris le problème.\nCe n’est pas l’étoile seule qu’il faut noter.\nIl faut aussi noter l’heure.\nLe ciel entier semble se déplacer progressivement au-dessus de Kumo.\nÉvidemment Père savait déjà ça.\nÉvidemment il ne m’avait pas prévenu.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [
+        "am-horizontal",
+        "c-cas",
+        "c-uma"
+      ],
+      "consequences": "",
+      "tags": [],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "Si je reste exactement au même endroit, les coordonnées horizontales d’une étoile changent progressivement avec le temps parce que le ciel présente un mouvement apparent au cours de la nuit.",
+        "observation": "J’ai observé la même étoile depuis exactement le même emplacement pendant environ deux heures.\nSa direction par rapport au nord et sa hauteur au-dessus de l’horizon ont toutes les deux changé.",
+        "experiment": "Choisir une étoile facilement identifiable.\nNe pas déplacer mon point d’observation.\nMesurer approximativement son azimut et sa hauteur toutes les trente minutes.\nReporter chaque mesure sur le même dessin.",
+        "result": "Les positions successives forment une trajectoire régulière dans le ciel.\nLes coordonnées horizontales ne sont donc pas fixes.\nElles dépendent au minimum du lieu d’observation et de l’heure.",
+        "conclusion": "Dire seulement « l’étoile est ici » ne suffit pas.\nIl faut aussi pouvoir répondre à deux questions.\nDepuis où\nEt quand"
+      },
+      "celeste": {
+        "time": "21 h 30 → 23 h 30",
+        "weather": "Ciel dégagé",
+        "visibility": 4,
+        "moon": 1,
+        "bodies": "Une étoile brillante choisit comme repère",
+        "constellations": [
+          "Grande Ourse",
+          "Cassiopée"
+        ],
+        "phenomenon": "Modification progressive de la position apparente de l’étoile au cours de la soirée Notes de Kagura",
+        "kaguraNotes": "’ai mesuré la même étoile plusieurs fois sans changer de position.\nPourtant sa hauteur et sa direction changent.\nDonc mes coordonnées sont correctes uniquement pour un lieu ET un moment précis.\nC’est beaucoup moins pratique que prévu."
+      },
+      "images": [
+        {
+          "id": "img_mulog5cgd478t",
+          "caption": "",
+          "kind": "dessin",
+          "rot": 3.5
+        }
+      ],
+      "margin": [
+        {
+          "id": "n_muloew9gbmbvr",
+          "text": "Donc si j’oublie d’écrire l’heure, toute ma mesure devient presque inutile. Génial.",
+          "ink": "bleu",
+          "rot": -0.4,
+          "x": 66,
+          "y": 16
+        },
+        {
+          "id": "n_muloeyih8drji",
+          "text": "ELLE BOUGE ENCORE",
+          "ink": "bleu",
+          "rot": -4.2,
+          "x": 4,
+          "y": 39
+        }
+      ],
+      "createdAt": 1790625565529,
+      "updatedAt": 1790625941355
     }
   ],
   "characters": [
@@ -787,6 +998,20 @@
       "x": 0.4706793108188266,
       "y": 0.37991499092937214,
       "at": 1790620233196
+    },
+    "hauteurs de kumo": {
+      "key": "hauteurs de kumo",
+      "name": "Hauteurs de Kumo",
+      "x": 0.8254682165437663,
+      "y": 0.2105397407736427,
+      "at": 1790624444172
+    },
+    "atelier de pere": {
+      "key": "atelier de pere",
+      "name": "Atelier de Père",
+      "x": 0.8314995295255211,
+      "y": 0.46005526464593843,
+      "at": 1790625285022
     }
   },
   "father": [
