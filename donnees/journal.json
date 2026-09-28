@@ -1552,6 +1552,138 @@
       "margin": [],
       "createdAt": 1790632815587,
       "updatedAt": 1790633096704
+    },
+    {
+      "id": "auto_astro-vega",
+      "template": "celeste",
+      "title": "Mesure astrométrique : Véga",
+      "dateRP": "",
+      "place": "Observatoire de Kagura",
+      "peopleIds": [],
+      "type": "sciences",
+      "mood": "",
+      "text": "Relevé automatique de l’observatoire de Kumogakure.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [
+        "am-vega"
+      ],
+      "consequences": "",
+      "tags": [
+        "Astrométrie"
+      ],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "",
+        "observation": "Position relevée : α ≈ 18 h 36 min 56 s, δ ≈ +38° 47′.",
+        "experiment": "Visée à l’alidade, lecture de l’azimut et de la hauteur, conversion en coordonnées équatoriales.",
+        "result": "",
+        "conclusion": "Véga : α ≈ 18 h 37 min, δ ≈ +38° 47′. Depuis Kumogakure (42° N), elle peut passer presque au zénith."
+      },
+      "celeste": {
+        "time": "",
+        "weather": "Ciel dégagé",
+        "visibility": 4,
+        "moon": 0,
+        "bodies": "Véga",
+        "constellations": [],
+        "phenomenon": "Mesure de position",
+        "kaguraNotes": "Deuxième mesure. Je tremble moins."
+      },
+      "images": [],
+      "margin": [],
+      "createdAt": 1790633792591,
+      "updatedAt": 1790633792591,
+      "auto": {
+        "key": "astro:vega"
+      }
+    },
+    {
+      "id": "auto_rods-1",
+      "template": "journal",
+      "title": "Paratonnerres : village 1 protégé",
+      "dateRP": "",
+      "place": "",
+      "peopleIds": [],
+      "type": "orage",
+      "mood": "",
+      "text": "Relevé automatique de l’observatoire de Kumogakure.\n\nRéseau de paratonnerres installé avant l’orage.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [
+        "lr-rod"
+      ],
+      "consequences": "",
+      "tags": [
+        "Orage",
+        "Foudre"
+      ],
+      "important": false,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [],
+      "margin": [],
+      "createdAt": 1790633866907,
+      "updatedAt": 1790633866907,
+      "auto": {
+        "key": "rods:1"
+      }
+    },
+    {
+      "id": "auto_const-ori",
+      "template": "celeste",
+      "title": "Constellation reconstituée : Orion",
+      "dateRP": "",
+      "place": "Observatoire de Kagura",
+      "peopleIds": [],
+      "type": "astronomie",
+      "mood": "",
+      "text": "Relevé automatique de l’observatoire de Kumogakure.\n\nBételgeuse est une supergéante rouge ; son éclat varie. Il y a quelques années, elle a nettement faibli pendant plusieurs mois : ce « grand obscurcissement » a été attribué à un nuage de poussière qu’elle avait elle‑même éjecté.\n\nRigel, au contraire, est une supergéante bleue : la couleur d’une étoile indique la température de sa surface.\n\nSous la ceinture (Alnitak, Alnilam, Mintaka) brille la nébuleuse d’Orion (M42), une pouponnière d’étoiles située à environ 1 300 années‑lumière.\n\nPosé sur l’équateur céleste, Orion se voit depuis tous les pays shinobis, du Pays des Neiges au désert du Pays du Vent : c’est la grande constellation des soirées d’hiver.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [
+        "c-ori"
+      ],
+      "consequences": "",
+      "tags": [
+        "Astronomie",
+        "Constellations"
+      ],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "celeste": {
+        "time": "",
+        "weather": "Ciel dégagé",
+        "visibility": 4,
+        "moon": 0,
+        "bodies": "Rigel, Bételgeuse, Bellatrix",
+        "constellations": [
+          "Orion"
+        ],
+        "phenomenon": "",
+        "kaguraNotes": "Bételgeuse rouge, Rigel bleue. Même constellation, pas du tout la même température. Pas du tout la même distance non plus !"
+      },
+      "images": [],
+      "margin": [],
+      "createdAt": 1790633982187,
+      "updatedAt": 1790633982187,
+      "auto": {
+        "key": "const:ori"
+      }
     }
   ],
   "characters": [
@@ -1937,7 +2069,8 @@
       "e:e_mula03n6r74zq": 1790604982303,
       "e:e_mulkkmcunz57m": 1790620653538,
       "f:f_mulhi1kftjaal": 1790621048146,
-      "e:e_mulktxauwdqmp": 1790621611226
+      "e:e_mulktxauwdqmp": 1790621611226,
+      "l:l_mulsxgdeui05u": 1790633463057
     }
   }
 }
