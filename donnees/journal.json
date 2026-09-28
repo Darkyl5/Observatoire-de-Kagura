@@ -147,6 +147,55 @@
       "domains": [
         "inconnu"
       ]
+    },
+    {
+      "id": "auto_const-uma",
+      "template": "celeste",
+      "title": "Constellation reconstituée : Grande Ourse",
+      "dateRP": "",
+      "place": "Observatoire de Kagura",
+      "peopleIds": [],
+      "type": "astronomie",
+      "mood": "",
+      "text": "Relevé automatique de l’observatoire de Kumogakure.\n\nLa « casserole » de sept étoiles n’est qu’une partie de la constellation de la Grande Ourse : c’est un astérisme.\n\nEn prolongeant d’environ cinq fois l’écart entre Merak et Dubhe, on tombe sur l’étoile Polaire.\n\nMizar possède une compagne visible à l’œil nu, Alcor. Au télescope, Mizar elle‑même se dédouble.\n\nCinq des sept étoiles (toutes sauf Dubhe et Alkaid) voyagent ensemble dans l’espace : c’est le groupe mobile de la Grande Ourse.\n\nDepuis Kumogakure, les sept étoiles de la casserole ne se couchent jamais. À Sunagakure, plus au sud, elles plongent sous l’horizon nord au début des nuits d’automne.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [
+        "c-uma"
+      ],
+      "consequences": "",
+      "tags": [
+        "Astronomie",
+        "Constellations"
+      ],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "celeste": {
+        "time": "",
+        "weather": "Ciel dégagé",
+        "visibility": 4,
+        "moon": 0,
+        "bodies": "Dubhe, Alioth, Alkaid",
+        "constellations": [
+          "Grande Ourse"
+        ],
+        "phenomenon": "",
+        "kaguraNotes": "Premier repère que papa m’a appris. Pointeurs → Polaire. Toujours."
+      },
+      "images": [],
+      "margin": [],
+      "createdAt": 1790614006110,
+      "updatedAt": 1790614006110,
+      "auto": {
+        "key": "const:uma"
+      }
     }
   ],
   "characters": [
@@ -165,19 +214,20 @@
     },
     {
       "id": "p_mulbs7dz2rkdu",
+      "name": "Hoboro",
       "clan": "Hatori",
       "village": "Kumo",
       "relation": "superieur",
       "relationText": "Chef Hôpital et de la section scientifique",
       "firstMeeting": "",
       "notes": "Il est chiant ",
+      "portraitId": "img_mulbt10qc0jx6",
       "createdAt": 1790604661607,
-      "name": "Hoboro",
-      "updatedAt": 1790604706927,
-      "portraitId": "img_mulbt10qc0jx6"
+      "updatedAt": 1790604706927
     },
     {
       "id": "p_mulgtqwlrruus",
+      "name": "Genma Arashi",
       "clan": "",
       "village": "",
       "relation": "inconnu",
@@ -185,7 +235,6 @@
       "firstMeeting": "",
       "notes": "",
       "createdAt": 1790613131637,
-      "name": "Genma Arashi",
       "updatedAt": 1790613131637
     }
   ],
