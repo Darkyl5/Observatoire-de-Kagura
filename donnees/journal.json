@@ -62,7 +62,7 @@
       "id": "auto_astro-polaris",
       "template": "celeste",
       "title": "Mesure astrométrique : Polaris",
-      "dateRP": "",
+      "dateRP": "28/12/792",
       "place": "Observatoire de Kagura",
       "peopleIds": [],
       "type": "sciences",
@@ -87,7 +87,7 @@
         "conclusion": "L’étoile Polaire est à moins d’un degré du pôle nord céleste. Sa hauteur au‑dessus de l’horizon est presque égale à la latitude de l’observateur : environ 42° à Kumogakure, 25° seulement dans le désert du Pays du Vent."
       },
       "celeste": {
-        "time": "",
+        "time": "1h23",
         "weather": "Ciel dégagé",
         "visibility": 4,
         "moon": 0,
@@ -99,10 +99,18 @@
       "images": [],
       "margin": [],
       "createdAt": 1790604838627,
-      "updatedAt": 1790604838627,
+      "updatedAt": 1790617578533,
       "auto": {
         "key": "astro:polaris"
-      }
+      },
+      "history": [
+        {
+          "ts": 1790617558797,
+          "old": {
+            "dateRP": ""
+          }
+        }
+      ]
     },
     {
       "id": "e_mulgs0235lewr",
@@ -319,6 +327,59 @@
         "meteorologie"
       ],
       "failNote": "C'étais super intéressant, "
+    },
+    {
+      "id": "e_muliyvm889wyo",
+      "template": "journal",
+      "title": "Genma réfléchit trop",
+      "dateRP": "28/09/793",
+      "place": "Terrain d'entraînement de Kumo",
+      "peopleIds": [
+        "p_mulgtqwlrruus",
+        "kagura"
+      ],
+      "type": "entrainement",
+      "mood": "frustre",
+      "text": "Genma dit que je fonce trop vite.\nJe lui ai expliqué que ce n'était pas vrai.\nJe réfléchis.\nSimplement plus rapidement que lui.\nIl m'a demandé ce que je ferais si je rencontrais quelqu'un que je ne pouvais pas battre.\nJ'ai répondu que je trouverais comment le battre.\nApparemment ce n'était pas la bonne réponse.\nIl a commencé à m'expliquer quelque chose sur les objectifs d'une mission et la différence entre gagner un combat et réussir une mission.\nJe comprends ce qu'il veut dire.\nJe pense quand même qu'il réfléchit trop.",
+      "notes": "Un jour je vais réussir à le battre.\nPas aujourd'hui apparemment.",
+      "discoveries": "Gagner un affrontement et accomplir un objectif ne sont pas forcément la même chose.",
+      "discoveryIds": [],
+      "consequences": "Aucune.",
+      "tags": [],
+      "important": true,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [
+        {
+          "id": "img_muljft8z2ql15",
+          "caption": "",
+          "kind": "dessin",
+          "rot": -1
+        }
+      ],
+      "margin": [
+        {
+          "id": "n_mulj2cn9lvkga",
+          "text": "Refaire l’expérience",
+          "ink": "bleu",
+          "rot": 1.8,
+          "x": 66,
+          "y": 16
+        }
+      ],
+      "createdAt": 1790616730256,
+      "updatedAt": 1790617664366,
+      "f": {
+        "progres": "Aucun, Genma réfléchit trop et ça m'énerve ",
+        "duree": "2h"
+      },
+      "failNote": "J'EN AI MARRE DE GENMA!"
     }
   ],
   "characters": [
@@ -390,6 +451,13 @@
       "x": 0.815089995958833,
       "y": 0.32256127914177485,
       "at": 1790615894428
+    },
+    "terrain d'entrainement de kumo": {
+      "key": "terrain d'entrainement de kumo",
+      "name": "Terrain d'entraînement de Kumo",
+      "x": 0.7678149645963879,
+      "y": 0.27101942889470204,
+      "at": 1790616739919
     }
   },
   "father": [
