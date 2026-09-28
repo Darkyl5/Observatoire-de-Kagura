@@ -5,7 +5,7 @@
       "id": "auto_const-cas",
       "template": "celeste",
       "title": "Constellation reconstituée : Cassiopée",
-      "dateRP": "",
+      "dateRP": "28/09/792",
       "place": "Observatoire de Kagura",
       "peopleIds": [],
       "type": "astronomie",
@@ -31,7 +31,7 @@
         "conclusion": ""
       },
       "celeste": {
-        "time": "",
+        "time": "22h40",
         "weather": "Ciel dégagé",
         "visibility": 4,
         "moon": 0,
@@ -45,10 +45,18 @@
       "images": [],
       "margin": [],
       "createdAt": 1790604774018,
-      "updatedAt": 1790604774018,
+      "updatedAt": 1790615038675,
       "auto": {
         "key": "const:cas"
-      }
+      },
+      "history": [
+        {
+          "ts": 1790615026711,
+          "old": {
+            "dateRP": ""
+          }
+        }
+      ]
     },
     {
       "id": "auto_astro-polaris",
@@ -152,7 +160,7 @@
       "id": "auto_const-uma",
       "template": "celeste",
       "title": "Constellation reconstituée : Grande Ourse",
-      "dateRP": "",
+      "dateRP": "28/09/792",
       "place": "Observatoire de Kagura",
       "peopleIds": [],
       "type": "astronomie",
@@ -178,7 +186,7 @@
         "conclusion": ""
       },
       "celeste": {
-        "time": "",
+        "time": "23h08",
         "weather": "Ciel dégagé",
         "visibility": 4,
         "moon": 0,
@@ -192,10 +200,18 @@
       "images": [],
       "margin": [],
       "createdAt": 1790614006110,
-      "updatedAt": 1790614006110,
+      "updatedAt": 1790614994439,
       "auto": {
         "key": "const:uma"
-      }
+      },
+      "history": [
+        {
+          "ts": 1790614986586,
+          "old": {
+            "dateRP": ""
+          }
+        }
+      ]
     },
     {
       "id": "e_mulhnwmbp6lhk",
