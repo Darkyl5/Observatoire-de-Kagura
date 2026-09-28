@@ -196,6 +196,48 @@
       "auto": {
         "key": "const:uma"
       }
+    },
+    {
+      "id": "e_mulhnwmbp6lhk",
+      "template": "journal",
+      "title": "Première nuit seul",
+      "dateRP": "28/09/792",
+      "place": "Kumogakure",
+      "peopleIds": [
+        "kagura"
+      ],
+      "type": "pensee",
+      "mood": "excite",
+      "text": "J’ai essayé de refaire une observation sans Père.\nJ’ai reconnu plusieurs étoiles sans regarder ses cartes.\nJ’en ai confondu deux au début.\nJ’ai recommencé.\nCette fois j’étais sûr.\nC’est bizarre.\nLe ciel paraît beaucoup plus grand quand personne n’est là pour te montrer où regarder.",
+      "notes": "Je m'en souviendrais toujours de celle là !",
+      "discoveries": "Cette constellation est assez simple et facile a voir ! Peut être que je suis biaisé car c'est la première que je vois seul mais elle est magnifique....",
+      "discoveryIds": [
+        "c-cas"
+      ],
+      "consequences": "",
+      "tags": [
+        "Constellations"
+      ],
+      "important": false,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [
+        {
+          "id": "img_mulhqwkkanubw",
+          "caption": "Première constel. observer!",
+          "kind": "constellation",
+          "rot": 1.3
+        }
+      ],
+      "margin": [],
+      "createdAt": 1790614538723,
+      "updatedAt": 1790614868982
     }
   ],
   "characters": [
