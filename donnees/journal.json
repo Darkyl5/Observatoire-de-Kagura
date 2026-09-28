@@ -542,35 +542,6 @@
       "updatedAt": 1790619824031
     },
     {
-      "id": "e_mulktxauwdqmp",
-      "template": "journal",
-      "title": "La mauvaise étoile",
-      "dateRP": "",
-      "place": "",
-      "peopleIds": [],
-      "type": "aventure",
-      "mood": "",
-      "text": "",
-      "notes": "",
-      "discoveries": "",
-      "discoveryIds": [],
-      "consequences": "",
-      "tags": [],
-      "important": false,
-      "scientific": false,
-      "science": {
-        "hypothesis": "",
-        "observation": "",
-        "experiment": "",
-        "result": "",
-        "conclusion": ""
-      },
-      "images": [],
-      "margin": [],
-      "createdAt": 1790619858390,
-      "updatedAt": 1790619859628
-    },
-    {
       "id": "e_mulkuevid6n98",
       "template": "journal",
       "title": "La mauvaise étoile",
@@ -851,7 +822,8 @@
     "tomb": {
       "e:e_mula03n6r74zq": 1790604982303,
       "e:e_mulkkmcunz57m": 1790620653538,
-      "f:f_mulhi1kftjaal": 1790621048146
+      "f:f_mulhi1kftjaal": 1790621048146,
+      "e:e_mulktxauwdqmp": 1790621611226
     }
   }
 }
