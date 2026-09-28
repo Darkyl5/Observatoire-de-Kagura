@@ -116,7 +116,7 @@
       "id": "e_mulgs0235lewr",
       "template": "journal",
       "title": "Les lunettes sont toujours ridicules",
-      "dateRP": "28/09/793",
+      "dateRP": "01/02/791",
       "place": "Observatoire de Kagura",
       "peopleIds": [
         "p_mulgtqwlrruus"
@@ -157,11 +157,19 @@
         }
       ],
       "createdAt": 1790613050187,
-      "updatedAt": 1790613708987,
+      "updatedAt": 1790620701687,
       "tone": "neutre",
       "failNote": "Elle sont pas si mal finalement",
       "domains": [
         "inconnu"
+      ],
+      "history": [
+        {
+          "ts": 1790620695556,
+          "old": {
+            "dateRP": "28/09/793"
+          }
+        }
       ]
     },
     {
@@ -486,37 +494,6 @@
       "updatedAt": 1790619306301
     },
     {
-      "id": "e_mulkkmcunz57m",
-      "template": "journal",
-      "title": "Première page du carnet de Père que je ne comprends pas",
-      "dateRP": "13/05/791",
-      "place": "Maison familiale",
-      "peopleIds": [
-        "kagura"
-      ],
-      "type": "sciences",
-      "mood": "",
-      "text": "",
-      "notes": "",
-      "discoveries": "",
-      "discoveryIds": [],
-      "consequences": "",
-      "tags": [],
-      "important": false,
-      "scientific": false,
-      "science": {
-        "hypothesis": "",
-        "observation": "",
-        "experiment": "",
-        "result": "",
-        "conclusion": ""
-      },
-      "images": [],
-      "margin": [],
-      "createdAt": 1790619424302,
-      "updatedAt": 1790619477185
-    },
-    {
       "id": "e_mulkobp66jxb1",
       "template": "journal",
       "title": "Première page du carnet de Père que je ne comprends pas",
@@ -644,7 +621,7 @@
       "id": "e_mull0ozssodjw",
       "template": "journal",
       "title": "Pourquoi je regarde",
-      "dateRP": "01/1/792",
+      "dateRP": "01/1/791",
       "place": "Hauteurs de Kumogakure",
       "peopleIds": [
         "kagura"
@@ -693,12 +670,18 @@
         }
       ],
       "createdAt": 1790620174216,
-      "updatedAt": 1790620478521,
+      "updatedAt": 1790620667736,
       "history": [
         {
           "ts": 1790620478521,
           "old": {
             "title": "Pourquoi je regarde Lieu"
+          }
+        },
+        {
+          "ts": 1790620667736,
+          "old": {
+            "dateRP": "01/1/792"
           }
         }
       ]
@@ -760,14 +743,14 @@
     {
       "id": "p_mulkmeimwm8xk",
       "name": "Père de Kagura",
-      "clan": "",
-      "village": "",
+      "clan": "Arashi",
+      "village": "Kumo",
       "relation": "famille",
-      "relationText": "",
+      "relationText": "Mon père",
       "firstMeeting": "",
-      "notes": "",
+      "notes": "Mon père est probablement la première personne qui m’a appris qu’on pouvait passer des heures à regarder quelque chose sans forcément s’ennuyer.\nIl est passionné par les Sciences du Ciel depuis bien avant ma naissance. Astronomie, astrométrie, météorologie, électricité atmosphérique et probablement encore une dizaine de domaines dont je ne comprends même pas le nom. Son bureau est constamment rempli de cartes, de calculs, de morceaux d’instruments et de carnets. Il affirme qu’il sait exactement où tout se trouve. Je suis presque certain que c’est faux.\nC’est lui qui m’a appris à reconnaître mes premières étoiles et mes premières constellations. Quand j’étais plus petit, je pensais qu’il connaissait absolument tout sur le ciel. Maintenant je sais que ce n’est pas vrai. Ce qui est encore pire parce que lorsqu’il ne connaît pas quelque chose, il devient immédiatement obsédé par l’idée de le comprendre.\nJe crois que j’ai hérité ça de lui.\nIl ne me donne pas toujours les réponses. C’est même particulièrement énervant. Il préfère me donner une piste puis attendre que je trouve le reste moi-même. Quand je lui demande pourquoi, il répond que connaître une réponse et comprendre une réponse sont deux choses différentes.\nJe déteste quand ses phrases ont du sens.\nSes recherches sont beaucoup plus avancées que les miennes. J’ai essayé de lire certains de ses anciens carnets et je comprends parfois une page entière avant de tomber sur trois lignes de calculs qui me rappellent immédiatement que j’ai douze ans. J’en ai quand même recopié plusieurs. Je finirai par les comprendre.\nIl possède aussi les lunettes les plus ridicules jamais fabriquées. Elles sont énormes, lourdes et remplies de mécanismes. Il les utilise depuis des années pour ses observations. Je me suis moqué de lui tellement souvent à cause de ces lunettes qu’il serait probablement très satisfait de savoir que je commence à les trouver intéressantes.\nMais je ne lui dirai pas.\nPère n’est pas seulement celui qui m’a appris à regarder le ciel.\nC’est celui qui m’a appris que lorsqu’on ne comprend pas quelque chose, la bonne réponse n’est pas forcément de l’accepter.\nParfois, il suffit de continuer à regarder.\nEt de poser encore une question.",
       "createdAt": 1790619507454,
-      "updatedAt": 1790619557580
+      "updatedAt": 1790620604183
     }
   ],
   "places": {
@@ -837,14 +820,26 @@
   },
   "father": [
     {
-      "id": "f_mulhi1kftjaal",
-      "title": "Page sans titre",
+      "id": "f_mulledz5g225y",
+      "title": "Variations du champ électrique avant une décharge",
       "kind": "recherche",
-      "date": "",
-      "text": "",
-      "annotations": [],
-      "createdAt": 1790614265199,
-      "updatedAt": 1790614265199
+      "date": "17/06/786",
+      "text": "Plusieurs relevés effectués sur les hauteurs orientales de Kumo présentent une anomalie récurrente. Dans les instants précédant certaines décharges visibles, l'intensité du champ électrique local connaît une variation brutale.\nCette variation n'annonce pas nécessairement un impact. Plusieurs événements similaires ont été enregistrés sans décharge nuage-sol immédiatement observable. Il serait donc incorrect d'en faire un indicateur suffisant.\nL'hypothèse actuelle est que ces variations correspondent à une réorganisation locale des charges à l'intérieur de la cellule orageuse.\nLa difficulté reste la mesure. Les instruments actuels réagissent trop lentement et les relevés obtenus depuis différents points d'observation présentent des écarts importants.\nProchaine étape. Installer trois stations autour de la vallée et synchroniser leurs mesures.\nSi le phénomène apparaît simultanément sur plusieurs instruments, l'origine atmosphérique pourra être considérée comme beaucoup plus probable.\nNe pas chercher à prédire l'éclair.\nComprendre d'abord ce qui le précède.",
+      "annotations": [
+        {
+          "id": "a_mullkrlrwm70i",
+          "text": "JE COMPREND RIEN C'EST TROP DUR",
+          "createdAt": 1790621110719
+        },
+        {
+          "id": "a_mulll2xnx51oy",
+          "text": "Mais ce graphique a aucun sens ?",
+          "createdAt": 1790621125403
+        }
+      ],
+      "createdAt": 1790620813121,
+      "updatedAt": 1790621125403,
+      "imageId": "img_mullk4vc988r0"
     }
   ],
   "settings": {
@@ -854,7 +849,9 @@
   "meta": {
     "created": 1790600775234,
     "tomb": {
-      "e:e_mula03n6r74zq": 1790604982303
+      "e:e_mula03n6r74zq": 1790604982303,
+      "e:e_mulkkmcunz57m": 1790620653538,
+      "f:f_mulhi1kftjaal": 1790621048146
     }
   }
 }
