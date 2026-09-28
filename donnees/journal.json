@@ -867,6 +867,185 @@
       ],
       "createdAt": 1790625565529,
       "updatedAt": 1790625941355
+    },
+    {
+      "id": "e_muloj6grnmkd4",
+      "template": "celeste",
+      "title": "Une étoile peut me dire où je suis",
+      "dateRP": "30/04/792",
+      "place": "Observatoire de Kagura",
+      "peopleIds": [
+        "kagura"
+      ],
+      "type": "astronomie",
+      "mood": "",
+      "text": "Je pensais que Père utilisait Polaris uniquement pour trouver le nord.\nC’est déjà pratique.\nMais apparemment on peut faire mieux.\nSi je mesure sa hauteur au-dessus de l’horizon, l’angle obtenu correspond presque à la latitude de l’endroit où je me trouve.\nÀ Kumo, je devrais donc toujours retrouver approximativement la même valeur si j’observe depuis la même région.\nMais si je voyage suffisamment vers le sud, Polaris devrait descendre progressivement vers l’horizon.\nEt si je vais vers le nord, elle devrait monter.\nDonc théoriquement je pourrais partir très loin, regarder une seule étoile et obtenir une information sur l’endroit où je me trouve.\nPère naviguait comme ça.\nJe comprends maintenant pourquoi il insistait autant pour que j’apprenne à reconnaître Polaris.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [],
+      "consequences": "",
+      "tags": [],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "La hauteur de Polaris au-dessus de l’horizon varie selon la latitude de l’observateur.",
+        "observation": "Polaris reste presque immobile dans le ciel au cours de mon observation. Sa hauteur mesurée depuis Kumo est proche de la latitude indiquée sur les cartes de Père.",
+        "experiment": "Repérer Polaris grâce à la Petite Ourse.\nMesurer son angle au-dessus de l’horizon.\nRecommencer plusieurs nuits depuis le même endroit.\nLors d’un futur voyage vers le nord ou le sud, refaire exactement la même mesure et comparer.",
+        "result": "Les premières mesures réalisées depuis Kumo donnent des valeurs proches les unes des autres.\nElles correspondent approximativement à la latitude attendue.\nIl faudra voyager pour réellement tester la deuxième partie.",
+        "conclusion": "Polaris peut servir à deux choses.\nTrouver approximativement le nord.\nEt estimer la latitude.\nJe peux donc obtenir une information sur ma propre position simplement en mesurant une étoile.",
+        "schemaId": "img_mulooki1sgmy0"
+      },
+      "celeste": {
+        "time": "22 h 10",
+        "weather": "Quelques nuages",
+        "visibility": 4,
+        "moon": 2,
+        "bodies": "Polaris",
+        "constellations": [
+          "Grande Ourse",
+          "Petite Ourse"
+        ],
+        "phenomenon": "Polaris semble conserver une position presque fixe alors que les autres étoiles se déplacent progressivement autour d’elle.",
+        "kaguraNotes": "Polaris est beaucoup plus utile que je pensais.\nPère l’utilisait pour s’orienter.\nSa hauteur au-dessus de l’horizon semble donner approximativement notre latitude.\nDonc regarder le ciel peut réellement permettre de savoir où l’on se trouve."
+      },
+      "images": [],
+      "margin": [
+        {
+          "id": "n_mulonjzq5j7kh",
+          "text": "PLUS JE VAIS AU NORD → PLUS ELLE MONTE",
+          "ink": "bleu",
+          "rot": -1.4,
+          "x": 66,
+          "y": 16
+        },
+        {
+          "id": "n_mulonp9ajot4u",
+          "text": "PLUS JE VAIS AU SUD → PLUS ELLE DESCEND",
+          "ink": "bleu",
+          "rot": -4.6,
+          "x": 4,
+          "y": 39
+        },
+        {
+          "id": "n_mulonx3rn7rce",
+          "text": "i je me perds un jour, regarder en haut avant de paniquer",
+          "ink": "bleu",
+          "rot": 4.8,
+          "x": 66,
+          "y": 62
+        },
+        {
+          "id": "n_muloo84ywfe3l",
+          "text": "Yuji paniquera sûrement avant moi.",
+          "ink": "bleu",
+          "rot": -3.2,
+          "x": 4,
+          "y": 85
+        }
+      ],
+      "createdAt": 1790626075515,
+      "updatedAt": 1790626327456
+    },
+    {
+      "id": "auto_storm-front",
+      "template": "meteo",
+      "title": "Orage prévu sur Amagumo",
+      "dateRP": "",
+      "place": "Amagumo",
+      "peopleIds": [],
+      "type": "orage",
+      "mood": "",
+      "text": "Relevé automatique de l’observatoire de Kumogakure.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [
+        "mt-front"
+      ],
+      "consequences": "",
+      "tags": [
+        "Météorologie",
+        "Orage"
+      ],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "meteo": {
+        "temperature": "27 °C",
+        "wind": "16 km/h",
+        "windDir": "S",
+        "humidity": "84 %",
+        "pressure": "1008 hPa",
+        "clouds": [
+          "Cumulus",
+          "Cumulonimbus"
+        ],
+        "rain": "forte",
+        "storm": "proche",
+        "lightning": 3,
+        "personal": "Front froid à 90 km, 30 km/h vers l’est : arrivée en trois heures. Air chaud et très humide près du lac. Prévision juste."
+      },
+      "images": [],
+      "margin": [],
+      "createdAt": 1790626488199,
+      "updatedAt": 1790626488199,
+      "auto": {
+        "key": "storm:front"
+      }
+    },
+    {
+      "id": "auto_storm-high",
+      "template": "meteo",
+      "title": "Haute pression sur les vallées",
+      "dateRP": "",
+      "place": "Vallées de Kumo",
+      "peopleIds": [],
+      "type": "meteorologie",
+      "mood": "",
+      "text": "Relevé automatique de l’observatoire de Kumogakure.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [
+        "mt-anticyclone"
+      ],
+      "consequences": "",
+      "tags": [
+        "Météorologie",
+        "Orage"
+      ],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "meteo": {
+        "temperature": "24 °C",
+        "wind": "6 km/h",
+        "windDir": "Variable",
+        "humidity": "35 %",
+        "pressure": "1030 hPa",
+        "clouds": [],
+        "rain": "aucune",
+        "storm": "non",
+        "lightning": 0,
+        "personal": "Anticyclone : l’air descend, se réchauffe et s’assèche. Aucun orage possible. Nuit parfaite pour observer."
+      },
+      "images": [],
+      "margin": [],
+      "createdAt": 1790626497575,
+      "updatedAt": 1790626497575,
+      "auto": {
+        "key": "storm:high"
+      }
     }
   ],
   "characters": [
@@ -1012,6 +1191,20 @@
       "x": 0.8314995295255211,
       "y": 0.46005526464593843,
       "at": 1790625285022
+    },
+    "amagumo": {
+      "key": "amagumo",
+      "name": "Amagumo",
+      "x": 0.752,
+      "y": 0.318,
+      "at": 1790626488199
+    },
+    "vallees de kumo": {
+      "key": "vallees de kumo",
+      "name": "Vallées de Kumo",
+      "x": 0.765,
+      "y": 0.3,
+      "at": 1790626497575
     }
   },
   "father": [
