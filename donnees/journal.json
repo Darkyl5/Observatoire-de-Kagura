@@ -1120,6 +1120,123 @@
       ],
       "createdAt": 1790626730248,
       "updatedAt": 1790627320781
+    },
+    {
+      "id": "e_mulpewnewclx2",
+      "template": "celeste",
+      "title": "Le présage de la comète",
+      "dateRP": "18/11/792",
+      "place": "Observatoire de Kagura",
+      "peopleIds": [
+        "kagura"
+      ],
+      "type": "astronomie",
+      "mood": "emerveille",
+      "text": "J’ai trouvé une vieille histoire racontant qu’une comète avait annoncé une guerre.\nPuis une autre où une comète annonçait la mort d’un dirigeant.\nPuis une troisième où elle annonçait une catastrophe.\nÇa fait beaucoup de responsabilités pour un caillou.\nPère m’a montré quelque chose de beaucoup plus intéressant.\nCertaines comètes reviennent.\nLeur passage peut être calculé longtemps avant qu’elles réapparaissent.\nDonc les anciens regardaient probablement quelque chose qu’ils ne comprenaient pas encore et lui donnaient une signification.\nJe ne pense pas que ça rende leurs histoires inutiles.\nAu contraire.\nJe veux savoir pourquoi autant de peuples ont eu peur des comètes.\nMais si une comète revient exactement quand les calculs disent qu’elle reviendra, je vais plutôt faire confiance aux calculs qu’au présage.",
+      "notes": "",
+      "discoveries": "Les croyances autour d’un phénomène et son fonctionnement réel peuvent raconter deux histoires différentes.",
+      "discoveryIds": [
+        "as-comet",
+        "c-cas"
+      ],
+      "consequences": "Commencer à collectionner les anciennes interprétations astromantiques des phénomènes célestes et les comparer aux observations astronomiques.",
+      "tags": [],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "Les comètes considérées comme des présages pourraient être des phénomènes célestes réguliers dont certaines trajectoires permettent de prévoir le retour. Leur apparition ne serait donc pas provoquée par les événements humains auxquels les anciennes traditions les associent.",
+        "observation": "Plusieurs anciens récits associent l’apparition de comètes à des guerres, des morts ou des changements politiques. Pourtant, les archives astronomiques de Père montrent que certaines comètes ont été observées plusieurs fois à intervalles relativement réguliers.",
+        "experiment": "Comparer les dates de passages consignées dans plusieurs archives avec les événements auxquels les traditions les associent. Étudier ensuite les anciens calculs de trajectoire de Père pour déterminer si certains retours pouvaient être anticipés indépendamment de ces événements.",
+        "result": "Les passages étudiés suivent une logique astronomique beaucoup plus régulière que les événements humains auxquels ils ont été associés. Une comète peut revenir sans qu’un événement particulier se produise.",
+        "conclusion": "Pour l’instant, rien ne montre qu’une comète annonce un événement humain. Les présages semblent être des interprétations ajoutées après l’observation du phénomène.\nCela ne rend pas les traditions inutiles. Elles racontent surtout comment les hommes comprenaient le ciel avant de pouvoir prévoir certains de ses phénomènes."
+      },
+      "celeste": {
+        "time": "22 h 47",
+        "weather": "Quelques nuages",
+        "visibility": 3,
+        "moon": 7,
+        "bodies": "Comète · étoiles environnantes",
+        "constellations": [
+          "Cassiopée",
+          "Persée"
+        ],
+        "phenomenon": "Passage d’une comète visible depuis Kumo",
+        "kaguraNotes": "Certains anciens textes de Kumo considèrent les comètes comme l’annonce d’un grand bouleversement.\nPère possède pourtant des relevés montrant que certaines reviennent selon une trajectoire prévisible.\nAlors pourquoi appeler présage quelque chose dont on peut prévoir le retour"
+      },
+      "images": [
+        {
+          "id": "img_mulppjhqqw2ep",
+          "caption": "",
+          "kind": "dessin",
+          "rot": -2.5
+        }
+      ],
+      "margin": [
+        {
+          "id": "n_mulpp4bi5llgo",
+          "text": "Comprendre une croyance ≠ devoir y croire.",
+          "ink": "bleu",
+          "rot": 1.7,
+          "x": 66,
+          "y": 16
+        }
+      ],
+      "createdAt": 1790627555786,
+      "updatedAt": 1790628052407
+    },
+    {
+      "id": "e_mulpqhjg1710t",
+      "template": "celeste",
+      "title": "Le Soleil a disparu et tout le monde avait une explication",
+      "dateRP": "27/11/792",
+      "place": "Bibliothèque de Kumogakure",
+      "peopleIds": [],
+      "type": "astronomie",
+      "mood": "excite",
+      "text": "J’ai passé la soirée à lire des histoires sur les éclipses.\nC’est incroyable.\nPersonne n’était d’accord.\nDans certaines régions, quelque chose dévore l’astre.\nAilleurs, c’est un avertissement.\nAilleurs encore, l’éclipse annonce la fin d’une époque.\nMais Père possède des schémas permettant d’expliquer comment le Soleil, notre planète et la Lune peuvent s’aligner.\nEt surtout les éclipses peuvent être prévues.\nÇa change beaucoup de choses.\nUn présage est censé annoncer quelque chose que nous ignorons.\nMais si quelqu’un peut écrire des années auparavant\n« l’éclipse aura lieu ce jour-là »\nalors le ciel n’est pas en train de nous prévenir.\nIl fait simplement ce qu’il devait faire.\nJe trouve quand même les histoires de dragon beaucoup plus intéressantes que les calculs.\nJe garderai donc les deux.",
+      "notes": "",
+      "discoveries": "Un phénomène céleste prévisible peut malgré tout devenir un symbole complètement différent selon la culture qui l’observe.",
+      "discoveryIds": [
+        "as-mars"
+      ],
+      "consequences": "Créer deux catégories dans mes recherches.\nCE QUE LE CIEL FAIT\net\nCE QUE LES HOMMES DISENT QU’IL SIGNIFIE\nJe pense que les deux valent la peine d’être étudiées.",
+      "tags": [],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "Si les éclipses sont produites par des alignements réguliers entre les astres, leur apparition devrait pouvoir être prévue sans utiliser l’astromancie.",
+        "observation": "Les anciennes traditions donnent des significations très différentes aux éclipses alors qu’elles décrivent toutes un phénomène céleste similaire. Les archives de Père contiennent également plusieurs éclipses dont la date avait été calculée avant leur apparition.",
+        "experiment": "Comparer les dates d’anciennes éclipses avec les calculs astronomiques conservés dans les archives. Étudier ensuite la position du Soleil, de la planète et de la Lune pour rechercher une configuration commune.",
+        "result": "Les éclipses étudiées correspondent à des configurations géométriques particulières des astres. Leur apparition peut donc être anticipée à partir de leurs mouvements sans avoir besoin d’interpréter un présage.\nConclusion",
+        "conclusion": "Une éclipse peut être prédite parce que les astres suivent des mouvements suffisamment réguliers pour être étudiés.\nLe dragon, le démon ou le mauvais présage appartiennent aux histoires des hommes.\nL’alignement appartient au ciel.\nJe veux comprendre les deux, mais ne pas les confondre.",
+        "schemaId": "img_mulpzktqxbqao"
+      },
+      "celeste": {
+        "time": "20 h 25",
+        "weather": "Ciel dégagé",
+        "visibility": 4,
+        "moon": 4,
+        "bodies": "La Lune",
+        "constellations": [
+          "Taureau",
+          "Gémeaux"
+        ],
+        "phenomenon": "Étude d’anciens relevés d’éclipses plutôt qu’observation directe d’une éclipse ce soir-là",
+        "kaguraNotes": "Pays de l’Eau.\nDragon.\nPays de la Terre.\nDémon.\nKumo.\nMauvais présage.\nTout le monde observait pourtant le même ciel."
+      },
+      "images": [],
+      "margin": [
+        {
+          "id": "n_mulpvzsunue93",
+          "text": "Ce qui se prédit avec des calculs n’a pas besoin d’être un signe.",
+          "ink": "bleu",
+          "rot": 0.5,
+          "x": 66,
+          "y": 16
+        }
+      ],
+      "createdAt": 1790628096076,
+      "updatedAt": 1790628520705
     }
   ],
   "characters": [
@@ -1279,6 +1396,13 @@
       "x": 0.765,
       "y": 0.3,
       "at": 1790626497575
+    },
+    "bibliotheque de kumogakure": {
+      "key": "bibliotheque de kumogakure",
+      "name": "Bibliothèque de Kumogakure",
+      "x": 0.8267515316934342,
+      "y": 0.2796655726065138,
+      "at": 1790628117096
     }
   },
   "father": [
