@@ -95,6 +95,58 @@
       "auto": {
         "key": "astro:polaris"
       }
+    },
+    {
+      "id": "e_mulgs0235lewr",
+      "template": "journal",
+      "title": "Les lunettes sont toujours ridicules",
+      "dateRP": "28/09/793",
+      "place": "Observatoire de Kagura",
+      "peopleIds": [
+        "p_mulgtqwlrruus"
+      ],
+      "type": "famille",
+      "mood": "perdu",
+      "text": "J’ai essayé les lunettes de Père aujourd’hui.\nElles sont toujours beaucoup trop grosses.\nJe comprends mieux à quoi servent les réglages sur les côtés maintenant. Je pensais que la petite roue était cassée quand j’étais petit.\nJ’ai réussi à observer plus précisément une partie du ciel avec.\nJe maintiens quand même ce que j’ai toujours dit.\nElles sont ridicules.\nJe vais les garder.",
+      "notes": "Ne pas dire à Genma que je les aime bien.",
+      "discoveries": "",
+      "discoveryIds": [],
+      "consequences": "Je vais peut être les porter plus longtemps",
+      "tags": [],
+      "important": true,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [
+        {
+          "id": "img_mulh3ylswo8be",
+          "caption": "",
+          "kind": "personnage",
+          "rot": -2.8
+        }
+      ],
+      "margin": [
+        {
+          "id": "n_mulgx0ao2balc",
+          "text": "Demander au vieux",
+          "ink": "bleu",
+          "rot": -2.4,
+          "x": 66,
+          "y": 16
+        }
+      ],
+      "createdAt": 1790613050187,
+      "updatedAt": 1790613708987,
+      "tone": "neutre",
+      "failNote": "Elle sont pas si mal finalement",
+      "domains": [
+        "inconnu"
+      ]
     }
   ],
   "characters": [
@@ -123,6 +175,18 @@
       "name": "Hoboro",
       "updatedAt": 1790604706927,
       "portraitId": "img_mulbt10qc0jx6"
+    },
+    {
+      "id": "p_mulgtqwlrruus",
+      "clan": "",
+      "village": "",
+      "relation": "inconnu",
+      "relationText": "",
+      "firstMeeting": "",
+      "notes": "",
+      "createdAt": 1790613131637,
+      "name": "Genma Arashi",
+      "updatedAt": 1790613131637
     }
   ],
   "places": {
