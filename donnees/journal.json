@@ -261,7 +261,18 @@
       "at": 1790604774018
     }
   },
-  "father": [],
+  "father": [
+    {
+      "id": "f_mulhi1kftjaal",
+      "title": "Page sans titre",
+      "kind": "recherche",
+      "date": "",
+      "text": "",
+      "annotations": [],
+      "createdAt": 1790614265199,
+      "updatedAt": 1790614265199
+    }
+  ],
   "settings": {
     "hand": true,
     "showAuto": true
