@@ -1,0 +1,36 @@
+{
+  "v": 1,
+  "entries": [],
+  "characters": [
+    {
+      "id": "kagura",
+      "name": "Kagura Arashi",
+      "clan": "Arashi",
+      "village": "Kumogakure",
+      "relation": "autre",
+      "relationText": "moi‑même",
+      "firstMeeting": "",
+      "notes": "Genin de Kumogakure. Affinité Raiton. Passionné par les Sciences du Ciel.",
+      "self": true,
+      "createdAt": 1,
+      "updatedAt": 0
+    }
+  ],
+  "places": {
+    "kumogakure": {
+      "key": "kumogakure",
+      "name": "Kumogakure",
+      "x": 0.805,
+      "y": 0.255,
+      "at": 0
+    }
+  },
+  "father": [],
+  "settings": {
+    "hand": true,
+    "showAuto": true
+  },
+  "meta": {
+    "created": 1790600775234
+  }
+}

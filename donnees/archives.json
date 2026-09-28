@@ -1,0 +1,33 @@
+{
+  "records": [
+    {
+      "id": "obj-lunettes",
+      "kind": "objet",
+      "sub": "heritage",
+      "title": "Lunettes d’astronome du père",
+      "text": "Les lunettes d’astronome de papa. Je les trouve ridicules, mais je les porte souvent sur le front, pour lui et pour ses recherches.",
+      "when": "",
+      "until": "",
+      "places": [],
+      "people": [
+        "pere"
+      ],
+      "domains": [],
+      "tags": [],
+      "f": {
+        "origine": "Héritées de mon père",
+        "proprietaire": "pere",
+        "importance": 5,
+        "etat": "use",
+        "motscles": [
+          "lunettes"
+        ]
+      },
+      "images": [],
+      "createdAt": 3,
+      "updatedAt": 0
+    }
+  ],
+  "links": [],
+  "archive": {}
+}
