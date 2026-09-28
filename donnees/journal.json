@@ -1303,6 +1303,255 @@
         "lecon": "Il est trop rapide pour moi",
         "decisif": "Je l'ai anticipé et j'ai pu le toucher !"
       }
+    },
+    {
+      "id": "e_mulrhe8y7aniz",
+      "template": "journal",
+      "title": "Mère sait toujours",
+      "dateRP": "02/12/792",
+      "place": "Maison familiale",
+      "peopleIds": [
+        "kagura",
+        "p_mulrff2mte9de"
+      ],
+      "type": "famille",
+      "mood": "fatigue",
+      "text": "Je suis rentré avec la manche déchirée.\nJ’avais préparé une excellente explication.\nJe n’ai même pas eu le temps de commencer.\nMère m’a regardé.\nPuis elle a demandé\n« Combien de fois »\nJ’ai répondu\n« Trois »\nElle a demandé\n« Combien de fois après qu’on t’a dit d’arrêter »\nJ’ai répondu\n« Deux »\nJe ne comprends toujours pas comment elle sait.\nElle a réparé ma manche pendant que je mangeais.\nElle m’a dit que devenir shinobi ne m’autorisait pas à devenir idiot.\nJe lui ai expliqué que les deux choses n’avaient aucun rapport.\nElle n’a pas trouvé ça drôle",
+      "notes": "Trouver comment Mère sait toujours.\nProbablement impossible.",
+      "discoveries": "",
+      "discoveryIds": [],
+      "consequences": "",
+      "tags": [],
+      "important": false,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [
+        {
+          "id": "img_mulrl8060ac2o",
+          "caption": "",
+          "kind": "dessin",
+          "rot": -0.5
+        }
+      ],
+      "margin": [],
+      "createdAt": 1790631031138,
+      "updatedAt": 1790631210132
+    },
+    {
+      "id": "e_mulrmv9tv2b5s",
+      "template": "journal",
+      "title": "La règle des trois revanches",
+      "dateRP": "07/12/792",
+      "place": "Terrain d'entraînement de Kumo",
+      "peopleIds": [
+        "kagura",
+        "p_muljq3e03ufpg"
+      ],
+      "type": "combat",
+      "mood": "fatigue",
+      "text": "Nouvelle règle.\nAprès une défaite, j’ai droit à une revanche.\nSi je perds la revanche, j’ai droit à une deuxième revanche parce que la première pouvait être une erreur.\nSi je perds encore, j’ai droit à une troisième parce qu’à ce stade j’ai suffisamment appris pour que le combat soit différent.\nYuji affirme que j’invente simplement des règles jusqu’à gagner.\nC’est complètement faux.\nAujourd’hui\nPremier combat → défaite.\nDeuxième → défaite.\nTroisième → presque.\nQuatrième → victoire.\nDonc techniquement ma méthode fonctionne.\nYuji refuse de reconnaître le quatrième combat parce qu’il n’avait jamais accepté une quatrième revanche.\nDétail administratif.",
+      "notes": "Score officiel\nKagura 1\nYuji 3\nScore selon moi\nKagura 1\nYotsuki 0",
+      "discoveries": "",
+      "discoveryIds": [],
+      "consequences": "",
+      "tags": [],
+      "important": false,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [
+        {
+          "id": "img_mulru927qkwr3",
+          "caption": "",
+          "kind": "dessin",
+          "rot": -0.2
+        }
+      ],
+      "margin": [],
+      "createdAt": 1790631286481,
+      "updatedAt": 1790631631403,
+      "f": {
+        "resultat": "victoire",
+        "raison": "Entrainement ",
+        "allies": [
+          "kagura"
+        ],
+        "adversaires": [
+          "p_muljq3e03ufpg"
+        ],
+        "techniques": [
+          "r:r_mulqh81wdsubi",
+          "r:r_mulqgz6v1kf08"
+        ],
+        "blessures": "Aucune",
+        "erreurs": "Fatigué",
+        "decisif": "4ème combat",
+        "lecon": "Il faut apprendre de chaque combat"
+      }
+    },
+    {
+      "id": "e_mulrwvhojnfg3",
+      "template": "journal",
+      "title": "Mon petit frère veut venir",
+      "dateRP": "10/12/792",
+      "place": "Maison familiale",
+      "peopleIds": [
+        "kagura",
+        "p_mulrvogwoyyqh"
+      ],
+      "type": "famille",
+      "mood": "inquiet",
+      "text": "Il veut venir s’entraîner avec moi.\nJ’ai dit non.\nIl a demandé pourquoi puisque Genma m’emmenait parfois avec lui quand j’étais plus jeune.\nMauvais argument parce que maintenant je comprends pourquoi Genma trouvait ça énervant.\nIl a insisté.\nEncore.\nEncore.\nEncore.\nJe me demande de qui il tient ça.\nJe lui ai finalement montré deux exercices simples.\nIl était content.\nJe lui ai dit de ne surtout pas essayer le Raiton tout seul.\nIl a demandé pourquoi.\nJ’ai entendu exactement ma propre voix.\nC’était horrible.",
+      "notes": "Je comprends Genma de plus en plus.\nNe jamais lui dire.",
+      "discoveries": "",
+      "discoveryIds": [],
+      "consequences": "",
+      "tags": [],
+      "important": false,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [
+        {
+          "id": "img_muls1p6e6vo43",
+          "caption": "",
+          "kind": "dessin",
+          "rot": 2.1
+        }
+      ],
+      "margin": [],
+      "createdAt": 1790631753324,
+      "updatedAt": 1790631978884
+    },
+    {
+      "id": "e_muls2anomfmwm",
+      "template": "journal",
+      "title": "Trois contre un",
+      "dateRP": "14/12/792",
+      "place": "Terrain d'entraînement de Kumo",
+      "peopleIds": [
+        "p_muljq3e03ufpg",
+        "kagura"
+      ],
+      "type": "combat",
+      "mood": "",
+      "text": "J’ai proposé trois contre un.\nJ’étais le un.\nTrès mauvaise idée.\nAu début je pensais pouvoir éliminer le plus faible rapidement puis transformer le combat en deux contre un.\nLe problème est que les trois avaient visiblement compris que j’allais faire exactement ça.\nJ’ai passé beaucoup plus de temps à esquiver qu’à attaquer.\nJ’ai perdu.\nMais j’ai remarqué quelque chose.\nQuand plusieurs adversaires attaquent ensemble, regarder uniquement celui qui est devant moi ne suffit plus.\nJe dois savoir où sont les autres même quand je ne les regarde pas directement.\nGenma appelle ça la conscience du terrain.\nMoi j’appelle ça extrêmement agaçant.",
+      "notes": "",
+      "discoveries": "Un combat n’est pas seulement l’adversaire devant moi.\nConséquence",
+      "discoveryIds": [],
+      "consequences": "Commencer des entraînements contre plusieurs adversaires.",
+      "tags": [],
+      "important": false,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [
+        {
+          "id": "img_mulsietay1xar",
+          "caption": "",
+          "kind": "dessin",
+          "rot": 0.8
+        }
+      ],
+      "margin": [],
+      "createdAt": 1790632006260,
+      "updatedAt": 1790632758605,
+      "f": {
+        "resultat": "defaite",
+        "allies": [
+          "kagura"
+        ],
+        "adversaires": [
+          "p_muljq3e03ufpg",
+          "p_muls70sqohdkv"
+        ],
+        "raison": "Entrainemen",
+        "techniques": [
+          "r:r_mulqh81wdsubi",
+          "r:r_mulqgz6v1kf08"
+        ],
+        "blessures": "Aucune",
+        "erreurs": "Trop nombreux",
+        "decisif": "",
+        "lecon": "Ne pas regarder que devant sois"
+      }
+    },
+    {
+      "id": "e_mulsjn4z01l26",
+      "template": "celeste",
+      "title": "Une heure sans parler",
+      "dateRP": "28/12/792",
+      "place": "",
+      "peopleIds": [
+        "kagura",
+        "p_muljq3e03ufpg"
+      ],
+      "type": "yotsuki",
+      "mood": "",
+      "text": "Yuji est venu avec moi.\nJe pensais lui montrer plusieurs constellations.\nFinalement on n’a presque pas parlé.\nOn est restés assis pendant environ une heure.\nIl n’a pas essayé de prétendre qu’une constellation représentait ma dernière défaite.\nMoi je n’ai pas essayé de lui expliquer quelque chose.\nC’était calme.\nJe crois que c’est la première fois qu’on reste ensemble aussi longtemps sans compétition.\nJe ne lui dirai évidemment jamais que j’ai apprécié.",
+      "notes": "À refaire.\nMais avec nourriture.",
+      "discoveries": "",
+      "discoveryIds": [
+        "c-uma",
+        "c-cas"
+      ],
+      "consequences": "",
+      "tags": [],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "celeste": {
+        "time": "00 h 12",
+        "weather": "Ciel dégagé",
+        "visibility": 4,
+        "moon": 1,
+        "bodies": "Polaris",
+        "constellations": [
+          "Grande Ourse",
+          "Petite Ourse",
+          "Cassiopée"
+        ],
+        "phenomenon": "Aucun",
+        "kaguraNotes": "Rien de rare ce soir.\nC’était quand même bien."
+      },
+      "images": [
+        {
+          "id": "img_mulspnov968ov",
+          "caption": "",
+          "kind": "dessin",
+          "rot": 2
+        }
+      ],
+      "margin": [],
+      "createdAt": 1790632815587,
+      "updatedAt": 1790633096704
     }
   ],
   "characters": [
@@ -1369,6 +1618,42 @@
       "notes": "Mon père est probablement la première personne qui m’a appris qu’on pouvait passer des heures à regarder quelque chose sans forcément s’ennuyer.\nIl est passionné par les Sciences du Ciel depuis bien avant ma naissance. Astronomie, astrométrie, météorologie, électricité atmosphérique et probablement encore une dizaine de domaines dont je ne comprends même pas le nom. Son bureau est constamment rempli de cartes, de calculs, de morceaux d’instruments et de carnets. Il affirme qu’il sait exactement où tout se trouve. Je suis presque certain que c’est faux.\nC’est lui qui m’a appris à reconnaître mes premières étoiles et mes premières constellations. Quand j’étais plus petit, je pensais qu’il connaissait absolument tout sur le ciel. Maintenant je sais que ce n’est pas vrai. Ce qui est encore pire parce que lorsqu’il ne connaît pas quelque chose, il devient immédiatement obsédé par l’idée de le comprendre.\nJe crois que j’ai hérité ça de lui.\nIl ne me donne pas toujours les réponses. C’est même particulièrement énervant. Il préfère me donner une piste puis attendre que je trouve le reste moi-même. Quand je lui demande pourquoi, il répond que connaître une réponse et comprendre une réponse sont deux choses différentes.\nJe déteste quand ses phrases ont du sens.\nSes recherches sont beaucoup plus avancées que les miennes. J’ai essayé de lire certains de ses anciens carnets et je comprends parfois une page entière avant de tomber sur trois lignes de calculs qui me rappellent immédiatement que j’ai douze ans. J’en ai quand même recopié plusieurs. Je finirai par les comprendre.\nIl possède aussi les lunettes les plus ridicules jamais fabriquées. Elles sont énormes, lourdes et remplies de mécanismes. Il les utilise depuis des années pour ses observations. Je me suis moqué de lui tellement souvent à cause de ces lunettes qu’il serait probablement très satisfait de savoir que je commence à les trouver intéressantes.\nMais je ne lui dirai pas.\nPère n’est pas seulement celui qui m’a appris à regarder le ciel.\nC’est celui qui m’a appris que lorsqu’on ne comprend pas quelque chose, la bonne réponse n’est pas forcément de l’accepter.\nParfois, il suffit de continuer à regarder.\nEt de poser encore une question.",
       "createdAt": 1790619507454,
       "updatedAt": 1790620604183
+    },
+    {
+      "id": "p_mulrff2mte9de",
+      "clan": "Arashi",
+      "village": "Kumo",
+      "relation": "famille",
+      "relationText": "Maman",
+      "firstMeeting": "",
+      "notes": "Ma mère c'est la meilleur, elle fait tout bien. Elle ne rate jamais rien. Elle est trop forte pour ce monde finalement",
+      "createdAt": 1790630938894,
+      "name": "Mère de Kagura",
+      "updatedAt": 1790631019979
+    },
+    {
+      "id": "p_mulrvogwoyyqh",
+      "clan": "Arashi",
+      "village": "Kumo",
+      "relation": "famille",
+      "relationText": "Mon ptit frère",
+      "firstMeeting": "",
+      "notes": "C'est mon petit frère, il veut malheureusement grandir trop vite mais je le comprend, il veut juste pas être mis a l'écart, rien de pire pour un guerrier.",
+      "createdAt": 1790631697568,
+      "name": "Petit frère",
+      "updatedAt": 1790631751255
+    },
+    {
+      "id": "p_muls70sqohdkv",
+      "clan": "",
+      "village": "",
+      "relation": "inconnu",
+      "relationText": "",
+      "firstMeeting": "",
+      "notes": "",
+      "createdAt": 1790632226762,
+      "name": "2 autres",
+      "updatedAt": 1790632226762
     }
   ],
   "places": {
@@ -1469,6 +1754,27 @@
       "x": 0.8267515316934342,
       "y": 0.2796655726065138,
       "at": 1790628117096
+    },
+    "mai": {
+      "key": "mai",
+      "name": "Mai",
+      "x": 0.3144932644196072,
+      "y": 0.2959161441028796,
+      "at": 1790631053994
+    },
+    "te": {
+      "key": "te",
+      "name": "te",
+      "x": 0.23952787098929468,
+      "y": 0.31578044175406805,
+      "at": 1790631308208
+    },
+    "ter": {
+      "key": "ter",
+      "name": "ter",
+      "x": 0.4414681810050896,
+      "y": 0.4600358909244907,
+      "at": 1790631308844
     }
   },
   "father": [
