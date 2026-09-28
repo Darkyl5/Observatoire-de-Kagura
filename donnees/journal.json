@@ -11,7 +11,7 @@
       "type": "aventure",
       "mood": "",
       "text": "t",
-      "notes": "t*s^pokjdf d silkvc,ndmvl,dvokmcl;vbdfop^lmf",
+      "notes": "t*s^pokjdf d silkvc,ndmvl,dvokfmcl;vbdfop^lmf",
       "discoveries": "t",
       "discoveryIds": [],
       "consequences": "t",
@@ -28,15 +28,116 @@
       "images": [],
       "margin": [],
       "createdAt": 1790601670770,
-      "updatedAt": 1790603767382,
+      "updatedAt": 1790604622078,
       "history": [
         {
           "ts": 1790603763715,
           "old": {
             "notes": "t"
           }
+        },
+        {
+          "ts": 1790604617780,
+          "old": {
+            "notes": "t*s^pokjdf d silkvc,ndmvl,dvokmcl;vbdfop^lmf"
+          }
         }
       ]
+    },
+    {
+      "id": "auto_const-cas",
+      "template": "celeste",
+      "title": "Constellation reconstituée : Cassiopée",
+      "dateRP": "",
+      "place": "Observatoire de Kagura",
+      "peopleIds": [],
+      "type": "astronomie",
+      "mood": "",
+      "text": "Relevé automatique de l’observatoire de Kumogakure.\n\nSon « W » est facile à repérer : il se trouve de l’autre côté de l’étoile Polaire par rapport à la Grande Ourse.\n\nDepuis le Pays de la Foudre, Cassiopée est circumpolaire : elle tourne autour de la Polaire sans jamais se coucher. Dans le désert du Pays du Vent, plus au sud, elle plonge quelques heures sous l’horizon nord.\n\nLes archives de l’observatoire racontent qu’il y a plusieurs siècles, une « étoile nouvelle » y brilla assez fort pour être vue en plein jour : une supernova. Un autre reste d’étoile explosée, Cassiopée A, est l’une des sources radio les plus brillantes du ciel.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [
+        "c-cas"
+      ],
+      "consequences": "",
+      "tags": [
+        "Astronomie",
+        "Constellations"
+      ],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "celeste": {
+        "time": "",
+        "weather": "Ciel dégagé",
+        "visibility": 4,
+        "moon": 0,
+        "bodies": "Schedar, Caph, γ Cas",
+        "constellations": [
+          "Cassiopée"
+        ],
+        "phenomenon": "",
+        "kaguraNotes": "Un W, ou un M, selon l’heure. Le ciel tourne, pas elle."
+      },
+      "images": [],
+      "margin": [],
+      "createdAt": 1790604774018,
+      "updatedAt": 1790604774018,
+      "auto": {
+        "key": "const:cas"
+      }
+    },
+    {
+      "id": "auto_astro-polaris",
+      "template": "celeste",
+      "title": "Mesure astrométrique : Polaris",
+      "dateRP": "",
+      "place": "Observatoire de Kagura",
+      "peopleIds": [],
+      "type": "sciences",
+      "mood": "",
+      "text": "Relevé automatique de l’observatoire de Kumogakure.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [
+        "am-polaris"
+      ],
+      "consequences": "",
+      "tags": [
+        "Astrométrie"
+      ],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "",
+        "observation": "Position relevée : α ≈ 2 h 31 min 49 s, δ ≈ +89° 16′.",
+        "experiment": "Visée à l’alidade, lecture de l’azimut et de la hauteur, conversion en coordonnées équatoriales.",
+        "result": "",
+        "conclusion": "L’étoile Polaire est à moins d’un degré du pôle nord céleste. Sa hauteur au‑dessus de l’horizon est presque égale à la latitude de l’observateur : environ 42° à Kumogakure, 25° seulement dans le désert du Pays du Vent."
+      },
+      "celeste": {
+        "time": "",
+        "weather": "Ciel dégagé",
+        "visibility": 4,
+        "moon": 0,
+        "bodies": "Polaris",
+        "constellations": [],
+        "phenomenon": "Mesure de position",
+        "kaguraNotes": "Papa naviguait comme ça : mesurer Polaris = savoir où l’on est."
+      },
+      "images": [],
+      "margin": [],
+      "createdAt": 1790604838627,
+      "updatedAt": 1790604838627,
+      "auto": {
+        "key": "astro:polaris"
+      }
     }
   ],
   "characters": [
@@ -52,6 +153,19 @@
       "self": true,
       "createdAt": 1,
       "updatedAt": 0
+    },
+    {
+      "id": "p_mulbs7dz2rkdu",
+      "clan": "Hatori",
+      "village": "Kumo",
+      "relation": "superieur",
+      "relationText": "Chef Hôpital et de la section scientifique",
+      "firstMeeting": "",
+      "notes": "Il est chiant ",
+      "createdAt": 1790604661607,
+      "name": "Hoboro",
+      "updatedAt": 1790604706927,
+      "portraitId": "img_mulbt10qc0jx6"
     }
   ],
   "places": {
@@ -68,6 +182,13 @@
       "x": 0.2654858884181561,
       "y": 0.2849949681739951,
       "at": 1790601676114
+    },
+    "observatoire de kagura": {
+      "key": "observatoire de kagura",
+      "name": "Observatoire de Kagura",
+      "x": 0.838,
+      "y": 0.205,
+      "at": 1790604774018
     }
   },
   "father": [],
