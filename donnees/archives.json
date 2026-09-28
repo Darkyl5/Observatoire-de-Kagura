@@ -26,6 +26,72 @@
       "images": [],
       "createdAt": 3,
       "updatedAt": 1790604549221
+    },
+    {
+      "id": "r_mulqgoe1j4m1t",
+      "kind": "technique",
+      "sub": "",
+      "title": "Ra",
+      "text": "",
+      "when": "792-11-30",
+      "until": "",
+      "places": [
+        "terrain d'entrainement de kumo"
+      ],
+      "people": [
+        "p_mulgtqwlrruus"
+      ],
+      "domains": [],
+      "tags": [],
+      "f": {},
+      "images": [],
+      "createdAt": 1790629318009,
+      "updatedAt": 1790629318009,
+      "from": "e:e_mulqcipyqtw7w"
+    },
+    {
+      "id": "r_mulqgz6v1kf08",
+      "kind": "technique",
+      "sub": "",
+      "title": "Raiton: Contre-Choc",
+      "text": "",
+      "when": "792-11-30",
+      "until": "",
+      "places": [
+        "terrain d'entrainement de kumo"
+      ],
+      "people": [
+        "p_mulgtqwlrruus"
+      ],
+      "domains": [],
+      "tags": [],
+      "f": {},
+      "images": [],
+      "createdAt": 1790629332007,
+      "updatedAt": 1790629332007,
+      "from": "e:e_mulqcipyqtw7w"
+    },
+    {
+      "id": "r_mulqh81wdsubi",
+      "kind": "technique",
+      "sub": "",
+      "title": "Raiton: Course éclaire",
+      "text": "",
+      "when": "792-11-30",
+      "until": "",
+      "places": [
+        "terrain d'entrainement de kumo"
+      ],
+      "people": [
+        "p_mulgtqwlrruus"
+      ],
+      "domains": [],
+      "tags": [],
+      "f": {},
+      "images": [],
+      "createdAt": 1790629343492,
+      "updatedAt": 1790629343492,
+      "from": "e:e_mulqcipyqtw7w"
     }
   ],
   "links": [],

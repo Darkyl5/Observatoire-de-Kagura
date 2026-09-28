@@ -1237,6 +1237,72 @@
       ],
       "createdAt": 1790628096076,
       "updatedAt": 1790628520705
+    },
+    {
+      "id": "e_mulqcipyqtw7w",
+      "template": "journal",
+      "title": "J’ai enfin touché Genma",
+      "dateRP": "30/11/792",
+      "place": "Terrain d’entraînement de Kumo",
+      "peopleIds": [
+        "kagura",
+        "p_mulgtqwlrruus"
+      ],
+      "type": "combat",
+      "mood": "fier",
+      "text": "J’AI TOUCHÉ GENMA.\nUne fois.\nAvec le poing.\nÀ l’épaule.\nÇa compte.\nIl va probablement dire qu’il avait baissé sa garde ou qu’il voulait voir ce que j’allais faire.\nJe m’en fiche.\nPendant presque une heure, je n’arrivais même pas à l’approcher correctement. Alors j’ai arrêté d’essayer de le surprendre et j’ai commencé à regarder ses pieds.\nIl recule presque toujours du même côté lorsqu’il veut créer de la distance.\nJ’ai attendu.\nIl l’a refait.\nCette fois j’étais déjà là.\nJe l’ai touché.\nEnsuite il m’a mis au sol.\nMais ça, c’est moins important.",
+      "notes": "Une fois aujourd’hui.\nDeux fois la prochaine fois.",
+      "discoveries": "Même quelqu’un de beaucoup plus fort possède des habitudes.",
+      "discoveryIds": [],
+      "consequences": "Observer davantage avant d’attaquer.",
+      "tags": [],
+      "important": false,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [
+        {
+          "id": "img_mulql76wpdrj4",
+          "caption": "Les habitudes de Genma",
+          "kind": "dessin",
+          "rot": -4.6
+        }
+      ],
+      "margin": [
+        {
+          "id": "n_mulqkap261smt",
+          "text": "1 — KAGURA beaucoup trop — GENMA",
+          "ink": "bleu",
+          "rot": 3.8,
+          "x": 66,
+          "y": 16
+        }
+      ],
+      "createdAt": 1790629124038,
+      "updatedAt": 1790629538751,
+      "f": {
+        "resultat": "defaite",
+        "raison": "Entrainement avec Genma",
+        "allies": [
+          "kagura"
+        ],
+        "adversaires": [
+          "p_mulgtqwlrruus"
+        ],
+        "techniques": [
+          "r:r_mulqgz6v1kf08",
+          "r:r_mulqh81wdsubi"
+        ],
+        "blessures": "Aucune",
+        "erreurs": "Fonce trop dans le tas",
+        "lecon": "Il est trop rapide pour moi",
+        "decisif": "Je l'ai anticipé et j'ai pu le toucher !"
+      }
     }
   ],
   "characters": [
