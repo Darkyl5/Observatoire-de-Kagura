@@ -1645,6 +1645,56 @@
       "auto": {
         "key": "const:ori"
       }
+    },
+    {
+      "id": "auto_disc-ev-storm",
+      "template": "meteo",
+      "title": "Orage lointain",
+      "dateRP": "",
+      "place": "Observatoire de Kagura",
+      "peopleIds": [],
+      "type": "orage",
+      "mood": "",
+      "text": "Relevé automatique de l’observatoire de Kumogakure.\n\nLe son voyage à environ 340 m/s, la lumière est quasi instantanée. Compter les secondes entre l’éclair et le tonnerre, puis diviser par 3, donne la distance en kilomètres.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [
+        "ev-storm"
+      ],
+      "consequences": "",
+      "tags": [
+        "Orage"
+      ],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "meteo": {
+        "temperature": "",
+        "wind": "",
+        "windDir": "",
+        "humidity": "",
+        "pressure": "",
+        "clouds": [
+          "Cumulonimbus"
+        ],
+        "rain": "aucune",
+        "storm": "lointain",
+        "lightning": 2,
+        "personal": "9 secondes → 3 km. On compte à voix basse."
+      },
+      "images": [],
+      "margin": [],
+      "createdAt": 1790637115596,
+      "updatedAt": 1790637115596,
+      "auto": {
+        "key": "disc:ev-storm"
+      }
     }
   ],
   "characters": [
