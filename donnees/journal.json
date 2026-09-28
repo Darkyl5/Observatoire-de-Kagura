@@ -380,6 +380,55 @@
         "duree": "2h"
       },
       "failNote": "J'EN AI MARRE DE GENMA!"
+    },
+    {
+      "id": "e_muljuew6csvyd",
+      "template": "journal",
+      "title": "Yuji est insupportable",
+      "dateRP": "14/12/792",
+      "place": "Terrain d'entraînement de Kumo",
+      "peopleIds": [
+        "p_muljq3e03ufpg",
+        "kagura"
+      ],
+      "type": "yotsuki",
+      "mood": "frustre",
+      "text": "Il recommence avec cette histoire de gardien.\nJe sais très bien pourquoi les Yotsuki protègent les Arashi.\nMais s'il passe son temps devant moi dès que quelque chose devient dangereux, comment je suis censé devenir meilleur ?\nJe lui ai expliqué.\nIl a répondu que justement, son travail était d'éviter que je fasse quelque chose de stupide.\nJe lui ai donc proposé un duel.\nLe résultat n'a aucune importance.\nLes conditions étaient mauvaises.\nLe terrain aussi.\nEt je n'étais pas échauffé.",
+      "notes": "Revanche demain.",
+      "discoveries": "",
+      "discoveryIds": [],
+      "consequences": "Revanche demain.",
+      "tags": [],
+      "important": false,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [
+        {
+          "id": "img_mulk2mfteg490",
+          "caption": "",
+          "kind": "dessin",
+          "rot": -4.8
+        }
+      ],
+      "margin": [
+        {
+          "id": "n_muljy72ekuaag",
+          "text": "Refaire l’expérience",
+          "ink": "bleu",
+          "rot": -5,
+          "x": 66,
+          "y": 16
+        }
+      ],
+      "createdAt": 1790618201574,
+      "updatedAt": 1790618585063,
+      "tone": "difficile"
     }
   ],
   "characters": [
@@ -418,9 +467,22 @@
       "relationText": "Mon frère",
       "firstMeeting": "",
       "notes": "C'est mon grand frère, il aime bien se moquer de moi pour rire mais au fond je l'admire, c'est un Chunin et je serais un guerrier plus fort que lui plus tard",
+      "portraitId": "img_mulircb1aspty",
       "createdAt": 1790613131637,
-      "updatedAt": 1790616386309,
-      "portraitId": "img_mulircb1aspty"
+      "updatedAt": 1790616386309
+    },
+    {
+      "id": "p_muljq3e03ufpg",
+      "name": "Yuji Yotsuki",
+      "clan": "Yotsuki",
+      "village": "Kumo",
+      "relation": "meilleur-ami",
+      "relationText": "Mon yotsuki de poche, mon meilleur ami",
+      "firstMeeting": "On c'est rencontré a l'académie, on faisait que se battre tout le temps c'étais marrant",
+      "notes": "Il est tout aussi téméraire que moi, on est comme 2 faces d'une même pièce, je le protègerais et il me protègera et il le sait, je pense qu'il se moque un peu de moi a cause de mes lunettes mais bon il comprend rien ce debilus",
+      "portraitId": "img_muljrhta50w5p",
+      "createdAt": 1790618000040,
+      "updatedAt": 1790618150110
     }
   ],
   "places": {
