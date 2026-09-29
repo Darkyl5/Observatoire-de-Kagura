@@ -798,7 +798,7 @@
           "Cassiopée"
         ],
         "phenomenon": "Modification progressive de la position apparente de l’étoile au cours de la soirée Notes de Kagura",
-        "kaguraNotes": "’ai mesuré la même étoile plusieurs fois sans changer de position.\nPourtant sa hauteur et sa direction changent.\nDonc mes coordonnées sont correctes uniquement pour un lieu ET un moment précis.\nC’est beaucoup moins pratique que prévu."
+        "kaguraNotes": "J’ai mesuré la même étoile plusieurs fois sans changer de position.\nPourtant sa hauteur et sa direction changent.\nDonc mes coordonnées sont correctes uniquement pour un lieu ET un moment précis.\nC’est beaucoup moins pratique que prévu."
       },
       "images": [
         {
@@ -827,7 +827,7 @@
         }
       ],
       "createdAt": 1790625565529,
-      "updatedAt": 1790625941355
+      "updatedAt": 1790678405506
     },
     {
       "id": "e_muloj6grnmkd4",
