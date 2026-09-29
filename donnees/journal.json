@@ -2452,6 +2452,55 @@
       "auto": {
         "key": "orbit:stable"
       }
+    },
+    {
+      "id": "auto_const-lyr",
+      "template": "celeste",
+      "title": "Constellation reconstituée : Lyre",
+      "dateRP": "",
+      "place": "Observatoire de Kagura",
+      "peopleIds": [],
+      "type": "astronomie",
+      "mood": "",
+      "text": "Relevé automatique de l’observatoire de Kumogakure.\n\nVéga, à 25 années‑lumière, est l’une des étoiles les plus brillantes du ciel. Elle a longtemps servi de référence (magnitude 0) pour mesurer l’éclat des autres.\n\nÀ cause de la précession de l’axe de notre planète, Véga sera de nouveau proche du pôle céleste nord dans environ 12 000 ans.\n\nε Lyrae est la « double‑double » : deux étoiles à la jumelle, quatre au télescope. Entre Sulafat et Sheliak se cache la nébuleuse de la Lyre (M57), une nébuleuse planétaire.\n\nÀ Kumogakure comme à Iwagakure, Véga passe presque au zénith pendant les nuits d’été.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [
+        "c-lyr"
+      ],
+      "consequences": "",
+      "tags": [
+        "Astronomie",
+        "Constellations"
+      ],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "celeste": {
+        "time": "",
+        "weather": "Ciel dégagé",
+        "visibility": 4,
+        "moon": 0,
+        "bodies": "Véga, Sulafat, Sheliak",
+        "constellations": [
+          "Lyre"
+        ],
+        "phenomenon": "",
+        "kaguraNotes": "Véga = étoile polaire du futur. Dans 12 000 ans. J’aurai le temps de vérifier... non."
+      },
+      "images": [],
+      "margin": [],
+      "createdAt": 1790691659625,
+      "updatedAt": 1790691659625,
+      "auto": {
+        "key": "const:lyr"
+      }
     }
   ],
   "characters": [
