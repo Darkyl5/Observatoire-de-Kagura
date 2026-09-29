@@ -340,13 +340,27 @@
       "places": [
         "atelier de pere"
       ],
-      "people": [],
+      "people": [
+        "kagura"
+      ],
       "domains": [],
       "tags": [],
-      "f": {},
+      "f": {
+        "serie": "Carnet de père",
+        "objectif": "Essayer de déchiffrer le carnet de père...",
+        "protocole": "Lire",
+        "conditions": "Comprendre l'écriture et les calcules",
+        "resultat": "Rien",
+        "issue": "ratee",
+        "conclusion": "J'en ai marre",
+        "erreurs": "Aucune, le carnet est un problème que même le Raikage ne pourrais pas déchiffrer ",
+        "nouvelles": [
+          "r:r_mun4y7dmbtv0u"
+        ]
+      },
       "images": [],
       "createdAt": 1790714273148,
-      "updatedAt": 1790714273148,
+      "updatedAt": 1790716284349,
       "from": "r:r_mun4y7dmbtv0u"
     },
     {
@@ -430,6 +444,317 @@
       "createdAt": 1790714548835,
       "updatedAt": 1790714548835,
       "from": "r:r_mun52dngx6sh0"
+    },
+    {
+      "id": "r_mun5d8698kkg9",
+      "kind": "hypothese",
+      "sub": "",
+      "title": "mamadou",
+      "text": "",
+      "when": "",
+      "until": "",
+      "places": [],
+      "people": [],
+      "domains": [],
+      "tags": [],
+      "f": {},
+      "images": [],
+      "states": [
+        {
+          "v": "faible",
+          "ts": 1790714817441
+        }
+      ],
+      "createdAt": 1790714817441,
+      "updatedAt": 1790715054571,
+      "deletedAt": 1790715054571
+    },
+    {
+      "id": "r_mun5dc7eo182e",
+      "kind": "hypothese",
+      "sub": "",
+      "title": "ryujin",
+      "text": "",
+      "when": "",
+      "until": "",
+      "places": [],
+      "people": [],
+      "domains": [],
+      "tags": [],
+      "f": {},
+      "images": [],
+      "states": [
+        {
+          "v": "faible",
+          "ts": 1790714822666
+        }
+      ],
+      "createdAt": 1790714822666,
+      "updatedAt": 1790715068915,
+      "deletedAt": 1790715068915
+    },
+    {
+      "id": "r_mun5gumejfje4",
+      "kind": "savoir",
+      "sub": "",
+      "title": "mamadou",
+      "text": "",
+      "when": "",
+      "until": "",
+      "places": [],
+      "people": [],
+      "domains": [],
+      "tags": [],
+      "f": {},
+      "images": [],
+      "states": [
+        {
+          "v": "hypothese",
+          "ts": 1790714986502
+        }
+      ],
+      "createdAt": 1790714986502,
+      "updatedAt": 1790715060273,
+      "deletedAt": 1790715060273
+    },
+    {
+      "id": "r_mun5iwfligb8a",
+      "kind": "experience",
+      "sub": "",
+      "title": "Est-ce qu’un nuage pèse quelque chose ?",
+      "text": "",
+      "when": "786-04-18",
+      "until": "",
+      "places": [
+        "bibliotheque de kumogakure"
+      ],
+      "people": [
+        "kagura"
+      ],
+      "domains": [],
+      "tags": [],
+      "f": {
+        "objectif": "Réussir à récupérer une petite quantité de nuage afin de déterminer si un nuage possède réellement un poids.",
+        "serie": "Charge des nuages",
+        "materiel": [
+          {
+            "id": "li_mun5tzuajndna",
+            "text": "- Un grand bocal en verre"
+          },
+          {
+            "id": "li_mun5u4e0j29d7",
+            "text": "- Un couvercle"
+          },
+          {
+            "id": "li_mun5ubmdhhjlm",
+            "text": "- Une petite balance"
+          },
+          {
+            "id": "li_mun5ufgejyja7",
+            "text": "- Un chiffon"
+          },
+          {
+            "id": "li_mun5uj1m3gexe",
+            "text": "- Le carnet"
+          },
+          {
+            "id": "li_mun5v00l0w3hm",
+            "text": "- Un crayon"
+          }
+        ],
+        "protocole": "Peser le bocal vide.\nMonter dans une zone où le brouillard est suffisamment épais.\nOuvrir le bocal.\nAttendre que du « nuage » entre dedans.\nRefermer très rapidement.\nRetourner à la maison.\nPeser une deuxième fois le bocal.\nComparer les deux mesures.",
+        "conditions": "Hauteurs de Kumo\nMatin\nBrouillard très dense\nAir humide\nVent faible",
+        "resultat": "Le bocal avait presque exactement le même poids.\nIl y avait pourtant de petites gouttes d’eau à l’intérieur.\nJe pense que le morceau de nuage s’est échappé avant que je referme.\nOu alors ma balance est nulle.",
+        "issue": "inconclusive",
+        "conclusion": "Je n’ai pas réussi à prouver qu’un nuage possède un poids avec cette méthode. Le bocal pesait presque exactement la même chose avant et après.\nMais il y avait de petites gouttes à l’intérieur, donc j’ai bien récupéré quelque chose.\nJe pense.",
+        "erreurs": "La balance n’est probablement pas assez précise.\nJe n’ai pas mesuré la quantité de brouillard entrée dans le bocal.\nDe l’eau s’est déposée sur les parois.\nJ’ai marché jusqu’à la maison avant de refaire la mesure.\nEt surtout je ne sais pas vraiment si « mettre du brouillard dans un bocal » revient à capturer un nuage.",
+        "decouvertes": [
+          "r:r_mun61lye8veen"
+        ],
+        "nouvelles": [
+          "r:r_mun61xj5q5b9v"
+        ]
+      },
+      "images": [
+        "img_mun65hz55f5q7"
+      ],
+      "createdAt": 1790715082161,
+      "updatedAt": 1790716137017
+    },
+    {
+      "id": "r_mun61lye8veen",
+      "kind": "savoir",
+      "sub": "",
+      "title": "Brouillard et gouttelettes d'eau",
+      "text": "",
+      "when": "786-04-18",
+      "until": "",
+      "places": [
+        "bibliotheque de kumogakure"
+      ],
+      "people": [],
+      "domains": [],
+      "tags": [],
+      "f": {
+        "decouverte": true
+      },
+      "images": [],
+      "states": [
+        {
+          "v": "observe",
+          "at": "786-04-18",
+          "ts": 1790715955046
+        }
+      ],
+      "createdAt": 1790715955046,
+      "updatedAt": 1790715955046,
+      "from": "r:r_mun5iwfligb8a",
+      "sources": [
+        {
+          "type": "experience",
+          "ref": "r:r_mun5iwfligb8a"
+        }
+      ]
+    },
+    {
+      "id": "r_mun61xj5q5b9v",
+      "kind": "question",
+      "sub": "",
+      "title": "Comment peser un nuage sans l'attraper ?",
+      "text": "",
+      "when": "786-04-18",
+      "until": "",
+      "places": [
+        "bibliotheque de kumogakure"
+      ],
+      "people": [],
+      "domains": [],
+      "tags": [],
+      "f": {},
+      "images": [],
+      "states": [
+        {
+          "v": "nouvelle",
+          "at": "786-04-18",
+          "ts": 1790715970049
+        }
+      ],
+      "createdAt": 1790715970049,
+      "updatedAt": 1790715970049,
+      "from": "r:r_mun5iwfligb8a"
+    },
+    {
+      "id": "r_mun69k6yss7mg",
+      "kind": "experience",
+      "sub": "",
+      "title": "Fabriquer de la pluie",
+      "text": "",
+      "when": "787-03-13",
+      "until": "",
+      "places": [
+        "atelier de pere"
+      ],
+      "people": [
+        "kagura",
+        "p_mulrvogwoyyqh"
+      ],
+      "domains": [],
+      "tags": [],
+      "f": {
+        "serie": "Météo miniature",
+        "objectif": "Reproduire de la pluie à l’intérieur de la maison.",
+        "materiel": [
+          {
+            "id": "li_mun6c29xt2kmw",
+            "text": "Grand bol"
+          },
+          {
+            "id": "li_mun6c66v5c84m",
+            "text": "Eau chaude"
+          },
+          {
+            "id": "li_mun6ca1qvizj8",
+            "text": "Plaque métallique"
+          },
+          {
+            "id": "li_mun6cds3y3e01",
+            "text": "Glace"
+          },
+          {
+            "id": "li_mun6ch898ghh4",
+            "text": "Serviette"
+          },
+          {
+            "id": "li_mun6cld87n652",
+            "text": "Carnet"
+          }
+        ],
+        "protocole": "Verser l’eau chaude dans le bol.\nPlacer une plaque au-dessus.\nMettre de la glace sur la plaque.\nAttendre.\nObserver le dessous de la plaque.\nNe toucher à rien.\n\nL’étape 6 n’a pas été respectée par mon assistant.\n",
+        "conditions": "Cuisine\nTempérature normale\nAucun vent\nMère absente de la pièce au début de l’expérience",
+        "resultat": "De petites gouttes se sont formées sous la plaque.\nPuis certaines sont retombées dans le bol.\nDONC\nJ’AI FABRIQUÉ DE LA PLUIE.\nEnsuite mon petit frère a déplacé la plaque.\nIl y avait de l’eau partout.\nMère n’a pas reconnu l’importance scientifique de l’expérience."
+      },
+      "images": [],
+      "createdAt": 1790716326010,
+      "updatedAt": 1790716538619
+    },
+    {
+      "id": "r_mun75h04p27kk",
+      "kind": "experience",
+      "sub": "",
+      "title": "Capturer la foudre",
+      "text": "",
+      "when": "786-09-02",
+      "until": "",
+      "places": [
+        "atelier de pere"
+      ],
+      "people": [
+        "kagura",
+        "p_mulkmeimwm8xk"
+      ],
+      "domains": [],
+      "tags": [],
+      "f": {
+        "issue": "inconclusive",
+        "serie": "Capturer un éclair",
+        "objectif": "Trouver un moyen de conserver une petite partie d’un éclair afin de pouvoir l’observer après un orage.",
+        "materiel": [
+          {
+            "id": "li_mun78nn7lq6qt",
+            "text": "Une bouteille en verre"
+          },
+          {
+            "id": "li_mun78oo663ax5",
+            "text": "Un bocal"
+          },
+          {
+            "id": "li_mun78tpmyjpn7",
+            "text": "Une boîte métallique"
+          },
+          {
+            "id": "li_mun78yl6sc1kd",
+            "text": "Du fil métallique"
+          },
+          {
+            "id": "li_mun793kb2nhdc",
+            "text": "Une corde"
+          },
+          {
+            "id": "li_mun797i8mmcy6",
+            "text": "Les lunettes de Père"
+          }
+        ],
+        "protocole": "Attendre un orage.\nPlacer le récipient dehors.\nRelier le fil métallique au récipient.\nFaire monter le fil le plus haut possible.\nAttendre qu’un éclair arrive.\nFermer immédiatement le récipient.\nObserver.",
+        "conditions": "Maison des Arashi\nOrage important\nPluie forte\nNombreux éclairs",
+        "resultat": "EXPÉRIENCE NON RÉALISÉE.\nPère a trouvé le matériel.\nIl a demandé ce que je faisais.\nJe lui ai expliqué.\nIl a tout rangé.\nPuis il m’a fait promettre de ne JAMAIS essayer.\nJe pense donc que mon protocole avait probablement un problème.",
+        "erreurs": "Utiliser du métal pendant un orage.\nVouloir placer le dispositif dehors moi-même.\nNe pas connaître la quantité d’énergie contenue dans un éclair.\nSupposer qu’une bouteille peut « enfermer » de l’électricité.\nNe prévoir absolument aucun système de protection.\nConfondre « attirer un éclair » et « mesurer un éclair ».\nNe pas avoir demandé à Père avant de construire le dispositif.",
+        "conclusion": "Je ne sais toujours pas si on peut conserver l’électricité d’un éclair.\nPar contre Père affirme que mon expérience aurait surtout permis de vérifier si la foudre peut me tuer."
+      },
+      "images": [
+        "img_mun7d2ncxuhzv"
+      ],
+      "createdAt": 1790717814868,
+      "updatedAt": 1790718170022
     }
   ],
   "links": [
@@ -439,6 +764,20 @@
       "b": "f:f_mulmbl3didlap",
       "createdAt": 1790633469797,
       "updatedAt": 1790633469797
+    },
+    {
+      "id": "l_mun5bo4p42d58",
+      "a": "r:r_mun50v998ou1j",
+      "b": "r:r_mun515avszoy1",
+      "createdAt": 1790714744809,
+      "updatedAt": 1790714744809
+    },
+    {
+      "id": "l_mun5dhnn13ta2",
+      "a": "r:r_mun5d8698kkg9",
+      "b": "r:r_mun5dc7eo182e",
+      "createdAt": 1790714829731,
+      "updatedAt": 1790714829731
     }
   ],
   "archive": {
@@ -446,6 +785,44 @@
       "on": true,
       "when": "796-01-19",
       "at": 1790713058524
+    },
+    "board": {
+      "r:r_mun50v998ou1j": {
+        "x": 923,
+        "y": 48,
+        "at": 1790714757524,
+        "off": true
+      },
+      "r:r_mun57gwzkskn1": {
+        "x": 543,
+        "y": 362,
+        "at": 1790714734416,
+        "off": true
+      },
+      "r:r_mun572gdz1sd9": {
+        "x": 291,
+        "y": 188,
+        "at": 1790714736949,
+        "off": true
+      },
+      "r:r_mun515avszoy1": {
+        "x": 432,
+        "y": 112,
+        "at": 1790714754370,
+        "off": true
+      },
+      "r:r_mun5dc7eo182e": {
+        "x": 562,
+        "y": 75,
+        "at": 1790714838275,
+        "off": true
+      },
+      "r:r_mun5d8698kkg9": {
+        "x": 611.593614451629,
+        "y": 243.61754702187164,
+        "at": 1790714846254,
+        "off": true
+      }
     }
   }
 }
