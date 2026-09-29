@@ -2379,6 +2379,43 @@
       "auto": {
         "key": "disc:ev-meteors"
       }
+    },
+    {
+      "id": "auto_exo-1",
+      "template": "journal",
+      "title": "Transit détecté autour de Kumo‑1",
+      "dateRP": "",
+      "place": "Observatoire de Kagura",
+      "peopleIds": [],
+      "type": "sciences",
+      "mood": "",
+      "text": "Relevé automatique de l’observatoire de Kumogakure.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [
+        "ex-transit",
+        "ex-hotjupiter"
+      ],
+      "consequences": "",
+      "tags": [
+        "Exoplanètes"
+      ],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "Une planète passe régulièrement devant l’étoile.",
+        "observation": "Baisses de lumière d’environ 1 % qui se répètent.",
+        "experiment": "Repliement de la courbe sur différentes périodes.",
+        "result": "Période ≈ 3,21 jours ; rayon ≈ 0,1 fois celui de l’étoile.",
+        "conclusion": "Une géante gazeuse très proche de son étoile : un « Jupiter chaud »."
+      },
+      "images": [],
+      "margin": [],
+      "createdAt": 1790689996452,
+      "updatedAt": 1790689996452,
+      "auto": {
+        "key": "exo:1"
+      }
     }
   ],
   "characters": [
