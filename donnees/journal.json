@@ -2514,10 +2514,10 @@
       "relationText": "moi‑même",
       "firstMeeting": "",
       "notes": "Genin de Kumogakure. Affinité Raiton. Passionné par les Sciences du Ciel.",
+      "portraitId": "img_mumrbs5qww2b8",
       "self": true,
       "createdAt": 1,
-      "updatedAt": 1790691235811,
-      "portraitId": "img_mumrbs5qww2b8"
+      "updatedAt": 1790691235811
     },
     {
       "id": "p_mulbs7dz2rkdu",
@@ -2530,8 +2530,7 @@
       "notes": "Il parait vraiment étrange a première vu, toujours fourrer avec ça luciole, il lui parle parfois ? Bref il est assez étrange mais bon, aux yeux de certaines personne je parais étrange je pense.  ",
       "portraitId": "img_mulbt10qc0jx6",
       "createdAt": 1790604661607,
-      "updatedAt": 1790692578109,
-      "rel": []
+      "updatedAt": 1790692578109
     },
     {
       "id": "p_mulgtqwlrruus",
@@ -2569,8 +2568,7 @@
       "firstMeeting": "",
       "notes": "Mon père est probablement la première personne qui m’a appris qu’on pouvait passer des heures à regarder quelque chose sans forcément s’ennuyer.\nIl est passionné par les Sciences du Ciel depuis bien avant ma naissance. Astronomie, astrométrie, météorologie, électricité atmosphérique et probablement encore une dizaine de domaines dont je ne comprends même pas le nom. Son bureau est constamment rempli de cartes, de calculs, de morceaux d’instruments et de carnets. Il affirme qu’il sait exactement où tout se trouve. Je suis presque certain que c’est faux.\nC’est lui qui m’a appris à reconnaître mes premières étoiles et mes premières constellations. Quand j’étais plus petit, je pensais qu’il connaissait absolument tout sur le ciel. Maintenant je sais que ce n’est pas vrai. Ce qui est encore pire parce que lorsqu’il ne connaît pas quelque chose, il devient immédiatement obsédé par l’idée de le comprendre.\nJe crois que j’ai hérité ça de lui.\nIl ne me donne pas toujours les réponses. C’est même particulièrement énervant. Il préfère me donner une piste puis attendre que je trouve le reste moi-même. Quand je lui demande pourquoi, il répond que connaître une réponse et comprendre une réponse sont deux choses différentes.\nJe déteste quand ses phrases ont du sens.\nSes recherches sont beaucoup plus avancées que les miennes. J’ai essayé de lire certains de ses anciens carnets et je comprends parfois une page entière avant de tomber sur trois lignes de calculs qui me rappellent immédiatement que j’ai douze ans. J’en ai quand même recopié plusieurs. Je finirai par les comprendre.\nIl possède aussi les lunettes les plus ridicules jamais fabriquées. Elles sont énormes, lourdes et remplies de mécanismes. Il les utilise depuis des années pour ses observations. Je me suis moqué de lui tellement souvent à cause de ces lunettes qu’il serait probablement très satisfait de savoir que je commence à les trouver intéressantes.\nMais je ne lui dirai pas.\nPère n’est pas seulement celui qui m’a appris à regarder le ciel.\nC’est celui qui m’a appris que lorsqu’on ne comprend pas quelque chose, la bonne réponse n’est pas forcément de l’accepter.\nParfois, il suffit de continuer à regarder.\nEt de poser encore une question.",
       "createdAt": 1790619507454,
-      "updatedAt": 1790690447879,
-      "rel": []
+      "updatedAt": 1790690447879
     },
     {
       "id": "p_mulrff2mte9de",
@@ -2817,7 +2815,13 @@
         }
       ],
       "createdAt": 1790620813121,
-      "updatedAt": 1790621125403
+      "updatedAt": 1790712903314,
+      "status": [
+        {
+          "v": "incomprehensible",
+          "ts": 1790712903314
+        }
+      ]
     },
     {
       "id": "f_mulm33zd9ztdr",
@@ -2834,7 +2838,13 @@
         }
       ],
       "createdAt": 1790621966569,
-      "updatedAt": 1790692737587
+      "updatedAt": 1790712912156,
+      "status": [
+        {
+          "v": "a-revoir",
+          "ts": 1790712912156
+        }
+      ]
     },
     {
       "id": "f_mulm8tgv6fvog",
@@ -2845,7 +2855,13 @@
       "imageId": "img_mulmbhrgc5sdw",
       "annotations": [],
       "createdAt": 1790622232879,
-      "updatedAt": 1790622360067
+      "updatedAt": 1790712919564,
+      "status": [
+        {
+          "v": "a-revoir",
+          "ts": 1790712919564
+        }
+      ]
     },
     {
       "id": "f_mulmbl3didlap",
@@ -2867,7 +2883,13 @@
       "imageId": "img_mulmlx6u5dq0b",
       "annotations": [],
       "createdAt": 1790622440308,
-      "updatedAt": 1790622877223
+      "updatedAt": 1790712755878,
+      "status": [
+        {
+          "v": "incomprehensible",
+          "ts": 1790712755878
+        }
+      ]
     },
     {
       "id": "f_mulmlz41jkthq",
@@ -2920,9 +2942,25 @@
       "date": "15/03/774",
       "text": "Corrélation Électrique entre Raiton et Charges Atmosphériques\n\nLes expériences précédentes reposaient sur une erreur de méthode.\nJ’ai traité le chakra Raiton comme une simple source électrique.\nCe modèle est insuffisant.\nDeux décharges présentant une énergie comparable ne produisent pas nécessairement les mêmes perturbations lorsqu’une des deux provient d’un utilisateur de Raiton.\nLe chakra semble introduire une variable supplémentaire.\nLa question n’est donc plus\n« Le Raiton produit-il de l’électricité »\nmais\n« Dans quelle mesure une transformation Raiton modifie-t-elle les conditions permettant à une décharge électrique de se former »\nPlusieurs essais montrent une modification locale mesurable.\nMais les résultats sont irréguliers.\nTrop irréguliers.\nLe niveau de maîtrise du sujet semble influencer considérablement les mesures.\nIl faudrait répéter l’expérience avec plusieurs membres du clan Arashi.\n\nIntensité du chakra\n≠\nintensité électrique\n?\nForme\nfréquence\ncontrôle\naffinité\nautre variable\n\nSi cette hypothèse est correcte, un shinobi suffisamment compétent ne créerait peut-être pas seulement une décharge. Il pourrait influencer le milieu dans lequel elle apparaît.",
       "imageId": "img_muln0h249piei",
-      "annotations": [],
+      "annotations": [
+        {
+          "id": "a_mun4711ca88ht",
+          "text": "Si c'est études semble vrai ça peut être intéressant",
+          "createdAt": 1790712848640
+        }
+      ],
       "createdAt": 1790623359009,
-      "updatedAt": 1790623525551
+      "updatedAt": 1790712868758,
+      "status": [
+        {
+          "v": "partielle",
+          "ts": 1790712860868
+        },
+        {
+          "v": "incomprehensible",
+          "ts": 1790712868758
+        }
+      ]
     },
     {
       "id": "f_muln0jony8itv",
@@ -2949,7 +2987,23 @@
         }
       ],
       "createdAt": 1790623526567,
-      "updatedAt": 1790623668219
+      "updatedAt": 1790712962090,
+      "status": [
+        {
+          "v": "incomprehensible",
+          "ts": 1790712962090
+        }
+      ]
+    },
+    {
+      "id": "f_mun49lk321c2v",
+      "title": "Page sans titre",
+      "kind": "recherche",
+      "date": "",
+      "text": "",
+      "annotations": [],
+      "createdAt": 1790712968547,
+      "updatedAt": 1790712968547
     }
   ],
   "settings": {

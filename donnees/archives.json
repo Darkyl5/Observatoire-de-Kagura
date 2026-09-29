@@ -6,9 +6,11 @@
       "sub": "heritage",
       "title": "Lunettes d’astronome du père",
       "text": "Les lunettes d’astronome de papa. Je les trouve ridicules, mais je les porte souvent sur le front, pour lui et pour ses recherches.",
-      "when": "",
+      "when": "789-04-11",
       "until": "",
-      "places": [],
+      "places": [
+        "atelier de pere"
+      ],
       "people": [
         "pere"
       ],
@@ -16,16 +18,23 @@
       "tags": [],
       "f": {
         "origine": "Héritées de mon papa",
-        "proprietaire": "pere",
+        "proprietaire": "p_mulkmeimwm8xk",
         "importance": 5,
         "etat": "use",
         "motscles": [
           "lunettes"
+        ],
+        "evenements": [
+          "e:e_muml2xjhkoa9j",
+          "e:e_mumkzwep7v5df"
         ]
       },
-      "images": [],
+      "images": [
+        "img_mun4j4iaw0e1x"
+      ],
       "createdAt": 3,
-      "updatedAt": 1790604549221
+      "updatedAt": 1790713512430,
+      "important": true
     },
     {
       "id": "r_mulqgoe1j4m1t",
@@ -45,9 +54,9 @@
       "tags": [],
       "f": {},
       "images": [],
+      "from": "e:e_mulqcipyqtw7w",
       "createdAt": 1790629318009,
-      "updatedAt": 1790629318009,
-      "from": "e:e_mulqcipyqtw7w"
+      "updatedAt": 1790629318009
     },
     {
       "id": "r_mulqgz6v1kf08",
@@ -69,8 +78,6 @@
         "nature": "raiton"
       },
       "images": [],
-      "createdAt": 1790629332007,
-      "updatedAt": 1790633202117,
       "from": "e:e_mulqcipyqtw7w",
       "history": [
         {
@@ -79,7 +86,9 @@
             "f": {}
           }
         }
-      ]
+      ],
+      "createdAt": 1790629332007,
+      "updatedAt": 1790633202117
     },
     {
       "id": "r_mulqh81wdsubi",
@@ -101,8 +110,6 @@
         "nature": "raiton"
       },
       "images": [],
-      "createdAt": 1790629343492,
-      "updatedAt": 1790633208596,
       "from": "e:e_mulqcipyqtw7w",
       "history": [
         {
@@ -111,7 +118,9 @@
             "f": {}
           }
         }
-      ]
+      ],
+      "createdAt": 1790629343492,
+      "updatedAt": 1790633208596
     },
     {
       "id": "r_mulsw8qn5g5z1",
@@ -129,6 +138,298 @@
       "images": [],
       "createdAt": 1790633403455,
       "updatedAt": 1790633426005
+    },
+    {
+      "id": "r_mun4c65y2aigo",
+      "kind": "objet",
+      "sub": "carte",
+      "title": "Carte celeste de Kagura",
+      "text": "Ma carte céleste me suis partout, je note toute les nouvelle constellation que je découvre et je les redessine après, elle est une de mes plus fidèle compagne.",
+      "when": "792-03-13",
+      "until": "",
+      "places": [
+        "observatoire de kagura"
+      ],
+      "people": [
+        "kagura",
+        "p_mulkmeimwm8xk"
+      ],
+      "domains": [],
+      "tags": [],
+      "f": {
+        "etat": "intact",
+        "proprietaire": "p_mulkmeimwm8xk",
+        "importance": 3,
+        "evenements": [
+          "e:e_mulkuevid6n98",
+          "e:auto_const-lyr"
+        ],
+        "motscles": [
+          "Carte",
+          "Carte celeste"
+        ]
+      },
+      "images": [
+        "img_mun4iekmas1m3"
+      ],
+      "createdAt": 1790713088566,
+      "updatedAt": 1790713591290,
+      "important": true
+    },
+    {
+      "id": "r_mun4pka883m2e",
+      "kind": "capsule",
+      "sub": "",
+      "title": "Pour moi quand je serais Chunin !",
+      "text": "",
+      "when": "796-09-13",
+      "until": "",
+      "places": [],
+      "people": [],
+      "domains": [],
+      "tags": [],
+      "f": {
+        "condition": "Quand je serais Chunin",
+        "message": "J'espère que d'ici là, tu auras battu Yuji a plat de couture, je compte sur toi pour comprendre au moins une bagel du carnet de père, ça serait la honte sinon hahaha.... Bref. \nA ce moment là, toi et Genma serais égal , sauf si il est passer Jonin d'ici là...."
+      },
+      "images": [],
+      "createdAt": 1790713713392,
+      "updatedAt": 1790713835928
+    },
+    {
+      "id": "r_mun4soni1v70w",
+      "kind": "capsule",
+      "sub": "",
+      "title": "Pour moi, quand j'aurais compris une page du vieux...",
+      "text": "",
+      "when": "793-06-24",
+      "until": "",
+      "places": [],
+      "people": [],
+      "domains": [],
+      "tags": [],
+      "f": {
+        "condition": "Quand j'aurais compris une page du carnet de papa.",
+        "message": "A partir de là, tu pourra au moins te prétendre petit chercheur, pas avant. \nMême si je te comprend, ses pages sont vraiment indéchiffrable c'est dingue è_é"
+      },
+      "images": [],
+      "createdAt": 1790713859022,
+      "updatedAt": 1790714003343,
+      "important": true
+    },
+    {
+      "id": "r_mun4y7dmbtv0u",
+      "kind": "question",
+      "sub": "",
+      "title": "Le carnet de père",
+      "text": "Je n'arrive toujours pas a savoir comment père comprend ce qu'il met dans son fichu carnet, et bien sur, il refuse de m'aider !",
+      "when": "788-10-10",
+      "until": "",
+      "places": [
+        "atelier de pere"
+      ],
+      "people": [
+        "kagura"
+      ],
+      "domains": [
+        "astromancie",
+        "astronomie"
+      ],
+      "tags": [],
+      "f": {
+        "indices": [
+          {
+            "id": "li_mun50kdbw8s3n",
+            "text": "Sciences du ciel"
+          }
+        ],
+        "hypotheses": [
+          "r:r_mun50v998ou1j",
+          "r:r_mun515avszoy1"
+        ],
+        "experiences": [
+          "r:r_mun51k70lm665"
+        ]
+      },
+      "images": [],
+      "states": [
+        {
+          "v": "impossible",
+          "ts": 1790714588086
+        }
+      ],
+      "createdAt": 1790714116570,
+      "updatedAt": 1790714592252,
+      "history": [
+        {
+          "ts": 1790714301302,
+          "old": {
+            "title": "",
+            "text": "",
+            "when": "",
+            "places": [],
+            "people": [],
+            "domains": [],
+            "f": {}
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_mun50v998ou1j",
+      "kind": "hypothese",
+      "sub": "",
+      "title": "Peut être qu'il se donne un style ?",
+      "text": "",
+      "when": "788-10-10",
+      "until": "",
+      "places": [
+        "atelier de pere"
+      ],
+      "people": [],
+      "domains": [],
+      "tags": [],
+      "f": {},
+      "images": [],
+      "states": [
+        {
+          "v": "faible",
+          "at": "788-10-10",
+          "ts": 1790714240829
+        }
+      ],
+      "createdAt": 1790714240829,
+      "updatedAt": 1790714240829,
+      "from": "r:r_mun4y7dmbtv0u"
+    },
+    {
+      "id": "r_mun515avszoy1",
+      "kind": "hypothese",
+      "sub": "",
+      "title": "Est ce qu'il comprend vraiment ce qu'il met ?",
+      "text": "",
+      "when": "788-10-10",
+      "until": "",
+      "places": [
+        "atelier de pere"
+      ],
+      "people": [],
+      "domains": [],
+      "tags": [],
+      "f": {},
+      "images": [],
+      "states": [
+        {
+          "v": "faible",
+          "at": "788-10-10",
+          "ts": 1790714253847
+        }
+      ],
+      "createdAt": 1790714253847,
+      "updatedAt": 1790714253847,
+      "from": "r:r_mun4y7dmbtv0u"
+    },
+    {
+      "id": "r_mun51k70lm665",
+      "kind": "experience",
+      "sub": "",
+      "title": "Tentative de déchivrage",
+      "text": "",
+      "when": "788-10-10",
+      "until": "",
+      "places": [
+        "atelier de pere"
+      ],
+      "people": [],
+      "domains": [],
+      "tags": [],
+      "f": {},
+      "images": [],
+      "createdAt": 1790714273148,
+      "updatedAt": 1790714273148,
+      "from": "r:r_mun4y7dmbtv0u"
+    },
+    {
+      "id": "r_mun52dngx6sh0",
+      "kind": "question",
+      "sub": "",
+      "title": "Pourquoi les Chinoike sont-il si obséder par le sang ?",
+      "text": "Un chinoike a bu du sang devant moi et ??? Bah il a bien aimer. C'est des malades mais bon, ça reste mes frères d'armes, nous sommes des guerriers.\nMais bon je veux bien savoir, fin ? POURQUOI ?",
+      "when": "",
+      "until": "",
+      "places": [],
+      "people": [],
+      "domains": [],
+      "tags": [],
+      "f": {
+        "hypotheses": [
+          "r:r_mun572gdz1sd9",
+          "r:r_mun57gwzkskn1"
+        ]
+      },
+      "images": [],
+      "states": [
+        {
+          "v": "nouvelle",
+          "ts": 1790714311324
+        },
+        {
+          "v": "impossible",
+          "at": "791-11-16",
+          "note": "Un chinoike a bu du sang devant moi ???",
+          "ts": 1790714395466
+        }
+      ],
+      "createdAt": 1790714311324,
+      "updatedAt": 1790714549342
+    },
+    {
+      "id": "r_mun572gdz1sd9",
+      "kind": "hypothese",
+      "sub": "",
+      "title": "ça a quelle gout ?",
+      "text": "",
+      "when": "",
+      "until": "",
+      "places": [],
+      "people": [],
+      "domains": [],
+      "tags": [],
+      "f": {},
+      "images": [],
+      "states": [
+        {
+          "v": "faible",
+          "ts": 1790714530093
+        }
+      ],
+      "createdAt": 1790714530093,
+      "updatedAt": 1790714530093,
+      "from": "r:r_mun52dngx6sh0"
+    },
+    {
+      "id": "r_mun57gwzkskn1",
+      "kind": "hypothese",
+      "sub": "",
+      "title": "Peut être que je n'ai simplement pas la vision ? Non, pas possible",
+      "text": "",
+      "when": "",
+      "until": "",
+      "places": [],
+      "people": [],
+      "domains": [],
+      "tags": [],
+      "f": {},
+      "images": [],
+      "states": [
+        {
+          "v": "faible",
+          "ts": 1790714548835
+        }
+      ],
+      "createdAt": 1790714548835,
+      "updatedAt": 1790714548835,
+      "from": "r:r_mun52dngx6sh0"
     }
   ],
   "links": [
@@ -140,5 +441,11 @@
       "updatedAt": 1790633469797
     }
   ],
-  "archive": {}
+  "archive": {
+    "ranton": {
+      "on": true,
+      "when": "796-01-19",
+      "at": 1790713058524
+    }
+  }
 }

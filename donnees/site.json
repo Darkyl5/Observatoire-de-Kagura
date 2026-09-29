@@ -2,8 +2,8 @@
   "format": "kagura-site",
   "version": 1,
   "titre": "Les Sciences du Ciel — Kagura Arashi",
-  "misAJour": "2026-09-29T19:36:59.820Z",
-  "revision": 45,
+  "misAJour": "2026-09-29T20:45:12.521Z",
+  "revision": 46,
   "journal": "journal.json",
   "archives": "archives.json",
   "progression": "progression.json",
@@ -52,6 +52,8 @@
     "img_mulmwfej5go8g": "images/img_mulmwfej5go8g.jpg",
     "img_muln0h249piei": "images/img_muln0h249piei.jpg",
     "img_muln3il7fftkm": "images/img_muln3il7fftkm.jpg",
+    "img_mun4j4iaw0e1x": "images/img_mun4j4iaw0e1x.jpg",
+    "img_mun4iekmas1m3": "images/img_mun4iekmas1m3.jpg",
     "img_mumrg7l90vldk": "images/img_mumrg7l90vldk.jpg",
     "img_mumrcgo9lk1cu": "images/img_mumrcgo9lk1cu.jpg"
   }
