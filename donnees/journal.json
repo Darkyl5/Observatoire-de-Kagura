@@ -1746,6 +1746,52 @@
           }
         }
       ]
+    },
+    {
+      "id": "auto_disc-ev-planet",
+      "template": "celeste",
+      "title": "Événement céleste : Planète visible",
+      "dateRP": "",
+      "place": "Observatoire de Kagura",
+      "peopleIds": [],
+      "type": "astronomie",
+      "mood": "",
+      "text": "Relevé automatique de l’observatoire de Kumogakure.\n\nLes planètes brillent par la lumière du Soleil qu’elles réfléchissent. Elles scintillent moins que les étoiles et se déplacent devant les constellations au fil des jours.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [
+        "ev-planet"
+      ],
+      "consequences": "",
+      "tags": [
+        "Événement céleste"
+      ],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "celeste": {
+        "time": "",
+        "weather": "Ciel dégagé",
+        "visibility": 4,
+        "moon": 0,
+        "bodies": "",
+        "constellations": [],
+        "phenomenon": "Planète visible — Un point brillant qui ne scintille presque pas.",
+        "kaguraNotes": "« Planète » veut dire « astre errant » dans la vieille langue des astronomes."
+      },
+      "images": [],
+      "margin": [],
+      "createdAt": 1790676549002,
+      "updatedAt": 1790676549002,
+      "auto": {
+        "key": "disc:ev-planet"
+      }
     }
   ],
   "characters": [
