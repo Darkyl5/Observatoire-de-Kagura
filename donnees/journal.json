@@ -2826,9 +2826,15 @@
       "date": "09/02/787",
       "text": "Observer un astre ne signifie pas seulement déterminer où il se trouve dans le ciel. La véritable difficulté commence lorsque l'on cherche à savoir où il se trouve dans l'espace.\nUne étoile proche observée depuis deux positions suffisamment éloignées ne semble pas occuper exactement la même position devant les étoiles plus lointaines.\nLe déplacement est infime.\nSuffisamment faible pour disparaître entièrement dans les erreurs de mesure si l'instrument est mal calibré.\nJ'ai donc commencé une série d'observations répétées depuis les stations Nord et Est de Kumo.\nChaque mesure doit être effectuée avec les mêmes étoiles de référence. Les variations dues à l'atmosphère doivent être relevées séparément. Une mesure isolée ne prouve rien.\nSi le déplacement apparent observé est réel et reproductible, la géométrie devrait permettre d'estimer la distance de l'astre.\nC'est probablement ce qui me fascine le plus.\nNous sommes incapables de nous rendre jusqu'à cette étoile.\nNous pouvons pourtant mesurer la distance qui nous en sépare.\nIl existe des endroits que nous ne toucherons peut-être jamais.\nCela ne signifie pas qu'ils doivent rester inconnus.",
       "imageId": "img_mulm6rx8nhr37",
-      "annotations": [],
+      "annotations": [
+        {
+          "id": "a_mums7z8zesgif",
+          "text": "Il dessine bien mais bon je comprend rien",
+          "createdAt": 1790692737587
+        }
+      ],
       "createdAt": 1790621966569,
-      "updatedAt": 1790622139741
+      "updatedAt": 1790692737587
     },
     {
       "id": "f_mulm8tgv6fvog",
