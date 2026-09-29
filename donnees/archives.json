@@ -755,6 +755,279 @@
       ],
       "createdAt": 1790717814868,
       "updatedAt": 1790718170022
+    },
+    {
+      "id": "r_mun7l5ntauu13",
+      "kind": "conviction",
+      "sub": "reve",
+      "title": "Enfin déchiffrer entièrement le carnet de mon père",
+      "text": "",
+      "when": "",
+      "until": "",
+      "places": [],
+      "people": [],
+      "domains": [],
+      "tags": [],
+      "f": {
+        "phrases": [
+          {
+            "id": "st_mun7mact16o0f",
+            "at": "790-02-15",
+            "text": "Impossible pour le moment",
+            "ts": 1790718599405
+          }
+        ]
+      },
+      "images": [],
+      "createdAt": 1790718546665,
+      "updatedAt": 1790718599909
+    },
+    {
+      "id": "r_mun7q8k10252q",
+      "kind": "objectif",
+      "sub": "moyen",
+      "title": "Devenir aussi fort que Genma",
+      "text": "Parce que c'est mon frère, mon grand frère, mon instinct de guerrier m'ordonne de le vaincre un jours",
+      "when": "791-02-15",
+      "until": "",
+      "places": [],
+      "people": [
+        "kagura",
+        "p_mulgtqwlrruus"
+      ],
+      "domains": [],
+      "tags": [],
+      "f": {
+        "etapes": [
+          {
+            "id": "li_mun7sf6ptrphv",
+            "text": "Le toucher au moins 5 fois"
+          },
+          {
+            "id": "li_mun7sqlao6jnj",
+            "text": "Le mettre au sol au moins une fois"
+          },
+          {
+            "id": "li_mun7swyjnl0hq",
+            "text": "Faire en sorte qu'il transpire"
+          },
+          {
+            "id": "li_mun7t04u8sxy6",
+            "text": "Gagner"
+          }
+        ]
+      },
+      "images": [],
+      "states": [
+        {
+          "v": "commence",
+          "at": "791-02-31",
+          "note": "Tout grand frère dois se faire battre par le petit",
+          "ts": 1790718963771
+        }
+      ],
+      "createdAt": 1790718783697,
+      "updatedAt": 1790719024935
+    },
+    {
+      "id": "r_mun7vk4p3b4i2",
+      "kind": "objectif",
+      "sub": "court",
+      "title": "Savoir me repérer avec le ciel et les nuages",
+      "text": "Pour ne plus me perdre dehors, j'en ai marre de pas savoirs lire une boussole vu que j'écoute rien en cours. Donc autant que ma passion m'aide",
+      "when": "789-09-03",
+      "until": "",
+      "places": [],
+      "people": [
+        "kagura"
+      ],
+      "domains": [],
+      "tags": [],
+      "f": {
+        "etapes": [
+          {
+            "id": "li_mun7z1j8fu108",
+            "text": "Apprendre au moins 5 constellations",
+            "done": true
+          },
+          {
+            "id": "li_mun7zcqr3jhp1",
+            "text": "Apprendre 15 constellations"
+          },
+          {
+            "id": "li_mun7zsjwn7t67",
+            "text": "Savoir repérer les constellations dans l'espace"
+          },
+          {
+            "id": "li_mun801bsymw7x",
+            "text": "Ne plus me perdre"
+          }
+        ]
+      },
+      "images": [],
+      "states": [
+        {
+          "v": "afaire",
+          "ts": 1790719031977
+        },
+        {
+          "v": "afaire",
+          "at": "789-09-03",
+          "note": "Pour ne plus me perdre...",
+          "ts": 1790719100785
+        }
+      ],
+      "createdAt": 1790719031977,
+      "updatedAt": 1790719241390
+    },
+    {
+      "id": "r_mun806dxyi4ev",
+      "kind": "objectif",
+      "sub": "long",
+      "title": "Amener ma passions a mon clan",
+      "text": "Cette passions, j'aimerais qu'elle perdure, que mes recherches sois reprises, que mon carnet sois garder par les futur enfants du clan et que l'orage que mon père a crée dans mon cœur ne se fasse jamais dévorer par l'oublie.",
+      "when": "796-11-06",
+      "until": "",
+      "places": [],
+      "people": [
+        "kagura"
+      ],
+      "domains": [],
+      "tags": [],
+      "f": {
+        "etapes": [
+          {
+            "id": "li_mun8326oitrgm",
+            "text": "Devenir chef du clan"
+          },
+          {
+            "id": "li_mun836ygf62nd",
+            "text": "Devenir doyen du clan"
+          },
+          {
+            "id": "li_mun83biegakr2",
+            "text": "Montré l'exemple"
+          },
+          {
+            "id": "li_mun83ec8blole",
+            "text": "Devenir influant"
+          },
+          {
+            "id": "li_mun83hkrky9yw",
+            "text": "Devenir Jonin+"
+          }
+        ]
+      },
+      "images": [],
+      "states": [
+        {
+          "v": "afaire",
+          "ts": 1790719247445
+        }
+      ],
+      "createdAt": 1790719247445,
+      "updatedAt": 1790719750241,
+      "important": true
+    },
+    {
+      "id": "r_mun83lman2okp",
+      "kind": "objectif",
+      "sub": "long",
+      "title": "Devenir le juge de Kumo !",
+      "text": "La justice et la voie du guerrier hante mes pensée, je refuse que ses belles valeurs que notre village cacher par les nuages s'oublient avec le temps. Je veux que notre nation reste uni comme on nous l'a toujours appris, ainsi en devenant juge, je pourrais guider les perdu sur la bonne voies.",
+      "when": "796-06-07",
+      "until": "",
+      "places": [],
+      "people": [
+        "kagura"
+      ],
+      "domains": [],
+      "tags": [],
+      "f": {
+        "etapes": [
+          {
+            "id": "li_mun87b0ir3em5",
+            "text": "Avoir la confiance du village"
+          },
+          {
+            "id": "li_mun87h98atpfd",
+            "text": "Avoir une position influante"
+          },
+          {
+            "id": "li_mun87qjbjc1lf",
+            "text": "Garder les valeurs de Kumo toute ma vie"
+          }
+        ]
+      },
+      "images": [],
+      "states": [
+        {
+          "v": "afaire",
+          "ts": 1790719407154
+        }
+      ],
+      "createdAt": 1790719407154,
+      "updatedAt": 1790719746694,
+      "important": true
+    },
+    {
+      "id": "r_mun881sji3vqd",
+      "kind": "objectif",
+      "sub": "court",
+      "title": "Comprendre une page du carnet de père",
+      "text": "Pour reprendre ses recherches qu'il ne souhaite pas me donner de lui même",
+      "when": "",
+      "until": "",
+      "places": [],
+      "people": [
+        "p_mulkmeimwm8xk",
+        "kagura"
+      ],
+      "domains": [],
+      "tags": [],
+      "f": {
+        "etapes": [
+          {
+            "id": "li_mun892e8yxkko",
+            "text": "Comprendre sont écriture"
+          },
+          {
+            "id": "li_mun896hxwtord",
+            "text": "Comprendre ses déssins"
+          },
+          {
+            "id": "li_mun89gsrqct2t",
+            "text": "Comprendre ses calcules"
+          }
+        ],
+        "bilan": "ça va être cardio"
+      },
+      "images": [],
+      "states": [
+        {
+          "v": "afaire",
+          "ts": 1790719614739
+        }
+      ],
+      "createdAt": 1790719614739,
+      "updatedAt": 1790719691453
+    },
+    {
+      "id": "r_mun8bycqq1h7v",
+      "kind": "chapitre",
+      "sub": "",
+      "title": "L’Académie",
+      "text": "",
+      "when": "789-09-12",
+      "until": "796-11-06",
+      "places": [],
+      "people": [],
+      "domains": [],
+      "tags": [],
+      "f": {},
+      "images": [],
+      "createdAt": 1790719796906,
+      "updatedAt": 1790719869522
     }
   ],
   "links": [

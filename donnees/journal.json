@@ -2517,7 +2517,9 @@
       "portraitId": "img_mumrbs5qww2b8",
       "self": true,
       "createdAt": 1,
-      "updatedAt": 1790691235811
+      "updatedAt": 1790718512626,
+      "birth": "784-05-18",
+      "grade": "genin"
     },
     {
       "id": "p_mulbs7dz2rkdu",
@@ -2605,6 +2607,30 @@
       "notes": "",
       "createdAt": 1790632226762,
       "updatedAt": 1790632226762
+    },
+    {
+      "id": "p_mun8jcjuvy854",
+      "clan": "Arashi",
+      "village": "Kumo",
+      "relation": "superieur",
+      "relationText": "Raikage de Kumo",
+      "firstMeeting": "",
+      "notes": "C'est le maitre Raikage, on sait pas grand chose sur lui, en tout cas je sais juste qu'il impose la classes ! Et surtout il est de mon clan donc j'ai encore plus de style. Je me demande si mes passions l'intéresserais un jour ? Peut être qu'il a les même que moi qui sait ? Je pense qu'il a d'autre occupations.",
+      "createdAt": 1790720141898,
+      "name": "Maitre Raikage",
+      "updatedAt": 1790720427347,
+      "role": "Raikage",
+      "grade": "kage",
+      "importance": 1,
+      "metAt": "789-05-09",
+      "rel": [
+        {
+          "v": "superieur",
+          "at": "789-05-09",
+          "ts": 1790720349024
+        }
+      ],
+      "portraitId": "img_mun8mun0fkz7i"
     }
   ],
   "places": {
