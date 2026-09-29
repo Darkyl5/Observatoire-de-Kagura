@@ -1912,14 +1912,17 @@
         "p_muljq3e03ufpg",
         "kagura"
       ],
-      "type": "aventure",
+      "type": "voyage",
       "mood": "heureux",
       "text": "On devait simplement marcher un peu.\nYotsuki avait dit vingt minutes.\nJ’ai aperçu un chemin que je ne connaissais pas.\nDonc évidemment on l’a pris.\nEnfin, j’ai commencé à le prendre et Yotsuki m’a suivi parce qu’il prétend qu’il faut « surveiller mes décisions ».\nLe chemin montait beaucoup plus que prévu.\nPuis on a trouvé une petite corniche avec une vue incroyable sur Kumo.\nOn est restés là presque une heure.\nEnsuite on a réalisé qu’on ne savait plus exactement par où on était arrivés.\nYotsuki affirme que nous étions perdus.\nC’est faux.\nJe savais parfaitement où était Kumo.\nJe ne savais simplement pas exactement comment y retourner.\nCe n’est pas pareil.",
       "notes": "",
       "discoveries": "",
       "discoveryIds": [],
       "consequences": "",
-      "tags": [],
+      "tags": [
+        "voyage",
+        "balade"
+      ],
       "important": false,
       "scientific": false,
       "science": {
@@ -1948,7 +1951,21 @@
         }
       ],
       "createdAt": 1790679129484,
-      "updatedAt": 1790679363243
+      "updatedAt": 1790681380768,
+      "history": [
+        {
+          "ts": 1790681322591,
+          "old": {
+            "type": "aventure"
+          }
+        }
+      ],
+      "f": {
+        "etapes": [
+          "kumogakure",
+          "hauteurs de kumogakure"
+        ]
+      }
     },
     {
       "id": "e_mumk9xsyf73hg",
