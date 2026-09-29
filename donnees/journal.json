@@ -1700,7 +1700,7 @@
       "id": "e_mumey2sfm9ewx",
       "template": "journal",
       "title": "Analyse de combat avec Genma",
-      "dateRP": "",
+      "dateRP": "28/09/793",
       "place": "Terrain d’entraînement",
       "peopleIds": [
         "p_mulgtqwlrruus",
@@ -1730,14 +1730,22 @@
       "images": [],
       "margin": [],
       "createdAt": 1790670440607,
-      "updatedAt": 1790670447096,
+      "updatedAt": 1790670692783,
       "f": {
         "techniques": [
           "Lecture des mouvements"
         ],
         "progres": "regarder les pieds",
         "duree": "54 s"
-      }
+      },
+      "history": [
+        {
+          "ts": 1790670692783,
+          "old": {
+            "dateRP": ""
+          }
+        }
+      ]
     }
   ],
   "characters": [
