@@ -54,7 +54,7 @@
   },
   "grandAt": 0,
   "resetAt": 0,
-  "updatedAt": 1790691660080,
+  "updatedAt": 1790693234521,
   "acts": {
     "v": 1,
     "rec": {
@@ -92,14 +92,169 @@
             "journalId": "e_mumey2sfm9ewx"
           }
         ]
+      },
+      "carnets": {
+        "plays": 2,
+        "first": 1790693072217,
+        "last": 1790693089999,
+        "best": {
+          "*": {
+            "mode": "polaris",
+            "score": 127,
+            "outcome": "reussi",
+            "stats": {
+              "comprehension": 100,
+              "liens": 3,
+              "total": 3,
+              "erreurs": 1,
+              "temps": 10,
+              "page": "La hauteur de l’étoile immobile"
+            },
+            "summary": "« La hauteur de l’étoile immobile » : 100 % compris (+3 liens)",
+            "id": "p_mumsfj67dbk0q",
+            "at": 1790693089999
+          },
+          "charge": {
+            "mode": "charge",
+            "score": 7,
+            "outcome": "partiel",
+            "stats": {
+              "comprehension": 33,
+              "liens": 1,
+              "total": 3,
+              "erreurs": 12,
+              "temps": 119,
+              "page": "Avant la décharge"
+            },
+            "summary": "« Avant la décharge » : 33 % compris (+1 lien)",
+            "id": "p_mumsf5g9v445h",
+            "at": 1790693072217
+          },
+          "polaris": {
+            "mode": "polaris",
+            "score": 127,
+            "outcome": "reussi",
+            "stats": {
+              "comprehension": 100,
+              "liens": 3,
+              "total": 3,
+              "erreurs": 1,
+              "temps": 10,
+              "page": "La hauteur de l’étoile immobile"
+            },
+            "summary": "« La hauteur de l’étoile immobile » : 100 % compris (+3 liens)",
+            "id": "p_mumsfj67dbk0q",
+            "at": 1790693089999
+          }
+        },
+        "history": [
+          {
+            "mode": "polaris",
+            "score": 127,
+            "outcome": "reussi",
+            "stats": {
+              "comprehension": 100,
+              "liens": 3,
+              "total": 3,
+              "erreurs": 1,
+              "temps": 10,
+              "page": "La hauteur de l’étoile immobile"
+            },
+            "summary": "« La hauteur de l’étoile immobile » : 100 % compris (+3 liens)",
+            "id": "p_mumsfj67dbk0q",
+            "at": 1790693089999
+          },
+          {
+            "mode": "charge",
+            "score": 7,
+            "outcome": "partiel",
+            "stats": {
+              "comprehension": 33,
+              "liens": 1,
+              "total": 3,
+              "erreurs": 12,
+              "temps": 119,
+              "page": "Avant la décharge"
+            },
+            "summary": "« Avant la décharge » : 33 % compris (+1 lien)",
+            "id": "p_mumsf5g9v445h",
+            "at": 1790693072217
+          }
+        ]
+      },
+      "astrometre": {
+        "plays": 1,
+        "first": 1790693234521,
+        "last": 1790693234521,
+        "best": {
+          "*": {
+            "mode": "facile",
+            "score": 0,
+            "outcome": "rate",
+            "stats": {
+              "erreur": 107.7,
+              "meilleure": 90.1,
+              "astres": 3,
+              "temps": 89
+            },
+            "summary": "Astromètre (facile) : erreur moyenne 107,7° sur 3 astres",
+            "id": "p_mumsimopy72kg",
+            "at": 1790693234521
+          },
+          "facile": {
+            "mode": "facile",
+            "score": 0,
+            "outcome": "rate",
+            "stats": {
+              "erreur": 107.7,
+              "meilleure": 90.1,
+              "astres": 3,
+              "temps": 89
+            },
+            "summary": "Astromètre (facile) : erreur moyenne 107,7° sur 3 astres",
+            "id": "p_mumsimopy72kg",
+            "at": 1790693234521
+          }
+        },
+        "history": [
+          {
+            "mode": "facile",
+            "score": 0,
+            "outcome": "rate",
+            "stats": {
+              "erreur": 107.7,
+              "meilleure": 90.1,
+              "astres": 3,
+              "temps": 89
+            },
+            "summary": "Astromètre (facile) : erreur moyenne 107,7° sur 3 astres",
+            "id": "p_mumsimopy72kg",
+            "at": 1790693234521
+          }
+        ]
       }
     },
-    "sets": {},
+    "sets": {
+      "pere-liens": {
+        "charge:l1": 1790693072217,
+        "polaris:l1": 1790693089999,
+        "polaris:l2": 1790693089999,
+        "polaris:l3": 1790693089999
+      },
+      "pere-pages": {
+        "polaris": 1790693089999
+      }
+    },
     "counters": {},
-    "souvenirs": {},
+    "souvenirs": {
+      "pere-premiere-page": {
+        "at": 1790693089999,
+        "label": "Première page de Père entièrement comprise"
+      }
+    },
     "markers": {},
     "sketches": {},
-    "at": 1790670440607
+    "at": 1790693234521
   },
   "labo": {
     "v": 1,
