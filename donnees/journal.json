@@ -354,7 +354,7 @@
       "discoveryIds": [],
       "consequences": "Aucune.",
       "tags": [],
-      "important": true,
+      "important": false,
       "scientific": false,
       "science": {
         "hypothesis": "",
@@ -382,7 +382,7 @@
         }
       ],
       "createdAt": 1790616730256,
-      "updatedAt": 1790617664366,
+      "updatedAt": 1790676692146,
       "f": {
         "progres": "Aucun, Genma réfléchit trop et ça m'énerve ",
         "duree": "2h"
@@ -511,7 +511,7 @@
       "discoveryIds": [],
       "consequences": "Page ajoutée aux questions sans réponse.",
       "tags": [],
-      "important": false,
+      "important": true,
       "scientific": false,
       "science": {
         "hypothesis": "",
@@ -539,7 +539,7 @@
         }
       ],
       "createdAt": 1790619597114,
-      "updatedAt": 1790619824031
+      "updatedAt": 1790676706834
     },
     {
       "id": "e_mulkuevid6n98",
