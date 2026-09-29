@@ -1792,6 +1792,530 @@
       "auto": {
         "key": "disc:ev-planet"
       }
+    },
+    {
+      "id": "e_mumjraligzj25",
+      "template": "journal",
+      "title": "Les lunettes ont survécu. Presque.",
+      "dateRP": "17/03/791",
+      "place": "Maison familiale",
+      "peopleIds": [
+        "kagura",
+        "p_mulkmeimwm8xk"
+      ],
+      "type": "famille",
+      "mood": "inquiet",
+      "text": "J’ai cassé les lunettes.\nEnfin.\n« Cassé » est peut-être exagéré.\nUne lentille est sortie de son support et une petite pièce métallique est tombée.\nJe l’ai remise.\nElle est retombée.\nJe l’ai remise encore une fois.\nElle est encore retombée.\nJ’ai envisagé pendant environ cinq minutes de remettre les lunettes exactement à leur place et de prétendre que je n’avais rien vu.\nMauvaise idée.\nPère l’aurait remarqué immédiatement.\nJe lui ai donc montré.\nIl n’était même pas énervé.\nIl m’a simplement posé les outils devant moi et m’a demandé de réparer ce que j’avais cassé.\nÇa a pris deux heures.\nMaintenant je sais comment démonter une partie de la monture.\nJe préférerais quand même ne plus jamais avoir besoin de le faire.",
+      "notes": "",
+      "discoveries": "Comprendre un instrument devient beaucoup plus facile lorsqu’on est obligé de le reconstruire.\nConséquence",
+      "discoveryIds": [],
+      "consequences": "Apprendre progressivement à entretenir moi-même les lunettes.",
+      "tags": [],
+      "important": false,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [
+        {
+          "id": "img_mumjz8s0vgbj1",
+          "caption": "Kagura répare les lunettes",
+          "kind": "dessin",
+          "rot": 3.2
+        }
+      ],
+      "margin": [
+        {
+          "id": "n_mumju5lm8zuqv",
+          "text": "NE PLUS LES POSER AU BORD DU BUREAU.",
+          "ink": "bleu",
+          "rot": -0.4,
+          "x": 66,
+          "y": 16
+        }
+      ],
+      "createdAt": 1790678522214,
+      "updatedAt": 1790678910966
+    },
+    {
+      "id": "e_mumk0b10g6uem",
+      "template": "journal",
+      "title": "Genma m’a interdit d’attaquer",
+      "dateRP": "08/07/791",
+      "place": "Terrain d'entraînement de Kumo",
+      "peopleIds": [
+        "p_mulgtqwlrruus",
+        "kagura"
+      ],
+      "type": "entrainement",
+      "mood": "frustre",
+      "text": "Nouvel exercice de Genma.\nJe n’avais pas le droit d’attaquer.\nPendant dix minutes.\nDIX.\nMINUTES.\nJe pouvais esquiver, bloquer et me déplacer.\nRien d’autre.\nLes deux premières minutes étaient horribles.\nJe voyais constamment des ouvertures et je n’avais pas le droit de les utiliser.\nPuis quelque chose a changé.\nComme je ne pouvais plus chercher comment toucher Genma, j’ai commencé à regarder beaucoup plus attentivement comment lui essayait de me toucher.\nSes épaules.\nSes pieds.\nLa distance qu’il garde.\nLe moment où il accélère.\nJe déteste l’admettre mais son exercice était plutôt utile.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [],
+      "consequences": "",
+      "tags": [],
+      "important": false,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [],
+      "margin": [
+        {
+          "id": "n_mumk2aty57q3k",
+          "text": "Genma avait raison cette fois",
+          "ink": "bleu",
+          "rot": -4.3,
+          "x": 66,
+          "y": 16
+        },
+        {
+          "id": "n_mumk2ws3n3ik9",
+          "text": "Mon impatience 0",
+          "ink": "bleu",
+          "rot": 3.2,
+          "x": 4,
+          "y": 39
+        },
+        {
+          "id": "n_mumk328yazica",
+          "text": "Genma 1",
+          "ink": "bleu",
+          "rot": 4.4,
+          "x": 66,
+          "y": 62
+        }
+      ],
+      "createdAt": 1790678942676,
+      "updatedAt": 1790679112166,
+      "f": {
+        "progres": "Chercher constamment à attaquer m’empêche parfois d’observer correctement.",
+        "duree": "25min"
+      }
+    },
+    {
+      "id": "e_mumk4b64o7kx6",
+      "template": "journal",
+      "title": "La promenade qui devait durer vingt minutes",
+      "dateRP": "22/10/791",
+      "place": "Hauteurs de Kumogakure",
+      "peopleIds": [
+        "p_muljq3e03ufpg",
+        "kagura"
+      ],
+      "type": "aventure",
+      "mood": "heureux",
+      "text": "On devait simplement marcher un peu.\nYotsuki avait dit vingt minutes.\nJ’ai aperçu un chemin que je ne connaissais pas.\nDonc évidemment on l’a pris.\nEnfin, j’ai commencé à le prendre et Yotsuki m’a suivi parce qu’il prétend qu’il faut « surveiller mes décisions ».\nLe chemin montait beaucoup plus que prévu.\nPuis on a trouvé une petite corniche avec une vue incroyable sur Kumo.\nOn est restés là presque une heure.\nEnsuite on a réalisé qu’on ne savait plus exactement par où on était arrivés.\nYotsuki affirme que nous étions perdus.\nC’est faux.\nJe savais parfaitement où était Kumo.\nJe ne savais simplement pas exactement comment y retourner.\nCe n’est pas pareil.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [],
+      "consequences": "",
+      "tags": [],
+      "important": false,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [
+        {
+          "id": "img_mumk9b6s1o5tc",
+          "caption": "",
+          "kind": "dessin",
+          "rot": 0.1
+        }
+      ],
+      "margin": [
+        {
+          "id": "n_mumk65nr5zuuc",
+          "text": "Revenir ici la nuit. La vue du ciel doit être excellente.",
+          "ink": "bleu",
+          "rot": -3.8,
+          "x": 66,
+          "y": 16
+        }
+      ],
+      "createdAt": 1790679129484,
+      "updatedAt": 1790679363243
+    },
+    {
+      "id": "e_mumk9xsyf73hg",
+      "template": "journal",
+      "title": "Première réparation sans Père",
+      "dateRP": "04/02/792",
+      "place": "Atelier de Père",
+      "peopleIds": [
+        "kagura"
+      ],
+      "type": "souvenir",
+      "mood": "fier",
+      "text": "La molette gauche des lunettes était bloquée.\nPère n’était pas là.\nJ’aurais pu attendre.\nJe n’ai pas attendu.\nJ’ai démonté uniquement les pièces que je savais remettre.\nNettoyé le mécanisme.\nRetiré une petite quantité de poussière.\nRemonté le tout.\nÇa fonctionne.\nJ’ai vérifié trois fois.\nPuis une quatrième parce que je n’avais pas confiance.\nJe crois que c’est la première fois que je répare réellement quelque chose de Père sans qu’il soit derrière moi.\nJe suis assez fier.",
+      "notes": "",
+      "discoveries": "Je commence réellement à comprendre comment les lunettes sont construites.\n",
+      "discoveryIds": [],
+      "consequences": "Dessiner leur mécanisme dans mon carnet au cas où je doive les réparer loin de la maison.",
+      "tags": [],
+      "important": false,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [
+        {
+          "id": "img_mumkg4ufixqo9",
+          "caption": "Mécanismes des lunettes",
+          "kind": "dessin",
+          "rot": -2.4
+        }
+      ],
+      "margin": [],
+      "createdAt": 1790679392098,
+      "updatedAt": 1790679695439
+    },
+    {
+      "id": "e_mumkgwkej87aq",
+      "template": "journal",
+      "title": "La sucette de Genma",
+      "dateRP": "",
+      "place": "Maison familiale",
+      "peopleIds": [
+        "p_mulgtqwlrruus",
+        "p_mulrvogwoyyqh",
+        "kagura"
+      ],
+      "type": "famille",
+      "mood": "heureux",
+      "text": "Genma garde toujours ses sucettes quelque part.\nJ’en ai pris une.\nIl l’a remarqué.\nJ’ai accusé mon petit frère.\nMon petit frère m’a immédiatement dénoncé.\nAucune loyauté familiale.\nGenma m’a poursuivi dans toute la maison.\nMère nous a tous les trois engueulés alors qu’elle n’avait même pas participé.\nConclusion.\nMon petit frère est incapable de garder un secret.\nGenma court étonnamment vite lorsqu’une sucette est impliquée.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [],
+      "consequences": "",
+      "tags": [],
+      "important": false,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [],
+      "margin": [
+        {
+          "id": "n_mumkiolh9k0s6",
+          "text": "Refaire l’expérience",
+          "ink": "bleu",
+          "rot": -1.9,
+          "x": 66,
+          "y": 16
+        },
+        {
+          "id": "n_mumkiujiwinib",
+          "text": "NE PAS refaire.",
+          "ink": "bleu",
+          "rot": -0.5,
+          "x": 4,
+          "y": 39
+        },
+        {
+          "id": "n_mumkizu11kemx",
+          "text": "Peut-être.",
+          "ink": "bleu",
+          "rot": 4.4,
+          "x": 66,
+          "y": 62
+        }
+      ],
+      "createdAt": 1790679717086,
+      "updatedAt": 1790679846900
+    },
+    {
+      "id": "e_mumkk0h1btlwi",
+      "template": "celeste",
+      "title": "La nuit où je n’ai rien trouvé",
+      "dateRP": "03/08/792",
+      "place": "Toit de la maison",
+      "peopleIds": [
+        "kagura"
+      ],
+      "type": "astronomie",
+      "mood": "frustre",
+      "text": "Je voulais absolument observer quelque chose.\nN’importe quoi.\nUne constellation entière.\nUn météore.\nUn phénomène bizarre.\nRien.\nLes nuages couvraient constamment la mauvaise partie du ciel.\nAu bout d’une heure j’allais rentrer énervé.\nPuis je me suis rendu compte que j’étais quand même resté une heure à regarder.\nPeut-être que toutes les nuits n’ont pas besoin de produire une découverte.\nC’est agaçant.\nMais probablement vrai.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [],
+      "consequences": "Apprendre à ne pas considérer une observation sans découverte comme une observation inutile.",
+      "tags": [
+        "Observation"
+      ],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "celeste": {
+        "time": "23 h 41",
+        "weather": "Ciel voilé",
+        "visibility": 1,
+        "moon": 2,
+        "bodies": "Quelques étoiles brillantes",
+        "constellations": [],
+        "phenomenon": "Aucun",
+        "kaguraNotes": "Une heure dehors.\nRien de nouveau.\nJ’ai attendu pour rien."
+      },
+      "images": [],
+      "margin": [],
+      "createdAt": 1790679862117,
+      "updatedAt": 1790680008068
+    },
+    {
+      "id": "e_mumknl765ec7b",
+      "template": "journal",
+      "title": "Yuji a cassé le mannequin",
+      "dateRP": "11/01/793",
+      "place": "Terrain d’entraînement",
+      "peopleIds": [
+        "kagura",
+        "p_muljq3e03ufpg"
+      ],
+      "type": "aventure",
+      "mood": "excite",
+      "text": "Pour une fois ce n’est PAS moi.\nYotsuki a cassé le mannequin.\nComplètement.\nIl a essayé de prétendre qu’il était déjà fragilisé.\nPeut-être.\nMais quand c’est moi qui casse quelque chose, cette excuse ne fonctionne jamais.\nDonc elle ne fonctionne pas pour lui non plus.\nJe vais conserver cette page.\nElle pourra être utile la prochaine fois qu’il me traite d’inconscient.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [],
+      "consequences": "",
+      "tags": [],
+      "important": false,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [],
+      "margin": [
+        {
+          "id": "n_mumkpx18yy7gc",
+          "text": "Preuve HISTORIQUE",
+          "ink": "bleu",
+          "rot": -0.3,
+          "x": 66,
+          "y": 16
+        },
+        {
+          "id": "n_mumkq2tbir4kc",
+          "text": "Ne JAMAIS perdre cette page",
+          "ink": "bleu",
+          "rot": 1.6,
+          "x": 4,
+          "y": 39
+        }
+      ],
+      "createdAt": 1790680028946,
+      "updatedAt": 1790680145544
+    },
+    {
+      "id": "e_mumkqx2mjnieb",
+      "template": "journal",
+      "title": "Le jour où Genma m’a félicité",
+      "dateRP": "26/06/793",
+      "place": "Terrain d'entraînement de Kumo",
+      "peopleIds": [
+        "kagura",
+        "p_mulgtqwlrruus"
+      ],
+      "type": "entrainement",
+      "mood": "fier",
+      "text": "Genma m’a félicité.\nJe l’écris parce que ça n’arrive pas souvent.\nL’exercice était simple.\nAtteindre une cible pendant que Genma essayait de m’empêcher d’y arriver.\nAu début je me concentrais sur lui.\nPuis j’ai compris.\nGenma n’était pas l’objectif.\nLa cible l’était.\nAlors j’ai arrêté d’essayer de le battre.\nJe l’ai forcé à se déplacer d’un côté puis je suis passé de l’autre.\nJ’ai touché la cible.\nIl m’a regardé.\nPuis il a dit\n« Bien. »\nC’est tout.\nUn mot.\nJ’ai fait semblant de m’en foutre.\nJe mens dans mon propre carnet donc je peux l’écrire.\nJ’étais extrêmement content.",
+      "notes": "",
+      "discoveries": "Gagner un combat et réussir un objectif ne sont toujours pas la même chose.\nJe crois que je commence enfin à comprendre ce qu’il essayait de m’expliquer.",
+      "discoveryIds": [],
+      "consequences": "",
+      "tags": [],
+      "important": false,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [
+        {
+          "id": "img_mumkv7y5znv9p",
+          "caption": "",
+          "kind": "dessin",
+          "rot": 2.4
+        }
+      ],
+      "margin": [],
+      "createdAt": 1790680184302,
+      "updatedAt": 1790680385481,
+      "f": {
+        "progres": "Félicitations de Genma !"
+      }
+    },
+    {
+      "id": "e_mumkvzj40u2ny",
+      "template": "celeste",
+      "title": "Les étoiles depuis ailleurs",
+      "dateRP": "16/03/795",
+      "place": "Campement ",
+      "peopleIds": [
+        "kagura"
+      ],
+      "type": "astronomie",
+      "mood": "emerveille",
+      "text": "Première nuit depuis longtemps où je regarde le ciel sans voir les montagnes habituelles de Kumo autour de moi.\nJe pensais que ça ne changerait rien.\nLes étoiles sont les mêmes.\nPourtant ça ne ressemble pas au même ciel.\nJe comprends mieux pourquoi Père collectionnait les observations réalisées depuis différents endroits.\nJe veux faire pareil.\nUn jour je veux pouvoir ouvrir mon carnet et avoir des morceaux de ciel provenant de partout.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [],
+      "consequences": "",
+      "tags": [
+        "Constellations",
+        "Observation"
+      ],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "celeste": {
+        "time": "00 h 26",
+        "weather": "Ciel dégagé",
+        "visibility": 4,
+        "moon": 7,
+        "bodies": "Polaris, quelques étoiles brillantes",
+        "constellations": [
+          "Grande Ourse",
+          "Petite Ourse",
+          "Cassiopée"
+        ],
+        "phenomenon": "Observation réalisée depuis un lieu inhabituel",
+        "kaguraNotes": "Les constellations sont les mêmes.\nMais l’horizon ne l’est pas.\nC’est étrange de regarder quelque chose de familier depuis un endroit complètement inconnu."
+      },
+      "images": [],
+      "margin": [],
+      "createdAt": 1790680420768,
+      "updatedAt": 1790680552737
+    },
+    {
+      "id": "e_mumkzwep7v5df",
+      "template": "journal",
+      "title": "Les lunettes cassées. Pour de vrai cette fois.",
+      "dateRP": "21/12/795",
+      "place": "Terrain d'entraînement de Kumo",
+      "peopleIds": [
+        "p_muljq3e03ufpg",
+        "kagura"
+      ],
+      "type": "souvenir",
+      "mood": "triste",
+      "text": "Cette fois elles sont vraiment cassées.\nUn choc pendant l’entraînement.\nJe les avais sur le front.\nLa monture a frappé le sol.\nUne lentille fendue.\nCharnière droite tordue.\nUne partie du mécanisme ne tourne plus.\nYotsuki a immédiatement arrêté l’entraînement.\nJe lui ai dit que ce n’était rien.\nJe crois que ma tête disait exactement le contraire.\nJ’aurais préféré casser presque n’importe quoi d’autre.\nJe pourrais demander à Père de les réparer.\nMais je ne vais pas le faire.\nPas cette fois.\nJe connais suffisamment ces lunettes maintenant.\nJe vais les reconstruire moi-même.\nMême si ça prend un mois.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [],
+      "consequences": "Début du projet\nRECONSTRUCTION DES LUNETTES",
+      "tags": [],
+      "important": true,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [],
+      "margin": [
+        {
+          "id": "n_muml2lhd6aedk",
+          "text": "è_é",
+          "ink": "bleu",
+          "rot": 1.1,
+          "x": 66,
+          "y": 16
+        }
+      ],
+      "createdAt": 1790680603345,
+      "updatedAt": 1790680729605
+    },
+    {
+      "id": "e_muml2xjhkoa9j",
+      "template": "journal",
+      "title": "Elles fonctionnent !!!!",
+      "dateRP": "19/01/796",
+      "place": "Observatoire de Kagura",
+      "peopleIds": [
+        "kagura",
+        "p_mulkmeimwm8xk"
+      ],
+      "type": "aventure",
+      "mood": "heureux",
+      "text": "Elles fonctionnent.\nVingt-neuf jours.\nDeux lentilles changées.\nUne nouvelle charnière.\nTrois pièces refaites.\nUne quantité ridicule d’essais ratés.\nEt elles fonctionnent.\nElles ne sont plus exactement comme avant.\nLa monture est légèrement différente.\nJ’ai renforcé les côtés.\nLa sangle est la mienne.\nUn des réglages n’est plus placé exactement comme Père l’avait construit.\nJe pensais qu’il allait remarquer immédiatement toutes les différences.\nIl les a prises.\nIl les a regardées longtemps.\nPuis il me les a rendues.\nIl a dit\n« Maintenant elles sont aussi un peu les tiennent»\n\n:)",
+      "notes": "",
+      "discoveries": "Réparer quelque chose ne signifie pas forcément le remettre exactement comme avant.",
+      "discoveryIds": [],
+      "consequences": "Les lunettes de Père deviennent progressivement aussi celles de Kagura.",
+      "tags": [],
+      "important": true,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [
+        {
+          "id": "img_muml7q2x6779i",
+          "caption": "",
+          "kind": "dessin",
+          "rot": 3.7
+        }
+      ],
+      "margin": [
+        {
+          "id": "n_muml797squdo8",
+          "text": "29 jours. Ça valait le coup.",
+          "ink": "bleu",
+          "rot": 2.3,
+          "x": 66,
+          "y": 16
+        }
+      ],
+      "createdAt": 1790680744781,
+      "updatedAt": 1790680992559
     }
   ],
   "characters": [
@@ -2022,6 +2546,55 @@
       "x": 0.6133870036838079,
       "y": 0.16195727211512445,
       "at": 1790670441568
+    },
+    "entr": {
+      "key": "entr",
+      "name": "entr",
+      "x": 0.6965780805974682,
+      "y": 0.6326896199006737,
+      "at": 1790679110376
+    },
+    "mais": {
+      "key": "mais",
+      "name": "mais",
+      "x": 0.6730746552332013,
+      "y": 0.6442478876423843,
+      "at": 1790679727456
+    },
+    "toi": {
+      "key": "toi",
+      "name": "toi",
+      "x": 0.6743069374920584,
+      "y": 0.6453340338641333,
+      "at": 1790679875469
+    },
+    "toit de la maison": {
+      "key": "toit de la maison",
+      "name": "Toit de la maison",
+      "x": 0.8066262237696504,
+      "y": 0.38592892480555546,
+      "at": 1790679881627
+    },
+    "campe": {
+      "key": "campe",
+      "name": "Campe",
+      "x": 0.3673249448899471,
+      "y": 0.6876866554485311,
+      "at": 1790680462682
+    },
+    "campement": {
+      "key": "campement",
+      "name": "Campement",
+      "x": 0.6717007189923201,
+      "y": 0.5908341331116876,
+      "at": 1790680464203
+    },
+    "tr": {
+      "key": "tr",
+      "name": "tr",
+      "x": 0.5721124087954201,
+      "y": 0.5552587281219041,
+      "at": 1790680616278
     }
   },
   "father": [
