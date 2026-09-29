@@ -2333,6 +2333,52 @@
       ],
       "createdAt": 1790680744781,
       "updatedAt": 1790680992559
+    },
+    {
+      "id": "auto_disc-ev-meteors",
+      "template": "celeste",
+      "title": "Événement céleste : Pluie de météores",
+      "dateRP": "",
+      "place": "Observatoire de Kagura",
+      "peopleIds": [],
+      "type": "astronomie",
+      "mood": "",
+      "text": "Relevé automatique de l’observatoire de Kumogakure.\n\nDes grains de poussière laissés par une comète entrent dans l’atmosphère à des dizaines de km/s et s’y consument vers 80 à 120 km d’altitude. Les traînées semblent partir d’un même point : le radiant.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [
+        "ev-meteors"
+      ],
+      "consequences": "",
+      "tags": [
+        "Événement céleste"
+      ],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "celeste": {
+        "time": "",
+        "weather": "Ciel dégagé",
+        "visibility": 4,
+        "moon": 0,
+        "bodies": "",
+        "constellations": [],
+        "phenomenon": "Pluie de météores — Des traînées partent toutes du même point : le radiant.",
+        "kaguraNotes": "Des grains de sable. Pas des étoiles qui tombent."
+      },
+      "images": [],
+      "margin": [],
+      "createdAt": 1790686518883,
+      "updatedAt": 1790686518883,
+      "auto": {
+        "key": "disc:ev-meteors"
+      }
     }
   ],
   "characters": [
