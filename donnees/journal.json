@@ -1695,6 +1695,49 @@
       "auto": {
         "key": "disc:ev-storm"
       }
+    },
+    {
+      "id": "e_mumey2sfm9ewx",
+      "template": "journal",
+      "title": "Analyse de combat avec Genma",
+      "dateRP": "",
+      "place": "Terrain d’entraînement",
+      "peopleIds": [
+        "p_mulgtqwlrruus",
+        "kagura"
+      ],
+      "type": "entrainement",
+      "mood": "",
+      "text": "Genma a rejoué un enchaînement, une seule fois, puis a posé ses questions.\n\n— À quel moment sa garde est‑elle tombée ? Au deuxième mouvement ✗ (Au quatrième mouvement)\n— De quel côté a‑t‑il esquivé ? Vers sa gauche ✓\n— Quelle main a frappé ? La main droite ✗ (La main gauche)\n— Avec quel pied a‑t‑il donné le coup de pied ? Le pied gauche ✓\n— Quelle ouverture est apparue ? la tête (il frappe bas, la garde suit) ✗ (le flanc droit (la main gauche est partie, la garde était basse))\n\n2 sur 5. Ce que j’ai raté, c’est ce que je n’ai pas regardé : les pieds avant les mains, la garde avant le coup.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [],
+      "consequences": "",
+      "tags": [
+        "Observation",
+        "Combat",
+        "activité"
+      ],
+      "important": false,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [],
+      "margin": [],
+      "createdAt": 1790670440607,
+      "updatedAt": 1790670447096,
+      "f": {
+        "techniques": [
+          "Lecture des mouvements"
+        ],
+        "progres": "regarder les pieds",
+        "duree": "54 s"
+      }
     }
   ],
   "characters": [
@@ -1764,6 +1807,7 @@
     },
     {
       "id": "p_mulrff2mte9de",
+      "name": "Mère de Kagura",
       "clan": "Arashi",
       "village": "Kumo",
       "relation": "famille",
@@ -1771,11 +1815,11 @@
       "firstMeeting": "",
       "notes": "Ma mère c'est la meilleur, elle fait tout bien. Elle ne rate jamais rien. Elle est trop forte pour ce monde finalement",
       "createdAt": 1790630938894,
-      "name": "Mère de Kagura",
       "updatedAt": 1790631019979
     },
     {
       "id": "p_mulrvogwoyyqh",
+      "name": "Petit frère",
       "clan": "Arashi",
       "village": "Kumo",
       "relation": "famille",
@@ -1783,11 +1827,11 @@
       "firstMeeting": "",
       "notes": "C'est mon petit frère, il veut malheureusement grandir trop vite mais je le comprend, il veut juste pas être mis a l'écart, rien de pire pour un guerrier.",
       "createdAt": 1790631697568,
-      "name": "Petit frère",
       "updatedAt": 1790631751255
     },
     {
       "id": "p_muls70sqohdkv",
+      "name": "2 autres",
       "clan": "",
       "village": "",
       "relation": "inconnu",
@@ -1795,7 +1839,6 @@
       "firstMeeting": "",
       "notes": "",
       "createdAt": 1790632226762,
-      "name": "2 autres",
       "updatedAt": 1790632226762
     }
   ],
@@ -1918,6 +1961,13 @@
       "x": 0.4414681810050896,
       "y": 0.4600358909244907,
       "at": 1790631308844
+    },
+    "terrain d'entrainement": {
+      "key": "terrain d'entrainement",
+      "name": "Terrain d’entraînement",
+      "x": 0.6133870036838079,
+      "y": 0.16195727211512445,
+      "at": 1790670441568
     }
   },
   "father": [
@@ -1927,6 +1977,7 @@
       "kind": "recherche",
       "date": "17/06/786",
       "text": "Plusieurs relevés effectués sur les hauteurs orientales de Kumo présentent une anomalie récurrente. Dans les instants précédant certaines décharges visibles, l'intensité du champ électrique local connaît une variation brutale.\nCette variation n'annonce pas nécessairement un impact. Plusieurs événements similaires ont été enregistrés sans décharge nuage-sol immédiatement observable. Il serait donc incorrect d'en faire un indicateur suffisant.\nL'hypothèse actuelle est que ces variations correspondent à une réorganisation locale des charges à l'intérieur de la cellule orageuse.\nLa difficulté reste la mesure. Les instruments actuels réagissent trop lentement et les relevés obtenus depuis différents points d'observation présentent des écarts importants.\nProchaine étape. Installer trois stations autour de la vallée et synchroniser leurs mesures.\nSi le phénomène apparaît simultanément sur plusieurs instruments, l'origine atmosphérique pourra être considérée comme beaucoup plus probable.\nNe pas chercher à prédire l'éclair.\nComprendre d'abord ce qui le précède.",
+      "imageId": "img_mullk4vc988r0",
       "annotations": [
         {
           "id": "a_mullkrlrwm70i",
@@ -1940,8 +1991,7 @@
         }
       ],
       "createdAt": 1790620813121,
-      "updatedAt": 1790621125403,
-      "imageId": "img_mullk4vc988r0"
+      "updatedAt": 1790621125403
     },
     {
       "id": "f_mulm33zd9ztdr",
@@ -1949,10 +1999,10 @@
       "kind": "recherche",
       "date": "09/02/787",
       "text": "Observer un astre ne signifie pas seulement déterminer où il se trouve dans le ciel. La véritable difficulté commence lorsque l'on cherche à savoir où il se trouve dans l'espace.\nUne étoile proche observée depuis deux positions suffisamment éloignées ne semble pas occuper exactement la même position devant les étoiles plus lointaines.\nLe déplacement est infime.\nSuffisamment faible pour disparaître entièrement dans les erreurs de mesure si l'instrument est mal calibré.\nJ'ai donc commencé une série d'observations répétées depuis les stations Nord et Est de Kumo.\nChaque mesure doit être effectuée avec les mêmes étoiles de référence. Les variations dues à l'atmosphère doivent être relevées séparément. Une mesure isolée ne prouve rien.\nSi le déplacement apparent observé est réel et reproductible, la géométrie devrait permettre d'estimer la distance de l'astre.\nC'est probablement ce qui me fascine le plus.\nNous sommes incapables de nous rendre jusqu'à cette étoile.\nNous pouvons pourtant mesurer la distance qui nous en sépare.\nIl existe des endroits que nous ne toucherons peut-être jamais.\nCela ne signifie pas qu'ils doivent rester inconnus.",
+      "imageId": "img_mulm6rx8nhr37",
       "annotations": [],
       "createdAt": 1790621966569,
-      "updatedAt": 1790622139741,
-      "imageId": "img_mulm6rx8nhr37"
+      "updatedAt": 1790622139741
     },
     {
       "id": "f_mulm8tgv6fvog",
@@ -1960,10 +2010,10 @@
       "kind": "recherche",
       "date": "23/04/788",
       "text": "Une étoile ne nous offre presque rien.\nNous ne pouvons pas la toucher. Nous ne pouvons pas en prélever un fragment. Pour la plupart d'entre elles, nous ne pouvons même pas espérer nous en approcher.\nPourtant, elles nous envoient continuellement quelque chose.\nLeur lumière.\nJ'ai commencé à décomposer la lumière de plusieurs étoiles observables depuis Kumo. Le résultat n'est jamais parfaitement identique. Certaines présentent une dominante plus chaude. D'autres tirent davantage vers le blanc ou le bleu.\nPlus intéressant encore, leur lumière décomposée n'est pas continue. Certaines longueurs semblent manquer ou être fortement diminuées.\nCes lignes se reproduisent lors d'observations successives du même astre.\nElles ne peuvent donc pas être considérées comme de simples défauts instrumentaux.\nMon hypothèse actuelle est que la lumière transporte une trace des conditions physiques de l'endroit dont elle provient.\nSi cette hypothèse est correcte, observer une étoile ne consiste plus seulement à déterminer sa position.\nIl devrait être possible d'obtenir des informations sur un objet inaccessible uniquement à partir de la lumière qu'il nous envoie.\nIl reste cependant un problème important.\nL'atmosphère située entre l'astre et l'instrument modifie elle aussi le signal reçu. Il faut donc apprendre à distinguer ce qui appartient réellement à l'étoile de ce qui appartient au ciel de Kumo.\nProchaine étape.\nObserver la même étoile à plusieurs altitudes et comparer les spectres obtenus.\nPuis répéter.\nUne différence observée une fois est intéressante.\nUne différence qui revient est une donnée.",
+      "imageId": "img_mulmbhrgc5sdw",
       "annotations": [],
       "createdAt": 1790622232879,
-      "updatedAt": 1790622360067,
-      "imageId": "img_mulmbhrgc5sdw"
+      "updatedAt": 1790622360067
     },
     {
       "id": "f_mulmbl3didlap",
@@ -1971,10 +2021,10 @@
       "kind": "astronomie",
       "date": "11/09/789",
       "text": "Une erreur revient souvent lorsque nous observons le ciel.\nNous confondons ce qui paraît immobile avec ce qui l’est réellement.\nUne étoile observée pendant une seule nuit semble conserver sa place parmi les autres. Même après plusieurs semaines, les changements peuvent être trop faibles pour être remarqués à l’œil.\nJ’ai donc comparé plusieurs relevés astrométriques réalisés à plusieurs années d’intervalle.\nCertaines étoiles présentent un déplacement mesurable par rapport aux objets beaucoup plus lointains utilisés comme références.\nCe déplacement est extrêmement faible.\nMais il existe.\nIl faut cependant distinguer plusieurs phénomènes.\nLe mouvement apparent provoqué par notre propre position d’observation ne doit pas être confondu avec le déplacement réel de l’étoile.\nLa parallaxe nous renseigne sur la distance.\nLe mouvement propre nous renseigne sur le déplacement apparent de l’astre à travers le ciel au fil du temps.\nLes deux effets peuvent apparaître simultanément dans les mesures.\nIl faut donc les séparer.\nJ’ai commencé à comparer les positions de vingt-sept étoiles relativement brillantes avec mes plus anciens relevés.\nTrois présentent pour l’instant un déplacement suffisamment important pour dépasser clairement la marge d’erreur de mes instruments.\nUne quatrième reste incertaine.\nIl faudra plusieurs années supplémentaires pour obtenir une conclusion satisfaisante.\nC’est probablement l’aspect le plus frustrant de l’astronomie.\nCertaines expériences peuvent être répétées demain.\nCertaines réponses exigent simplement d’attendre.\nLe scientifique n’a alors aucun moyen d’accélérer les choses.\nIl doit devenir patient.\nPeut-être est-ce finalement l’une des choses les plus importantes que le ciel puisse nous apprendre.\nRien là-haut n’est véritablement figé.\nNous sommes simplement trop petits et trop pressés pour voir certains mouvements.\n\n783 •\n      ↘\n785   •\n        ↘\n787     •\n          ↘\n789       •",
+      "imageId": "img_mulmgakedvcei",
       "annotations": [],
       "createdAt": 1790622361993,
-      "updatedAt": 1790622583709,
-      "imageId": "img_mulmgakedvcei"
+      "updatedAt": 1790622583709
     },
     {
       "id": "f_mulmd9isb4m8j",
@@ -1982,10 +2032,10 @@
       "kind": "inachevee",
       "date": "04/08/790",
       "text": "Plusieurs séries de mesures montrent une augmentation de l’activité électrique avant certaines décharges.\nPourtant, sur plusieurs événements, un phénomène inverse semble apparaître immédiatement avant l’éclair.\nPendant une période extrêmement courte, certains instruments enregistrent une stabilisation presque totale.\nJe l’ai d’abord considérée comme une erreur.\nAprès vérification, le phénomène apparaît sur quatre relevés différents.\nPourquoi une atmosphère électriquement instable présenterait-elle soudainement une période aussi calme juste avant une décharge\nPeut-être ne s’agit-il pas d’un véritable calme.\nPeut-être mes instruments deviennent-ils momentanément incapables de mesurer ce qui se produit.\nIl faudrait augmenter considérablement la fréquence des mesures.\nConstruire un nouvel enregistreur.\nComparer simultanément trois stations.\nVérifier si le phénomène existe également lors des éclairs intranuageux.\nPour l’instant, impossible de conclure.\n\nEt si ce silence n’était pas une absence d’activité mais le signe que quelque chose vient de commencer ?",
+      "imageId": "img_mulmlx6u5dq0b",
       "annotations": [],
       "createdAt": 1790622440308,
-      "updatedAt": 1790622877223,
-      "imageId": "img_mulmlx6u5dq0b"
+      "updatedAt": 1790622877223
     },
     {
       "id": "f_mulmlz41jkthq",
@@ -1993,10 +2043,10 @@
       "kind": "inachevee",
       "date": "19/01/789",
       "text": "Lorsque nous observons une étoile, nous ne l’observons jamais telle qu’elle est au moment où nous la regardons.\nSa lumière a voyagé.\nLa distance devient donc également une mesure du temps.\nCette idée possède une conséquence troublante.\nCertaines étoiles visibles dans notre ciel pourraient avoir changé depuis longtemps.\nCertaines pourraient même ne plus exister sous la forme que nous observons.\nPourtant leur lumière continuerait son voyage jusqu’à nous.\nRegarder suffisamment loin reviendrait donc à regarder suffisamment loin dans le passé.\nJusqu’où\nExiste-t-il une limite au-delà de laquelle la lumière n’a simplement pas encore eu suffisamment de temps pour nous atteindre\nEt si cette limite existe, qu’y a-t-il derrière\nJe manque de données.\nEt probablement de plusieurs connaissances fondamentales.\n\nPeut-être que certaines questions arrivent simplement trop tôt ?",
+      "imageId": "img_mulmoq4ogu4ib",
       "annotations": [],
       "createdAt": 1790622846721,
-      "updatedAt": 1790623019490,
-      "imageId": "img_mulmoq4ogu4ib"
+      "updatedAt": 1790623019490
     },
     {
       "id": "f_mulmp0dx2yalf",
@@ -2004,10 +2054,10 @@
       "kind": "inachevee",
       "date": "27/05/790",
       "text": "Trois stations ont enregistré une perturbation électrique importante cette nuit.\nAucun cumulonimbus n’était visible au-dessus de Kumo.\nAucun tonnerre.\nAucune précipitation.\nAucun éclair observé.\nJ’ai supposé une panne.\nLes trois instruments présentent pourtant la même variation avec un décalage temporel cohérent.\nUne perturbation provenant d’un orage suffisamment éloigné\nUne activité électrique en altitude\nUne interférence liée au chakra\nUne erreur commune aux trois appareils\nImpossible à déterminer.\nReproduire l’observation semble également impossible puisque je ne connais pas la cause du phénomène.\n\nQuelque chose a traversé le réseau de mesure cette nuit. Je ne sais simplement pas quoi ?",
+      "imageId": "img_mulmrcpzvfh68",
       "annotations": [],
       "createdAt": 1790622988341,
-      "updatedAt": 1790623099311,
-      "imageId": "img_mulmrcpzvfh68"
+      "updatedAt": 1790623099311
     },
     {
       "id": "f_mulmrtzxzqx1b",
@@ -2015,10 +2065,10 @@
       "kind": "inachevee",
       "date": "07/06/787",
       "text": "Les différences de spectre, de luminosité et de température suggèrent que toutes les étoiles ne se trouvent pas dans le même état.\nIl serait tentant de simplement les considérer comme différentes catégories d’objets.\nPourtant une autre possibilité existe.\nEt si nous observions différentes étapes d’un même phénomène\nUne étoile pourrait-elle changer avec le temps\nNaître\névoluer\npuis disparaître\nLes échelles temporelles nécessaires rendent l’observation directe presque impossible.\nIl faut donc chercher ailleurs.\nComparer des milliers d’étoiles.\nTrouver des groupes présentant des propriétés intermédiaires.\nReconstruire une évolution que personne ne pourra observer entièrement au cours d’une seule vie.\nJe n’ai pas encore suffisamment de données.\n\nNous ne pouvons peut-être pas regarder une étoile vieillir. Mais nous pouvons regarder des milliers d’étoiles d’âges différents ?",
+      "imageId": "img_mulmu9g0sx8qw",
       "annotations": [],
       "createdAt": 1790623120029,
-      "updatedAt": 1790623233767,
-      "imageId": "img_mulmu9g0sx8qw"
+      "updatedAt": 1790623233767
     },
     {
       "id": "f_mulmuuqv6bcwp",
@@ -2026,10 +2076,10 @@
       "kind": "inachevee",
       "date": "02/12/789",
       "text": "Certaines régions du ciel contiennent beaucoup plus de sources lumineuses que ce que mes premières observations suggéraient.\nLorsque la sensibilité de l’instrument augmente, de nouveaux points apparaissent.\nPuis d’autres.\nPuis encore d’autres.\nLa question devient évidente.\nSi je construisais un instrument dix fois plus sensible, combien en apparaîtrait-il\nEt cent fois\nExiste-t-il réellement un espace vide entre les étoiles ou seulement des objets que nous sommes incapables de détecter\nLa limite que nous observons appartient peut-être davantage à nos instruments qu’au ciel lui-même.\n\nConstruire un miroir plus grand. Beaucoup plus grand.\n\nOù est-ce que je suis censé mettre ça ?",
+      "imageId": "img_mulmwfej5go8g",
       "annotations": [],
       "createdAt": 1790623260967,
-      "updatedAt": 1790623336613,
-      "imageId": "img_mulmwfej5go8g"
+      "updatedAt": 1790623336613
     },
     {
       "id": "f_mulmwye9t9024",
@@ -2037,10 +2087,10 @@
       "kind": "inachevee",
       "date": "15/03/774",
       "text": "Corrélation Électrique entre Raiton et Charges Atmosphériques\n\nLes expériences précédentes reposaient sur une erreur de méthode.\nJ’ai traité le chakra Raiton comme une simple source électrique.\nCe modèle est insuffisant.\nDeux décharges présentant une énergie comparable ne produisent pas nécessairement les mêmes perturbations lorsqu’une des deux provient d’un utilisateur de Raiton.\nLe chakra semble introduire une variable supplémentaire.\nLa question n’est donc plus\n« Le Raiton produit-il de l’électricité »\nmais\n« Dans quelle mesure une transformation Raiton modifie-t-elle les conditions permettant à une décharge électrique de se former »\nPlusieurs essais montrent une modification locale mesurable.\nMais les résultats sont irréguliers.\nTrop irréguliers.\nLe niveau de maîtrise du sujet semble influencer considérablement les mesures.\nIl faudrait répéter l’expérience avec plusieurs membres du clan Arashi.\n\nIntensité du chakra\n≠\nintensité électrique\n?\nForme\nfréquence\ncontrôle\naffinité\nautre variable\n\nSi cette hypothèse est correcte, un shinobi suffisamment compétent ne créerait peut-être pas seulement une décharge. Il pourrait influencer le milieu dans lequel elle apparaît.",
+      "imageId": "img_muln0h249piei",
       "annotations": [],
       "createdAt": 1790623359009,
-      "updatedAt": 1790623525551,
-      "imageId": "img_muln0h249piei"
+      "updatedAt": 1790623525551
     },
     {
       "id": "f_muln0jony8itv",
@@ -2048,6 +2098,7 @@
       "kind": "inachevee",
       "date": "774",
       "text": "Orage 31\nactivité électrique normale\nOrage 32\nnormale\nOrage 33\nnormale\nOrage 34\nanomalie\nOrage 35\nnormale\nOrage 36\n\nLes anomalies apparaissent uniquement lorsque…\n\nVérifier présence Arashi\n\nImpossible que ce soit une coïncidence après six occurrences.\n\nNe pas continuer avant d’avoir compris le mécanisme.",
+      "imageId": "img_muln3il7fftkm",
       "annotations": [
         {
           "id": "a_muln2pvcpda75",
@@ -2066,8 +2117,7 @@
         }
       ],
       "createdAt": 1790623526567,
-      "updatedAt": 1790623668219,
-      "imageId": "img_muln3il7fftkm"
+      "updatedAt": 1790623668219
     }
   ],
   "settings": {

@@ -45,5 +45,51 @@
   },
   "grandAt": 0,
   "resetAt": 0,
-  "updatedAt": 1790637115596
+  "updatedAt": 1790670440607,
+  "acts": {
+    "v": 1,
+    "rec": {
+      "analyse": {
+        "plays": 1,
+        "first": 1790670436247,
+        "last": 1790670436247,
+        "best": {
+          "*": {
+            "score": 40,
+            "outcome": "rate",
+            "stats": {
+              "justes": 2,
+              "total": 5,
+              "temps": 54
+            },
+            "summary": "Analyse : 2/5 bonnes réponses",
+            "id": "p_mumexzfb9x5jt",
+            "at": 1790670436247,
+            "journalId": "e_mumey2sfm9ewx"
+          }
+        },
+        "history": [
+          {
+            "score": 40,
+            "outcome": "rate",
+            "stats": {
+              "justes": 2,
+              "total": 5,
+              "temps": 54
+            },
+            "summary": "Analyse : 2/5 bonnes réponses",
+            "id": "p_mumexzfb9x5jt",
+            "at": 1790670436247,
+            "journalId": "e_mumey2sfm9ewx"
+          }
+        ]
+      }
+    },
+    "sets": {},
+    "counters": {},
+    "souvenirs": {},
+    "markers": {},
+    "sketches": {},
+    "at": 1790670440607
+  }
 }
