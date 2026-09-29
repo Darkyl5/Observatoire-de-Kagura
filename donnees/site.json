@@ -2,8 +2,8 @@
   "format": "kagura-site",
   "version": 1,
   "titre": "Les Sciences du Ciel — Kagura Arashi",
-  "misAJour": "2026-09-29T13:56:25.123Z",
-  "revision": 35,
+  "misAJour": "2026-09-29T14:20:15.172Z",
+  "revision": 36,
   "journal": "journal.json",
   "archives": "archives.json",
   "progression": "progression.json",
@@ -36,6 +36,7 @@
     "img_mumkg4ufixqo9": "images/img_mumkg4ufixqo9.jpg",
     "img_mumkv7y5znv9p": "images/img_mumkv7y5znv9p.jpg",
     "img_muml7q2x6779i": "images/img_muml7q2x6779i.jpg",
+    "img_mumrbs5qww2b8": "images/img_mumrbs5qww2b8.jpg",
     "img_mulbt10qc0jx6": "images/img_mulbt10qc0jx6.jpg",
     "img_mulircb1aspty": "images/img_mulircb1aspty.jpg",
     "img_muljrhta50w5p": "images/img_muljrhta50w5p.jpg",
@@ -49,6 +50,8 @@
     "img_mulmu9g0sx8qw": "images/img_mulmu9g0sx8qw.jpg",
     "img_mulmwfej5go8g": "images/img_mulmwfej5go8g.jpg",
     "img_muln0h249piei": "images/img_muln0h249piei.jpg",
-    "img_muln3il7fftkm": "images/img_muln3il7fftkm.jpg"
+    "img_muln3il7fftkm": "images/img_muln3il7fftkm.jpg",
+    "img_mumrg7l90vldk": "images/img_mumrg7l90vldk.jpg",
+    "img_mumrcgo9lk1cu": "images/img_mumrcgo9lk1cu.jpg"
   }
 }

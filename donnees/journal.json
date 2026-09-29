@@ -2416,6 +2416,42 @@
       "auto": {
         "key": "exo:1"
       }
+    },
+    {
+      "id": "auto_orbit-stable",
+      "template": "journal",
+      "title": "Mécanique céleste : orbite presque circulaire",
+      "dateRP": "",
+      "place": "Observatoire de Kagura",
+      "peopleIds": [],
+      "type": "sciences",
+      "mood": "",
+      "text": "Relevé automatique de l’observatoire de Kumogakure.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [
+        "ob-circular"
+      ],
+      "consequences": "",
+      "tags": [
+        "Mécanique céleste"
+      ],
+      "important": false,
+      "scientific": true,
+      "science": {
+        "hypothesis": "",
+        "observation": "Une orbite est circulaire quand la vitesse est perpendiculaire au rayon et vaut exactement v = √(GM/r). Plus lente : la planète tombe vers une ellipse ; plus rapide : l’ellipse s’allonge vers l’extérieur.",
+        "experiment": "",
+        "result": "",
+        "conclusion": "v_circ = √(GM / r)"
+      },
+      "images": [],
+      "margin": [],
+      "createdAt": 1790691591176,
+      "updatedAt": 1790691591176,
+      "auto": {
+        "key": "orbit:stable"
+      }
     }
   ],
   "characters": [
@@ -2430,7 +2466,8 @@
       "notes": "Genin de Kumogakure. Affinité Raiton. Passionné par les Sciences du Ciel.",
       "self": true,
       "createdAt": 1,
-      "updatedAt": 0
+      "updatedAt": 1790691235811,
+      "portraitId": "img_mumrbs5qww2b8"
     },
     {
       "id": "p_mulbs7dz2rkdu",
@@ -2440,10 +2477,11 @@
       "relation": "superieur",
       "relationText": "Chef Hôpital et de la section scientifique",
       "firstMeeting": "",
-      "notes": "Il est chiant ",
+      "notes": "Il parait vraiment étrange a première vu, toujours fourrer avec ça luciole, il lui parle parfois ? Bref il est assez étrange mais bon, aux yeux de certaines personne je parais étrange je pense.  ",
       "portraitId": "img_mulbt10qc0jx6",
       "createdAt": 1790604661607,
-      "updatedAt": 1790604706927
+      "updatedAt": 1790690874087,
+      "rel": []
     },
     {
       "id": "p_mulgtqwlrruus",
@@ -2481,7 +2519,8 @@
       "firstMeeting": "",
       "notes": "Mon père est probablement la première personne qui m’a appris qu’on pouvait passer des heures à regarder quelque chose sans forcément s’ennuyer.\nIl est passionné par les Sciences du Ciel depuis bien avant ma naissance. Astronomie, astrométrie, météorologie, électricité atmosphérique et probablement encore une dizaine de domaines dont je ne comprends même pas le nom. Son bureau est constamment rempli de cartes, de calculs, de morceaux d’instruments et de carnets. Il affirme qu’il sait exactement où tout se trouve. Je suis presque certain que c’est faux.\nC’est lui qui m’a appris à reconnaître mes premières étoiles et mes premières constellations. Quand j’étais plus petit, je pensais qu’il connaissait absolument tout sur le ciel. Maintenant je sais que ce n’est pas vrai. Ce qui est encore pire parce que lorsqu’il ne connaît pas quelque chose, il devient immédiatement obsédé par l’idée de le comprendre.\nJe crois que j’ai hérité ça de lui.\nIl ne me donne pas toujours les réponses. C’est même particulièrement énervant. Il préfère me donner une piste puis attendre que je trouve le reste moi-même. Quand je lui demande pourquoi, il répond que connaître une réponse et comprendre une réponse sont deux choses différentes.\nJe déteste quand ses phrases ont du sens.\nSes recherches sont beaucoup plus avancées que les miennes. J’ai essayé de lire certains de ses anciens carnets et je comprends parfois une page entière avant de tomber sur trois lignes de calculs qui me rappellent immédiatement que j’ai douze ans. J’en ai quand même recopié plusieurs. Je finirai par les comprendre.\nIl possède aussi les lunettes les plus ridicules jamais fabriquées. Elles sont énormes, lourdes et remplies de mécanismes. Il les utilise depuis des années pour ses observations. Je me suis moqué de lui tellement souvent à cause de ces lunettes qu’il serait probablement très satisfait de savoir que je commence à les trouver intéressantes.\nMais je ne lui dirai pas.\nPère n’est pas seulement celui qui m’a appris à regarder le ciel.\nC’est celui qui m’a appris que lorsqu’on ne comprend pas quelque chose, la bonne réponse n’est pas forcément de l’accepter.\nParfois, il suffit de continuer à regarder.\nEt de poser encore une question.",
       "createdAt": 1790619507454,
-      "updatedAt": 1790620604183
+      "updatedAt": 1790690447879,
+      "rel": []
     },
     {
       "id": "p_mulrff2mte9de",
@@ -2540,7 +2579,11 @@
       "name": "Observatoire de Kagura",
       "x": 0.838,
       "y": 0.205,
-      "at": 1790604774018
+      "at": 1790691442433,
+      "notes": "Moi coin, c'est l'endroit ou je passe le plus claire de mon temps quand je ne m'entraine pas, c'est le seul endroit qui peut faire en sorte que je ne sois pas exciter.",
+      "images": [
+        "img_mumrg7l90vldk"
+      ]
     },
     "hauteurs de kumogakure": {
       "key": "hauteurs de kumogakure",
@@ -2568,7 +2611,13 @@
       "name": "Maison familiale",
       "x": 0.6663183100722541,
       "y": 0.6060183478031292,
-      "at": 1790619463386
+      "at": 1790691267582,
+      "region": "pays de la foudre",
+      "village": "Kumogakure",
+      "notes": "J'ai envie de prendre mon Independence, mais j'ai peur de quitter mon foyer..",
+      "images": [
+        "img_mumrcgo9lk1cu"
+      ]
     },
     "maison": {
       "key": "maison",
