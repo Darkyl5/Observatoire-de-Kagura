@@ -587,12 +587,14 @@
       "sub": "",
       "title": "Brouillard et gouttelettes d'eau",
       "text": "",
-      "when": "786-04-18",
+      "when": "788-04-18",
       "until": "",
       "places": [
         "bibliotheque de kumogakure"
       ],
-      "people": [],
+      "people": [
+        "kagura"
+      ],
       "domains": [],
       "tags": [],
       "f": {
@@ -614,7 +616,8 @@
       "images": [],
       "from": "r:r_mun5iwfligb8a",
       "createdAt": 1790715955046,
-      "updatedAt": 1790715955046
+      "updatedAt": 1790785343006,
+      "parent": "b:meteorologie"
     },
     {
       "id": "r_mun61xj5q5b9v",
@@ -1072,6 +1075,71 @@
       "images": [],
       "createdAt": 1790783963790,
       "updatedAt": 1790784019163
+    },
+    {
+      "id": "r_muob96zni4w6l",
+      "kind": "savoir",
+      "sub": "",
+      "title": "Ce que la balance ne voit pas",
+      "text": "La balance n’a presque pas bougé quand j’ai pesé mon bocal après avoir essayé de capturer du brouillard. Au début, j’ai pensé que le nuage s’était échappé. Maintenant, je me demande si la différence était simplement trop petite pour la balance.\nJe n’ai pas réussi à peser un nuage. Mais je n’ai pas non plus prouvé qu’un nuage ne pesait rien.\nC’est énervant. Je pensais qu’une balance donnait une réponse, pas une nouvelle question.",
+      "when": "790-04-14",
+      "until": "",
+      "places": [
+        "maison familiale"
+      ],
+      "people": [],
+      "domains": [],
+      "tags": [],
+      "f": {},
+      "images": [],
+      "states": [
+        {
+          "v": "hypothese",
+          "ts": 1790785173155
+        }
+      ],
+      "createdAt": 1790785173155,
+      "updatedAt": 1790785327402,
+      "parent": "r:r_mun61lye8veen",
+      "sources": [
+        {
+          "type": "observe",
+          "note": "La balance est peut-être innocente. Moi aussi, j’espère."
+        }
+      ]
+    },
+    {
+      "id": "r_muobo1hlb9y41",
+      "kind": "savoir",
+      "sub": "",
+      "title": "Mes cheveux réagissent peut-être à l’humidité",
+      "text": "Mes cheveux étaient particulièrement impossibles à coiffer plusieurs jours où il a plu. Mais ils étaient aussi catastrophiques un jour où il n’a pas plu du tout.\nPère pense que je devrais m’intéresser à l’humidité plutôt qu’à la pluie. Pour l’instant, je ne l’ai pas mesurée. Je ne peux donc pas affirmer que c’est elle qui explique mes résultats.\nJe dois aussi reconnaître que dormir dessus et laisser Genma m’ébouriffer la tête n’aide probablement pas mon expérience.\nConclusion provisoire, ma tête n’est pas encore un instrument fiable.",
+      "when": "",
+      "until": "",
+      "places": [
+        "maison familiale"
+      ],
+      "people": [
+        "kagura",
+        "p_mulkmeimwm8xk"
+      ],
+      "domains": [],
+      "tags": [],
+      "f": {
+        "decouverte": true
+      },
+      "images": [],
+      "states": [
+        {
+          "v": "confirme",
+          "at": "787-07-17",
+          "ts": 1790785914336,
+          "note": "MES CHEVEUX SON MONTER"
+        }
+      ],
+      "createdAt": 1790785865865,
+      "updatedAt": 1790785982783,
+      "parent": "b:meteorologie"
     }
   ],
   "links": [
