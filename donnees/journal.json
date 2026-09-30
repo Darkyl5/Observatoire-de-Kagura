@@ -2502,6 +2502,87 @@
       "auto": {
         "key": "const:lyr"
       }
+    },
+    {
+      "id": "e_mun8w1pdu518f",
+      "template": "journal",
+      "title": "Duel au dojo contre Genma Arashi",
+      "dateRP": "",
+      "place": "Dojo de Kumo",
+      "peopleIds": [
+        "p_mulgtqwlrruus"
+      ],
+      "type": "combat",
+      "mood": "",
+      "text": "Duel d’entraînement, au premier qui touche trois fois. Perdu 2 à 3 en 16 échanges.\n\nCe que j’ai lu chez Genma Arashi : Quand mon Raiton est chargé, il esquive au lieu d’attaquer. Il observe un temps, puis frappe le tour suivant. Si je recule, il fonce.\n\n1. Attaquer / Reculer — Genma Arashi recule hors de portée.\n2. Reculer / Feinter — Je recule et charge le Raiton.\n3. Observer / Feinter — J’observe Genma Arashi — et je note. Compris : Quand mon Raiton est chargé, il esquive au lieu d’attaquer.\n4. Raiton / Esquiver — Genma Arashi plonge de côté : le Raiton fend l’air. Charge perdue.\n5. Feinter / Feinter — Deux feintes. Personne n’y croit.\n6. Attaquer / Attaquer — Échange. Je suis le plus rapide, Genma Arashi recule d’un pas.\n7. Esquiver / Attaquer — J’esquive l’attaque de Genma Arashi : une brèche s’ouvre.\n8. Observer / Feinter — J’observe Genma Arashi — et je note. Compris : Il observe un temps, puis frappe le tour suivant.\n9. Raiton / Observer — Genma Arashi regardait le ciel s’allumer dans ma main. Touché !\n10. Attaquer / Attaquer — Échange. Genma Arashi est plus rapide : touché.\n11. Observer / Attaquer — Je regardais ; Genma Arashi frappait. Touché — mais j’ai vu quelque chose. Compris : Si je recule, il fonce.\n12. Reculer / Esquiver — Je recule et charge le Raiton.\n13. Raiton / Esquiver — Genma Arashi plonge de côté : le Raiton fend l’air. Charge perdue.\n14. Attaquer / Reculer — Genma Arashi recule hors de portée.\n15. Reculer / Attaquer — Je recule ; Genma Arashi me poursuit sans me toucher.\n16. Feinter / Attaquer — Ma feinte tombe dans une vraie attaque de Genma Arashi : touché.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [],
+      "consequences": "",
+      "tags": [
+        "Duel",
+        "Stratégie",
+        "activité"
+      ],
+      "important": false,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [],
+      "margin": [],
+      "createdAt": 1790720734369,
+      "updatedAt": 1790720735305,
+      "f": {
+        "adversaires": [
+          "p_mulgtqwlrruus"
+        ],
+        "raison": "duel d’entraînement",
+        "techniques": [
+          "Raiton"
+        ],
+        "resultat": "defaite",
+        "decisif": "avoir observé avant d’agir",
+        "lecon": "j’ai attaqué avant de comprendre"
+      }
+    },
+    {
+      "id": "e_mun8yovsnzoy9",
+      "template": "journal",
+      "title": "Première victoire en duel contre Yuji Yotsuki",
+      "dateRP": "",
+      "place": "",
+      "peopleIds": [
+        "p_muljq3e03ufpg"
+      ],
+      "type": "combat",
+      "mood": "",
+      "text": "Yuji Yotsuki, au dojo, trois touches. Je l’ai lu avant de le battre.",
+      "notes": "",
+      "discoveries": "",
+      "discoveryIds": [],
+      "consequences": "",
+      "tags": [
+        "activité"
+      ],
+      "important": true,
+      "scientific": false,
+      "science": {
+        "hypothesis": "",
+        "observation": "",
+        "experiment": "",
+        "result": "",
+        "conclusion": ""
+      },
+      "images": [],
+      "margin": [],
+      "createdAt": 1790720857720,
+      "updatedAt": 1790720858648,
+      "first": "Première victoire en duel contre Yuji Yotsuki"
     }
   ],
   "characters": [
@@ -2516,10 +2597,10 @@
       "notes": "Genin de Kumogakure. Affinité Raiton. Passionné par les Sciences du Ciel.",
       "portraitId": "img_mumrbs5qww2b8",
       "self": true,
-      "createdAt": 1,
-      "updatedAt": 1790718512626,
       "birth": "784-05-18",
-      "grade": "genin"
+      "grade": "genin",
+      "createdAt": 1,
+      "updatedAt": 1790718512626
     },
     {
       "id": "p_mulbs7dz2rkdu",
@@ -2610,27 +2691,27 @@
     },
     {
       "id": "p_mun8jcjuvy854",
+      "name": "Maitre Raikage",
       "clan": "Arashi",
       "village": "Kumo",
       "relation": "superieur",
       "relationText": "Raikage de Kumo",
       "firstMeeting": "",
       "notes": "C'est le maitre Raikage, on sait pas grand chose sur lui, en tout cas je sais juste qu'il impose la classes ! Et surtout il est de mon clan donc j'ai encore plus de style. Je me demande si mes passions l'intéresserais un jour ? Peut être qu'il a les même que moi qui sait ? Je pense qu'il a d'autre occupations.",
-      "createdAt": 1790720141898,
-      "name": "Maitre Raikage",
-      "updatedAt": 1790720427347,
-      "role": "Raikage",
-      "grade": "kage",
-      "importance": 1,
-      "metAt": "789-05-09",
+      "portraitId": "img_mun8mun0fkz7i",
       "rel": [
         {
           "v": "superieur",
           "at": "789-05-09",
-          "ts": 1790720349024
+          "ts": 1790720585958
         }
       ],
-      "portraitId": "img_mun8mun0fkz7i"
+      "grade": "kage",
+      "role": "Raikage",
+      "importance": 1,
+      "metAt": "789-05-09",
+      "createdAt": 1790720141898,
+      "updatedAt": 1790720585958
     }
   ],
   "places": {
@@ -2818,6 +2899,13 @@
       "x": 0.5721124087954201,
       "y": 0.5552587281219041,
       "at": 1790680616278
+    },
+    "dojo de kumo": {
+      "key": "dojo de kumo",
+      "name": "Dojo de Kumo",
+      "x": 0.8459366488010592,
+      "y": 0.2763576343083116,
+      "at": 1790720735305
     }
   },
   "father": [
@@ -2840,14 +2928,14 @@
           "createdAt": 1790621125403
         }
       ],
-      "createdAt": 1790620813121,
-      "updatedAt": 1790712903314,
       "status": [
         {
           "v": "incomprehensible",
           "ts": 1790712903314
         }
-      ]
+      ],
+      "createdAt": 1790620813121,
+      "updatedAt": 1790712903314
     },
     {
       "id": "f_mulm33zd9ztdr",
@@ -2863,14 +2951,14 @@
           "createdAt": 1790692737587
         }
       ],
-      "createdAt": 1790621966569,
-      "updatedAt": 1790712912156,
       "status": [
         {
           "v": "a-revoir",
           "ts": 1790712912156
         }
-      ]
+      ],
+      "createdAt": 1790621966569,
+      "updatedAt": 1790712912156
     },
     {
       "id": "f_mulm8tgv6fvog",
@@ -2880,14 +2968,14 @@
       "text": "Une étoile ne nous offre presque rien.\nNous ne pouvons pas la toucher. Nous ne pouvons pas en prélever un fragment. Pour la plupart d'entre elles, nous ne pouvons même pas espérer nous en approcher.\nPourtant, elles nous envoient continuellement quelque chose.\nLeur lumière.\nJ'ai commencé à décomposer la lumière de plusieurs étoiles observables depuis Kumo. Le résultat n'est jamais parfaitement identique. Certaines présentent une dominante plus chaude. D'autres tirent davantage vers le blanc ou le bleu.\nPlus intéressant encore, leur lumière décomposée n'est pas continue. Certaines longueurs semblent manquer ou être fortement diminuées.\nCes lignes se reproduisent lors d'observations successives du même astre.\nElles ne peuvent donc pas être considérées comme de simples défauts instrumentaux.\nMon hypothèse actuelle est que la lumière transporte une trace des conditions physiques de l'endroit dont elle provient.\nSi cette hypothèse est correcte, observer une étoile ne consiste plus seulement à déterminer sa position.\nIl devrait être possible d'obtenir des informations sur un objet inaccessible uniquement à partir de la lumière qu'il nous envoie.\nIl reste cependant un problème important.\nL'atmosphère située entre l'astre et l'instrument modifie elle aussi le signal reçu. Il faut donc apprendre à distinguer ce qui appartient réellement à l'étoile de ce qui appartient au ciel de Kumo.\nProchaine étape.\nObserver la même étoile à plusieurs altitudes et comparer les spectres obtenus.\nPuis répéter.\nUne différence observée une fois est intéressante.\nUne différence qui revient est une donnée.",
       "imageId": "img_mulmbhrgc5sdw",
       "annotations": [],
-      "createdAt": 1790622232879,
-      "updatedAt": 1790712919564,
       "status": [
         {
           "v": "a-revoir",
           "ts": 1790712919564
         }
-      ]
+      ],
+      "createdAt": 1790622232879,
+      "updatedAt": 1790712919564
     },
     {
       "id": "f_mulmbl3didlap",
@@ -2908,14 +2996,14 @@
       "text": "Plusieurs séries de mesures montrent une augmentation de l’activité électrique avant certaines décharges.\nPourtant, sur plusieurs événements, un phénomène inverse semble apparaître immédiatement avant l’éclair.\nPendant une période extrêmement courte, certains instruments enregistrent une stabilisation presque totale.\nJe l’ai d’abord considérée comme une erreur.\nAprès vérification, le phénomène apparaît sur quatre relevés différents.\nPourquoi une atmosphère électriquement instable présenterait-elle soudainement une période aussi calme juste avant une décharge\nPeut-être ne s’agit-il pas d’un véritable calme.\nPeut-être mes instruments deviennent-ils momentanément incapables de mesurer ce qui se produit.\nIl faudrait augmenter considérablement la fréquence des mesures.\nConstruire un nouvel enregistreur.\nComparer simultanément trois stations.\nVérifier si le phénomène existe également lors des éclairs intranuageux.\nPour l’instant, impossible de conclure.\n\nEt si ce silence n’était pas une absence d’activité mais le signe que quelque chose vient de commencer ?",
       "imageId": "img_mulmlx6u5dq0b",
       "annotations": [],
-      "createdAt": 1790622440308,
-      "updatedAt": 1790712755878,
       "status": [
         {
           "v": "incomprehensible",
           "ts": 1790712755878
         }
-      ]
+      ],
+      "createdAt": 1790622440308,
+      "updatedAt": 1790712755878
     },
     {
       "id": "f_mulmlz41jkthq",
@@ -2975,8 +3063,6 @@
           "createdAt": 1790712848640
         }
       ],
-      "createdAt": 1790623359009,
-      "updatedAt": 1790712868758,
       "status": [
         {
           "v": "partielle",
@@ -2986,7 +3072,9 @@
           "v": "incomprehensible",
           "ts": 1790712868758
         }
-      ]
+      ],
+      "createdAt": 1790623359009,
+      "updatedAt": 1790712868758
     },
     {
       "id": "f_muln0jony8itv",
@@ -3012,14 +3100,14 @@
           "createdAt": 1790623639354
         }
       ],
-      "createdAt": 1790623526567,
-      "updatedAt": 1790712962090,
       "status": [
         {
           "v": "incomprehensible",
           "ts": 1790712962090
         }
-      ]
+      ],
+      "createdAt": 1790623526567,
+      "updatedAt": 1790712962090
     },
     {
       "id": "f_mun49lk321c2v",

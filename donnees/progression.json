@@ -54,7 +54,7 @@
   },
   "grandAt": 0,
   "resetAt": 0,
-  "updatedAt": 1790719755680,
+  "updatedAt": 1790720857720,
   "acts": {
     "v": 1,
     "rec": {
@@ -232,6 +232,107 @@
             "summary": "Astromètre (facile) : erreur moyenne 107,7° sur 3 astres"
           }
         ]
+      },
+      "duel": {
+        "plays": 2,
+        "first": 1790720729451,
+        "last": 1790720847008,
+        "best": {
+          "*": {
+            "id": "p_mun8ygm8a794i",
+            "at": 1790720847008,
+            "score": 269,
+            "mode": "c:p_muljq3e03ufpg",
+            "outcome": "victoire",
+            "stats": {
+              "adversaire": "Yuji Yotsuki",
+              "adversaireId": "p_muljq3e03ufpg",
+              "touches": "3-1",
+              "habitudes": 3,
+              "echanges": 14,
+              "temps": 84,
+              "seq": "orxeaofreoeaea"
+            },
+            "summary": "Victoire contre Yuji Yotsuki (3-1), 3 habitudes lues",
+            "revanche": true
+          },
+          "c:p_mulgtqwlrruus": {
+            "id": "p_mun8vxwrb1gpy",
+            "at": 1790720729451,
+            "score": 63,
+            "mode": "c:p_mulgtqwlrruus",
+            "outcome": "defaite",
+            "stats": {
+              "adversaire": "Genma Arashi",
+              "adversaireId": "p_mulgtqwlrruus",
+              "touches": "2-3",
+              "habitudes": 3,
+              "echanges": 16,
+              "temps": 127,
+              "seq": "aroxfaeoxaorxarf"
+            },
+            "summary": "Défaite contre Genma Arashi (2-3), 3 habitudes lues",
+            "journalId": "e_mun8w1pdu518f",
+            "revanche": true
+          },
+          "c:p_muljq3e03ufpg": {
+            "id": "p_mun8ygm8a794i",
+            "at": 1790720847008,
+            "score": 269,
+            "mode": "c:p_muljq3e03ufpg",
+            "outcome": "victoire",
+            "stats": {
+              "adversaire": "Yuji Yotsuki",
+              "adversaireId": "p_muljq3e03ufpg",
+              "touches": "3-1",
+              "habitudes": 3,
+              "echanges": 14,
+              "temps": 84,
+              "seq": "orxeaofreoeaea"
+            },
+            "summary": "Victoire contre Yuji Yotsuki (3-1), 3 habitudes lues",
+            "revanche": true
+          }
+        },
+        "history": [
+          {
+            "id": "p_mun8ygm8a794i",
+            "at": 1790720847008,
+            "score": 269,
+            "mode": "c:p_muljq3e03ufpg",
+            "outcome": "victoire",
+            "stats": {
+              "adversaire": "Yuji Yotsuki",
+              "adversaireId": "p_muljq3e03ufpg",
+              "touches": "3-1",
+              "habitudes": 3,
+              "echanges": 14,
+              "temps": 84,
+              "seq": "orxeaofreoeaea"
+            },
+            "summary": "Victoire contre Yuji Yotsuki (3-1), 3 habitudes lues",
+            "revanche": true
+          },
+          {
+            "id": "p_mun8vxwrb1gpy",
+            "at": 1790720729451,
+            "score": 63,
+            "mode": "c:p_mulgtqwlrruus",
+            "outcome": "defaite",
+            "stats": {
+              "adversaire": "Genma Arashi",
+              "adversaireId": "p_mulgtqwlrruus",
+              "touches": "2-3",
+              "habitudes": 3,
+              "echanges": 16,
+              "temps": 127,
+              "seq": "aroxfaeoxaorxarf"
+            },
+            "summary": "Défaite contre Genma Arashi (2-3), 3 habitudes lues",
+            "journalId": "e_mun8w1pdu518f",
+            "revanche": true
+          }
+        ]
       }
     },
     "sets": {
@@ -243,18 +344,40 @@
       },
       "pere-pages": {
         "polaris": 1790693089999
+      },
+      "duel-habitudes": {
+        "c:p_mulgtqwlrruus:peur-raiton": 1790720729451,
+        "c:p_mulgtqwlrruus:observe-puis-frappe": 1790720729451,
+        "c:p_mulgtqwlrruus:poursuit": 1790720729451,
+        "c:p_muljq3e03ufpg:blesse-recule": 1790720847008,
+        "c:p_muljq3e03ufpg:prudent": 1790720847008,
+        "c:p_muljq3e03ufpg:feinte-apres-esquive": 1790720847008
+      },
+      "duel-vaincus": {
+        "c:p_muljq3e03ufpg": 1790720847008
       }
     },
-    "counters": {},
+    "counters": {
+      "tpl:duel_rival": 1
+    },
     "souvenirs": {
       "pere-premiere-page": {
         "at": 1790693089999,
         "label": "Première page de Père entièrement comprise"
+      },
+      "duel-lecture": {
+        "at": 1790720847008,
+        "label": "Premier duel gagné en lisant l’adversaire (Yuji Yotsuki)"
+      },
+      "duel-premiere-p_muljq3e03ufpg": {
+        "at": 1790720847008,
+        "label": "Première victoire en duel contre Yuji Yotsuki",
+        "journalId": "e_mun8yovsnzoy9"
       }
     },
     "markers": {},
     "sketches": {},
-    "at": 1790693234521
+    "at": 1790720857720
   },
   "labo": {
     "v": 1,
@@ -283,114 +406,114 @@
     "epingles": {
       "pin_mun7nfltbe3d3": {
         "id": "pin_mun7nfltbe3d3",
-        "ref": "r:r_mun7l5ntauu13",
-        "label": "Enfin déchiffrer entièrement le carnet de mon père",
-        "order": 0,
         "createdAt": 1790718652865,
         "updatedAt": 1790718654101,
-        "deleted": true
+        "deleted": true,
+        "ref": "r:r_mun7l5ntauu13",
+        "label": "Enfin déchiffrer entièrement le carnet de mon père",
+        "order": 0
       },
       "pin_mun8aspvyh9eq": {
         "id": "pin_mun8aspvyh9eq",
+        "createdAt": 1790719742947,
+        "updatedAt": 1790719742947,
         "ref": "r:r_mun83lman2okp",
         "label": "Devenir le juge de Kumo !",
-        "order": 0,
-        "createdAt": 1790719742947,
-        "updatedAt": 1790719742947
+        "order": 0
       },
       "pin_mun8axc7soxj6": {
         "id": "pin_mun8axc7soxj6",
-        "ref": "r:r_mun806dxyi4ev",
-        "label": "Amener ma passions a mon clan",
-        "order": 1,
         "createdAt": 1790719748935,
         "updatedAt": 1790719754998,
-        "deleted": true
+        "deleted": true,
+        "ref": "r:r_mun806dxyi4ev",
+        "label": "Amener ma passions a mon clan",
+        "order": 1
       },
       "pin_mun8b2jki2t7v": {
         "id": "pin_mun8b2jki2t7v",
+        "createdAt": 1790719755680,
+        "updatedAt": 1790719755680,
         "ref": "r:r_mun806dxyi4ev",
         "label": "Amener ma passions a mon clan",
-        "order": 1,
-        "createdAt": 1790719755680,
-        "updatedAt": 1790719755680
+        "order": 1
       }
     },
     "enquete": {
       "pins": {
         "ep_mun7mzl8ktdkk": {
           "id": "ep_mun7mzl8ktdkk",
+          "createdAt": 1790718632108,
+          "updatedAt": 1790718632108,
           "ref": "c:p_mulkmeimwm8xk",
           "label": "Père de Kagura",
           "x": 0.6687553289414495,
-          "y": 0.7982631606078768,
-          "createdAt": 1790718632108,
-          "updatedAt": 1790718632108
+          "y": 0.7982631606078768
         },
         "ep_mun7nq5xgjftl": {
           "id": "ep_mun7nq5xgjftl",
+          "createdAt": 1790718666549,
+          "updatedAt": 1790718666549,
           "ref": "r:r_mun4y7dmbtv0u",
           "label": "Le carnet de père",
           "x": 0.20062672561219777,
-          "y": 0.5139277006892555,
-          "createdAt": 1790718666549,
-          "updatedAt": 1790718666549
+          "y": 0.5139277006892555
         },
         "ep_mun7o2pknq1ok": {
           "id": "ep_mun7o2pknq1ok",
+          "createdAt": 1790718682808,
+          "updatedAt": 1790718682808,
           "ref": "r:r_mun7l5ntauu13",
           "label": "Enfin déchiffrer entièrement le carnet de mon père",
           "x": 0.5487323784314505,
-          "y": 0.6268843860223754,
-          "createdAt": 1790718682808,
-          "updatedAt": 1790718682808
+          "y": 0.6268843860223754
         },
         "ep_mun7ochx3vae1": {
           "id": "ep_mun7ochx3vae1",
+          "createdAt": 1790718695493,
+          "updatedAt": 1790718695493,
           "ref": "r:r_mun52dngx6sh0",
           "label": "Pourquoi les Chinoike sont-il si obséder par le sang ?",
           "x": 0.17240383547770657,
-          "y": 0.44066931926451147,
-          "createdAt": 1790718695493,
-          "updatedAt": 1790718695493
+          "y": 0.44066931926451147
         },
         "ep_mun7omd1b2ug3": {
           "id": "ep_mun7omd1b2ug3",
+          "createdAt": 1790718708277,
+          "updatedAt": 1790718708277,
           "ref": "c:p_mulgtqwlrruus",
           "label": "Genma Arashi",
           "x": 0.16606206323990075,
-          "y": 0.650173976664972,
-          "createdAt": 1790718708277,
-          "updatedAt": 1790718708277
+          "y": 0.650173976664972
         },
         "ep_mun7p049x93o5": {
           "id": "ep_mun7p049x93o5",
+          "createdAt": 1790718726105,
+          "updatedAt": 1790718726105,
           "ref": "e:e_mumkqx2mjnieb",
           "label": "Le jour où Genma m’a félicité",
           "x": 0.39284483309867696,
-          "y": 0.4241206811663484,
-          "createdAt": 1790718726105,
-          "updatedAt": 1790718726105
+          "y": 0.4241206811663484
         }
       },
       "fils": {
         "ef_mun7nt3j6kj50": {
           "id": "ef_mun7nt3j6kj50",
+          "createdAt": 1790718670351,
+          "updatedAt": 1790718676351,
           "a": "ep_mun7nq5xgjftl",
           "b": "ep_mun7mzl8ktdkk",
           "etat": "hypothese",
-          "note": "",
-          "createdAt": 1790718670351,
-          "updatedAt": 1790718676351
+          "note": ""
         },
         "ef_mun7p412pq8qi": {
           "id": "ef_mun7p412pq8qi",
+          "createdAt": 1790718731174,
+          "updatedAt": 1790718732301,
           "a": "ep_mun7omd1b2ug3",
           "b": "ep_mun7p049x93o5",
           "etat": "confirme",
-          "note": "",
-          "createdAt": 1790718731174,
-          "updatedAt": 1790718732301
+          "note": ""
         }
       }
     },
