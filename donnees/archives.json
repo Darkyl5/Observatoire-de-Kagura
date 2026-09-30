@@ -1140,6 +1140,48 @@
       "createdAt": 1790785865865,
       "updatedAt": 1790785982783,
       "parent": "b:meteorologie"
+    },
+    {
+      "id": "r_muobu4sot54y1",
+      "kind": "hypothese",
+      "sub": "",
+      "title": "Père ne comprend enfaite rien a son propre carnet ?",
+      "text": "Je suspecte mon père de rien comprendre a son propre carnet ! ",
+      "when": "",
+      "until": "",
+      "places": [],
+      "people": [
+        "kagura",
+        "p_mulkmeimwm8xk"
+      ],
+      "domains": [],
+      "tags": [],
+      "f": {
+        "pour": [
+          {
+            "id": "li_muobwp2ewsh79",
+            "text": "Père sais trop de chose sur les sciences du ciel"
+          }
+        ],
+        "conclusion": "Il sais très bien ce qu'il a écrit mais se donne un style "
+      },
+      "images": [],
+      "states": [
+        {
+          "v": "refute",
+          "at": "793-06-23",
+          "note": "Il connait trop de chose pour que ça soit vrai",
+          "ts": 1790786214448
+        }
+      ],
+      "createdAt": 1790786150088,
+      "updatedAt": 1790786351228,
+      "sources": [
+        {
+          "type": "observe",
+          "note": "Je l'ai entendu lire a moitié"
+        }
+      ]
     }
   ],
   "links": [
