@@ -54,7 +54,7 @@
   },
   "grandAt": 0,
   "resetAt": 0,
-  "updatedAt": 1790720857720,
+  "updatedAt": 1790784105100,
   "acts": {
     "v": 1,
     "rec": {
@@ -462,20 +462,21 @@
         "ep_mun7o2pknq1ok": {
           "id": "ep_mun7o2pknq1ok",
           "createdAt": 1790718682808,
-          "updatedAt": 1790718682808,
+          "updatedAt": 1790784072907,
           "ref": "r:r_mun7l5ntauu13",
           "label": "Enfin déchiffrer entièrement le carnet de mon père",
-          "x": 0.5487323784314505,
-          "y": 0.6268843860223754
+          "x": 0.5431768228758949,
+          "y": 0.3786701003080896
         },
         "ep_mun7ochx3vae1": {
           "id": "ep_mun7ochx3vae1",
           "createdAt": 1790718695493,
-          "updatedAt": 1790718695493,
+          "updatedAt": 1790784105100,
           "ref": "r:r_mun52dngx6sh0",
           "label": "Pourquoi les Chinoike sont-il si obséder par le sang ?",
-          "x": 0.17240383547770657,
-          "y": 0.44066931926451147
+          "x": 0.8525625656364366,
+          "y": 0.25674074783594003,
+          "deleted": true
         },
         "ep_mun7omd1b2ug3": {
           "id": "ep_mun7omd1b2ug3",
@@ -489,21 +490,48 @@
         "ep_mun7p049x93o5": {
           "id": "ep_mun7p049x93o5",
           "createdAt": 1790718726105,
-          "updatedAt": 1790718726105,
+          "updatedAt": 1790784069727,
           "ref": "e:e_mumkqx2mjnieb",
           "label": "Le jour où Genma m’a félicité",
-          "x": 0.39284483309867696,
-          "y": 0.4241206811663484
+          "x": 0.10078134103518488,
+          "y": 0.9116206811663483
+        },
+        "ep_muoaibdx54syg": {
+          "id": "ep_muoaibdx54syg",
+          "ref": "r:r_mun7q8k10252q",
+          "label": "Devenir aussi fort que Genma",
+          "x": 0.0869586466804726,
+          "y": 0.2087350142169758,
+          "createdAt": 1790783919141,
+          "updatedAt": 1790784102629
+        },
+        "ep_muoakon6o394l": {
+          "id": "ep_muoakon6o394l",
+          "ref": "r:r_mun83lman2okp",
+          "label": "Connaitre le ciel dans ses moindres recoin.",
+          "x": 0.24256986583102835,
+          "y": 0.27815105757480063,
+          "createdAt": 1790784029634,
+          "updatedAt": 1790784029634
+        },
+        "ep_muoal898vug5v": {
+          "id": "ep_muoal898vug5v",
+          "ref": "r:r_muoaj9u6ibe3x",
+          "label": "J'aimerais être capable de m'envoler",
+          "x": 0.8076559602807085,
+          "y": 0.07112589040990863,
+          "createdAt": 1790784055052,
+          "updatedAt": 1790784066859
         }
       },
       "fils": {
         "ef_mun7nt3j6kj50": {
           "id": "ef_mun7nt3j6kj50",
           "createdAt": 1790718670351,
-          "updatedAt": 1790718676351,
+          "updatedAt": 1790784089695,
           "a": "ep_mun7nq5xgjftl",
           "b": "ep_mun7mzl8ktdkk",
-          "etat": "hypothese",
+          "etat": "confirme",
           "note": ""
         },
         "ef_mun7p412pq8qi": {
@@ -514,6 +542,33 @@
           "b": "ep_mun7p049x93o5",
           "etat": "confirme",
           "note": ""
+        },
+        "ef_muoaidrqsgjm9": {
+          "id": "ef_muoaidrqsgjm9",
+          "a": "ep_mun7omd1b2ug3",
+          "b": "ep_muoaibdx54syg",
+          "etat": "hypothese",
+          "note": "",
+          "createdAt": 1790783922230,
+          "updatedAt": 1790783931945
+        },
+        "ef_muoalbaxau6ky": {
+          "id": "ef_muoalbaxau6ky",
+          "a": "ep_muoal898vug5v",
+          "b": "ep_muoakon6o394l",
+          "etat": "hypothese",
+          "note": "",
+          "createdAt": 1790784059001,
+          "updatedAt": 1790784059001
+        },
+        "ef_muoalvsulnjfg": {
+          "id": "ef_muoalvsulnjfg",
+          "a": "ep_mun7nq5xgjftl",
+          "b": "ep_mun7o2pknq1ok",
+          "etat": "hypothese",
+          "note": "",
+          "createdAt": 1790784085566,
+          "updatedAt": 1790784085566
         }
       }
     },
@@ -525,6 +580,6 @@
       "at": 0
     },
     "celestes": {},
-    "updatedAt": 1790719755680
+    "updatedAt": 1790784105100
   }
 }

@@ -2678,18 +2678,6 @@
       "updatedAt": 1790631751255
     },
     {
-      "id": "p_muls70sqohdkv",
-      "name": "2 autres",
-      "clan": "",
-      "village": "",
-      "relation": "inconnu",
-      "relationText": "",
-      "firstMeeting": "",
-      "notes": "",
-      "createdAt": 1790632226762,
-      "updatedAt": 1790632226762
-    },
-    {
       "id": "p_mun8jcjuvy854",
       "name": "Maitre Raikage",
       "clan": "Arashi",
@@ -3132,7 +3120,8 @@
       "f:f_mulhi1kftjaal": 1790621048146,
       "e:e_mulktxauwdqmp": 1790621611226,
       "l:l_mulsxgdeui05u": 1790633463057,
-      "e:e_mulna1m1rpwk8": 1790636091545
+      "e:e_mulna1m1rpwk8": 1790636091545,
+      "c:p_muls70sqohdkv": 1790784197423
     }
   }
 }
