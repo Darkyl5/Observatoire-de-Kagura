@@ -37,28 +37,6 @@
       "updatedAt": 1790713512430
     },
     {
-      "id": "r_mulqgoe1j4m1t",
-      "kind": "technique",
-      "sub": "",
-      "title": "Ra",
-      "text": "",
-      "when": "792-11-30",
-      "until": "",
-      "places": [
-        "terrain d'entrainement de kumo"
-      ],
-      "people": [
-        "p_mulgtqwlrruus"
-      ],
-      "domains": [],
-      "tags": [],
-      "f": {},
-      "images": [],
-      "from": "e:e_mulqcipyqtw7w",
-      "createdAt": 1790629318009,
-      "updatedAt": 1790629318009
-    },
-    {
       "id": "r_mulqgz6v1kf08",
       "kind": "technique",
       "sub": "",
@@ -159,7 +137,7 @@
       "f": {
         "etat": "intact",
         "proprietaire": "p_mulkmeimwm8xk",
-        "importance": 3,
+        "importance": 5,
         "evenements": [
           "e:e_mulkuevid6n98",
           "e:auto_const-lyr"
@@ -174,7 +152,7 @@
       ],
       "important": true,
       "createdAt": 1790713088566,
-      "updatedAt": 1790713591290
+      "updatedAt": 1790786866267
     },
     {
       "id": "r_mun4pka883m2e",
@@ -444,78 +422,6 @@
       "from": "r:r_mun52dngx6sh0",
       "createdAt": 1790714548835,
       "updatedAt": 1790714548835
-    },
-    {
-      "id": "r_mun5d8698kkg9",
-      "kind": "hypothese",
-      "sub": "",
-      "title": "mamadou",
-      "text": "",
-      "when": "",
-      "until": "",
-      "places": [],
-      "people": [],
-      "domains": [],
-      "tags": [],
-      "f": {},
-      "states": [
-        {
-          "v": "faible",
-          "ts": 1790714817441
-        }
-      ],
-      "images": [],
-      "deletedAt": 1790715054571,
-      "createdAt": 1790714817441,
-      "updatedAt": 1790715054571
-    },
-    {
-      "id": "r_mun5dc7eo182e",
-      "kind": "hypothese",
-      "sub": "",
-      "title": "ryujin",
-      "text": "",
-      "when": "",
-      "until": "",
-      "places": [],
-      "people": [],
-      "domains": [],
-      "tags": [],
-      "f": {},
-      "states": [
-        {
-          "v": "faible",
-          "ts": 1790714822666
-        }
-      ],
-      "images": [],
-      "deletedAt": 1790715068915,
-      "createdAt": 1790714822666,
-      "updatedAt": 1790715068915
-    },
-    {
-      "id": "r_mun5gumejfje4",
-      "kind": "savoir",
-      "sub": "",
-      "title": "mamadou",
-      "text": "",
-      "when": "",
-      "until": "",
-      "places": [],
-      "people": [],
-      "domains": [],
-      "tags": [],
-      "f": {},
-      "states": [
-        {
-          "v": "hypothese",
-          "ts": 1790714986502
-        }
-      ],
-      "images": [],
-      "deletedAt": 1790715060273,
-      "createdAt": 1790714986502,
-      "updatedAt": 1790715060273
     },
     {
       "id": "r_mun5iwfligb8a",
@@ -1182,6 +1088,23 @@
           "note": "Je l'ai entendu lire a moitié"
         }
       ]
+    },
+    {
+      "id": "r_muoc7feqn4a8f",
+      "kind": "activite",
+      "sub": "observation",
+      "title": "Repérage des constellations",
+      "text": "",
+      "when": "790-09-03",
+      "until": "",
+      "places": [],
+      "people": [],
+      "domains": [],
+      "tags": [],
+      "f": {},
+      "images": [],
+      "createdAt": 1790786770370,
+      "updatedAt": 1790786770370
     }
   ],
   "links": [
@@ -1198,13 +1121,6 @@
       "b": "r:r_mun515avszoy1",
       "createdAt": 1790714744809,
       "updatedAt": 1790714744809
-    },
-    {
-      "id": "l_mun5dhnn13ta2",
-      "a": "r:r_mun5d8698kkg9",
-      "b": "r:r_mun5dc7eo182e",
-      "createdAt": 1790714829731,
-      "updatedAt": 1790714829731
     }
   ],
   "archive": {
